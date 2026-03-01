@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+
+# Raw snapshots can get large; keep generated normalized stats in git.
+data/raw/*.html

@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-03-01T22:04:44.233Z",
+  "rounds": 15,
+  "players": 77,
+  "events": [
+    {
+      "id": 1,
+      "slug": "open",
+      "name": "CLTC Open Box League"
+    }
+  ],
+  "notes": [
+    "Scraping event 1 (open)",
+    "open seed 25: cookie wall encountered, submitting consent.",
+    "Excluded rounds from stats: 7 (zero-activity), 19 (zero-activity), 24 (zero-activity)"
+  ]
+}

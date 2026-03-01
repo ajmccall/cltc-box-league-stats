@@ -1,0 +1,8344 @@
+[
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 1,
+    "roundLabel": "Winter 2022 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/1",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/1/GetGroupContent?drawID=1&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/1/GetGroupContent?drawID=2&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/1/GetGroupContent?drawID=3&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/1/GetGroupContent?drawID=4&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 60,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 3,
+        "points": 51,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 1,
+        "points": 45,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 0,
+        "losses": 6,
+        "points": 30,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 48,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 19,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 49,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Louise Warren",
+        "playerId": 21,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 41,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 2,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 3,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 0,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 46,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 25,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Annie Murphy",
+        "playerId": 24,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 9,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Steve Reilly",
+        "playerId": 31,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 27,
+    "fetchedAt": "2026-03-01T22:04:43.959Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 2,
+    "roundLabel": "Spring 2023 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/2",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/2/GetGroupContent?drawID=5&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/2/GetGroupContent?drawID=6&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/2/GetGroupContent?drawID=7&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/2/GetGroupContent?drawID=8&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 67,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 25,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 16,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 1,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 6,
+        "losses": 1,
+        "points": 78,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 56,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 2,
+        "losses": 5,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Louise Warren",
+        "playerId": 21,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 28,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 18,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Winks",
+        "playerId": 15,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 71,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 64,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Thomas Beales",
+        "playerId": 37,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 60,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 5,
+        "losses": 1,
+        "points": 59,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 30,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 28,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 17,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Tom Beales",
+        "playerId": 14,
+        "position": 9,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Annie Murphy",
+        "playerId": 24,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 28,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Penfold",
+        "playerId": 35,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 27,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 18,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 9,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mick Fowler",
+        "playerId": 34,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 9,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 8,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 6,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 9,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 34,
+    "fetchedAt": "2026-03-01T22:04:42.355Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 3,
+    "roundLabel": "Summer 2023 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3/GetGroupContent?drawID=9&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3/GetGroupContent?drawID=10&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3/GetGroupContent?drawID=11&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3/GetGroupContent?drawID=12&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3/GetGroupContent?drawID=13&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 11,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 9,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 6,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "David Winks",
+        "playerId": 15,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 27,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 27,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 16,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 8,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 6,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Louise Warren",
+        "playerId": 21,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Thomas Beales",
+        "playerId": 37,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Annie Murphy",
+        "playerId": 24,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 25,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 21,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 18,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 9,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Penfold",
+        "playerId": 35,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 19,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 3,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 4,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Mick Fowler",
+        "playerId": 34,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 35,
+    "fetchedAt": "2026-03-01T22:04:39.947Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 4,
+    "roundLabel": "Autumn 2023 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4/GetGroupContent?drawID=14&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4/GetGroupContent?drawID=15&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4/GetGroupContent?drawID=16&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4/GetGroupContent?drawID=17&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4/GetGroupContent?drawID=18&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 59,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Winks",
+        "playerId": 15,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 29,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 19,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 13,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 18,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 17,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 13,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 11,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 10,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Oscar Williamson",
+        "playerId": 42,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Thomas Beales",
+        "playerId": 37,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 25,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 18,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Louise Warren",
+        "playerId": 21,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Annie Murphy",
+        "playerId": 24,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 10,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 8,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Chris Penfold",
+        "playerId": 35,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Mick Fowler",
+        "playerId": 34,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Samuel Beales",
+        "playerId": 40,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      }
+    ],
+    "playerCount": 37,
+    "fetchedAt": "2026-03-01T22:04:36.426Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 6,
+    "roundLabel": "Winter 2024 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6/GetGroupContent?drawID=24&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6/GetGroupContent?drawID=25&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6/GetGroupContent?drawID=26&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6/GetGroupContent?drawID=27&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6/GetGroupContent?drawID=28&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "David Winks",
+        "playerId": 15,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 33,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 17,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 15,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 19,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 11,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Oscar Williamson",
+        "playerId": 42,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 8,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Thomas Beales",
+        "playerId": 37,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Samuel Beales",
+        "playerId": 40,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 71,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Annie Murphy",
+        "playerId": 24,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 15,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 12,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Louise Warren",
+        "playerId": 21,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Mick Fowler",
+        "playerId": 34,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 14,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 3,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 11,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Toby Whelton",
+        "playerId": 62,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Chris Penfold",
+        "playerId": 35,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 39,
+    "fetchedAt": "2026-03-01T22:04:34.237Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 7,
+    "roundLabel": "Spring 2024 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7/GetGroupContent?drawID=30&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7/GetGroupContent?drawID=31&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7/GetGroupContent?drawID=32&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7/GetGroupContent?drawID=33&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7/GetGroupContent?drawID=34&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Oscar Williamson",
+        "playerId": 42,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Omar Cader",
+        "playerId": 68,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Annie Murphy",
+        "playerId": 24,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Toby Whelton",
+        "playerId": 62,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Vinod Nehra",
+        "playerId": 67,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Mick Fowler",
+        "playerId": 34,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      }
+    ],
+    "playerCount": 40,
+    "fetchedAt": "2026-03-01T22:04:32.100Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 12,
+    "roundLabel": "Spring 2024 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12/GetGroupContent?drawID=35&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12/GetGroupContent?drawID=36&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12/GetGroupContent?drawID=37&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12/GetGroupContent?drawID=38&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12/GetGroupContent?drawID=39&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 28,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 25,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 19,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 16,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 9,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 49,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Omar Cader",
+        "playerId": 68,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 41,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 2,
+        "losses": 5,
+        "points": 39,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Oscar Williamson",
+        "playerId": 42,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 18,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 17,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 7,
+        "losses": 0,
+        "points": 81,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 41,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 29,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 29,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 21,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 12,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Annie Murphy",
+        "playerId": 24,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 25,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 3,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Vinod Nehra",
+        "playerId": 67,
+        "position": 5,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 8,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Toby Whelton",
+        "playerId": 62,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Mick Fowler",
+        "playerId": 34,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 39,
+    "fetchedAt": "2026-03-01T22:04:30.139Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 13,
+    "roundLabel": "Summer 2024 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13/GetGroupContent?drawID=40&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13/GetGroupContent?drawID=41&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13/GetGroupContent?drawID=42&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13/GetGroupContent?drawID=43&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13/GetGroupContent?drawID=44&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 39,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 33,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 29,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 27,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 19,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 62,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 25,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 14,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Omar Cader",
+        "playerId": 68,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 55,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 55,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 2,
+        "losses": 5,
+        "points": 39,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 33,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 30,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 29,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Oscar Williamson",
+        "playerId": 42,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 5,
+        "losses": 1,
+        "points": 62,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 39,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 13,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 8,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Vinod Nehra",
+        "playerId": 67,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 15,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "position": 5,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harish Patel",
+        "playerId": 70,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 12,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 7,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 11,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Toby Whelton",
+        "playerId": 62,
+        "position": 8,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Matt Peake",
+        "playerId": 69,
+        "position": 8,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 40,
+    "fetchedAt": "2026-03-01T22:04:28.106Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 14,
+    "roundLabel": "Autumn 2024 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14/GetGroupContent?drawID=45&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14/GetGroupContent?drawID=46&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14/GetGroupContent?drawID=47&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14/GetGroupContent?drawID=48&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14/GetGroupContent?drawID=49&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 51,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 16,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Kyaw Htun",
+        "playerId": 11,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 8,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 72,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 31,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 29,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 17,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 17,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 5,
+        "losses": 2,
+        "points": 66,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 65,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 58,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 3,
+        "losses": 4,
+        "points": 50,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 2,
+        "losses": 6,
+        "points": 49,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 2,
+        "losses": 6,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 9,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 33,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Aik Aung",
+        "playerId": 73,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 13,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 3,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 8,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "position": 8,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 61,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wesley Taupin",
+        "playerId": 76,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 55,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 3,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 33,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Vinod Nehra",
+        "playerId": 67,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Kevin Okeeffe",
+        "playerId": 79,
+        "position": 5,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": true,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Sabah Khan",
+        "playerId": 78,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 2,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 2,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Harish Patel",
+        "playerId": 70,
+        "position": 8,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 8,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Jai Kumar",
+        "playerId": 74,
+        "position": 8,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 44,
+    "fetchedAt": "2026-03-01T22:04:25.800Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 15,
+    "roundLabel": "Winter 2025 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15/GetGroupContent?drawID=50&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15/GetGroupContent?drawID=51&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15/GetGroupContent?drawID=52&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15/GetGroupContent?drawID=53&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15/GetGroupContent?drawID=54&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 64,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 64,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 46,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Marcin Feliks",
+        "playerId": 99,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 41,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Dent",
+        "playerId": 82,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 0,
+        "losses": 7,
+        "points": 32,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "position": 9,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": true,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 3,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 21,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 16,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 15,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 14,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 11,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 3,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nuno Conceicao",
+        "playerId": 7,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 7,
+        "losses": 0,
+        "points": 94,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 46,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 42,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 39,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 30,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Eddy Yam",
+        "playerId": 19,
+        "position": 9,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Wesley Taupin",
+        "playerId": 76,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 50,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 30,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 29,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Aik Aung",
+        "playerId": 73,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 13,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 3,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 6,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Vinod Nehra",
+        "playerId": 67,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Glenn Bignold",
+        "playerId": 81,
+        "position": 5,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 3,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Jai Kumar",
+        "playerId": 74,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Harish Patel",
+        "playerId": 70,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 45,
+    "fetchedAt": "2026-03-01T22:04:23.465Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 19,
+    "roundLabel": "Swing Spring - 2025 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19/GetGroupContent?drawID=62&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19/GetGroupContent?drawID=63&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19/GetGroupContent?drawID=64&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19/GetGroupContent?drawID=65&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19/GetGroupContent?drawID=66&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Marcin Feliks",
+        "playerId": 99,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Christopher Dent",
+        "playerId": 82,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Wesley Taupin",
+        "playerId": 76,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Aik Aung",
+        "playerId": 73,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Rashed Karim",
+        "playerId": 104,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Vinod Nehra",
+        "playerId": 67,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Glenn Bignold",
+        "playerId": 81,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Jai Kumar",
+        "playerId": 74,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Dmitry Skorokhod",
+        "playerId": 102,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Harish Patel",
+        "playerId": 70,
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      }
+    ],
+    "playerCount": 42,
+    "fetchedAt": "2026-03-01T22:04:20.874Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 21,
+    "roundLabel": "Swing Spring - 2025 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21/GetGroupContent?drawID=70&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21/GetGroupContent?drawID=71&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21/GetGroupContent?drawID=72&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21/GetGroupContent?drawID=73&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21/GetGroupContent?drawID=74&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 63,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 1,
+        "losses": 7,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Marcin Feliks",
+        "playerId": 99,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 45,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 41,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 2,
+        "losses": 5,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Dent",
+        "playerId": 82,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 28,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Bates",
+        "playerId": 23,
+        "position": 9,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": true,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 48,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 42,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wesley Taupin",
+        "playerId": 76,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 39,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 28,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 27,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 60,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 58,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 5,
+        "losses": 2,
+        "points": 55,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 5,
+        "losses": 1,
+        "points": 50,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 43,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 0,
+        "losses": 7,
+        "points": 34,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 5,
+        "losses": 1,
+        "points": 64,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 56,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 45,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Rashed Karim",
+        "playerId": 104,
+        "position": 8,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 19,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Aik Aung",
+        "playerId": 73,
+        "position": 9,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Dmitry Skorokhod",
+        "playerId": 102,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 45,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Vinod Nehra",
+        "playerId": 67,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Glenn Bignold",
+        "playerId": 81,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 0,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 0,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Jai Kumar",
+        "playerId": 74,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Harish Patel",
+        "playerId": 70,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 0,
+        "markers": [
+          "loss"
+        ]
+      }
+    ],
+    "playerCount": 42,
+    "fetchedAt": "2026-03-01T22:04:18.601Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 22,
+    "roundLabel": "Summer 2025 - Baseline Burn | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/22",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/22/GetGroupContent?drawID=75&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/22/GetGroupContent?drawID=76&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/22/GetGroupContent?drawID=77&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/22/GetGroupContent?drawID=78&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/22/GetGroupContent?drawID=79&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Marcin Feliks",
+        "playerId": 99,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 51,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 49,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Dent",
+        "playerId": 82,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 39,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Thomas Highwood",
+        "playerId": 109,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 30,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 9,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "BOND WONG",
+        "playerId": 65,
+        "position": 10,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 6,
+        "losses": 2,
+        "points": 71,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alexia King",
+        "playerId": 107,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 4,
+        "losses": 4,
+        "points": 65,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 59,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 41,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wesley Taupin",
+        "playerId": 76,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Samuel Beales",
+        "playerId": 40,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 9,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 0,
+        "losses": 7,
+        "points": 24,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 10,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Adam Farrer",
+        "playerId": 110,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 8,
+        "losses": 0,
+        "points": 86,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 6,
+        "losses": 3,
+        "points": 68,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 6,
+        "losses": 2,
+        "points": 67,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dmitry Skorokhod",
+        "playerId": 102,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 5,
+        "losses": 3,
+        "points": 67,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 3,
+        "losses": 6,
+        "points": 66,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 4,
+        "losses": 5,
+        "points": 61,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 6,
+        "losses": 2,
+        "points": 60,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 3,
+        "losses": 6,
+        "points": 60,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 9,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 2,
+        "losses": 7,
+        "points": 59,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 10,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 0,
+        "losses": 9,
+        "points": 51,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Jenson Moret",
+        "playerId": 49,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 33,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 30,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 16,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Rashed Karim",
+        "playerId": 104,
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Stephen Power",
+        "playerId": 108,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 18,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Glenn Bignold",
+        "playerId": 81,
+        "position": 3,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Stephen Reilly",
+        "playerId": 32,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Harish Patel",
+        "playerId": 70,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 45,
+    "fetchedAt": "2026-03-01T22:04:16.150Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 24,
+    "roundLabel": "LTA - Tennis for Britain",
+    "roundStart": null,
+    "roundEnd": null,
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/24",
+    "groupContentUrls": [],
+    "players": [],
+    "playerCount": 0,
+    "fetchedAt": "2026-03-01T22:04:13.645Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 25,
+    "roundLabel": "Ice Ice Aces 2025/26 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "30 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25/GetGroupContent?drawID=89&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25/GetGroupContent?drawID=90&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25/GetGroupContent?drawID=91&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25/GetGroupContent?drawID=92&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25/GetGroupContent?drawID=93&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Marcin Feliks",
+        "playerId": 99,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 5,
+        "losses": 3,
+        "points": 67,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 6,
+        "losses": 1,
+        "points": 62,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 45,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alexia King",
+        "playerId": 107,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 1,
+        "losses": 8,
+        "points": 42,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 41,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 1,
+        "losses": 7,
+        "points": 41,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 30,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "position": 9,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 25,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christopher Dent",
+        "playerId": 82,
+        "position": 10,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": true,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 21,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 51,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Oscar Williamson",
+        "playerId": 42,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Adam Farrer",
+        "playerId": 110,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 0,
+        "losses": 8,
+        "points": 23,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sophie Boobbyer",
+        "playerId": 38,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wesley Taupin",
+        "playerId": 76,
+        "position": 9,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 13,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Samuel Beales",
+        "playerId": 40,
+        "position": 10,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Chris Playle",
+        "playerId": 5,
+        "position": 11,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 9,
+        "wins": 5,
+        "losses": 4,
+        "points": 69,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 10,
+        "wins": 3,
+        "losses": 7,
+        "points": 59,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 53,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 48,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 2,
+        "losses": 6,
+        "points": 46,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Jenson Moret",
+        "playerId": 49,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "position": 8,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 40,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "position": 9,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 38,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Richard Shepherd",
+        "playerId": 111,
+        "position": 10,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Dmitry Skorokhod",
+        "playerId": 102,
+        "position": 11,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 4,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 6,
+        "losses": 1,
+        "points": 74,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Mark Wareham",
+        "playerId": 12,
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 6,
+        "losses": 1,
+        "points": 74,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 5,
+        "losses": 2,
+        "points": 69,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 62,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 22,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Stephen Power",
+        "playerId": 108,
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 1,
+        "losses": 5,
+        "points": 22,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "position": 8,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 0,
+        "losses": 6,
+        "points": 20,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nicholas Hanks",
+        "playerId": 29,
+        "position": 9,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "peter orourke",
+        "playerId": 135,
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Stefano Capece",
+        "playerId": 136,
+        "position": 2,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 20,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "John Paul Sutherland",
+        "playerId": 27,
+        "position": 3,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 4,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 10,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clarice Williamson",
+        "playerId": 106,
+        "position": 5,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 9,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Rashed Karim",
+        "playerId": 104,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "James Crawford",
+        "playerId": 134,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Glenn Bignold",
+        "playerId": 81,
+        "position": 6,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 50,
+    "fetchedAt": "2026-03-01T22:04:13.155Z"
+  }
+]

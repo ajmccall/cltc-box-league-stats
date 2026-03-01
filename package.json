@@ -1,0 +1,11 @@
+{
+  "name": "tennis-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-data": "node scripts/update-data.mjs",
+    "serve": "python3 -m http.server 8000",
+    "build-stats": "node scripts/build-stats.mjs"
+  }
+}

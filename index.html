@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CLTC Box League Tracker</title>
+    <link rel="stylesheet" href="./assets/styles.css?v=20260301h" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <p class="eyebrow">Carshalton Lawn Tennis Club</p>
+        <h1>CLTC Box League Tracker</h1>
+        <p class="subtitle">Season-by-season player movement and results.</p>
+      </header>
+
+      <section class="controls">
+        <label for="player-input">Player</label>
+        <div class="input-row">
+          <input id="player-input" list="player-options" placeholder="Start typing a player name" />
+          <datalist id="player-options"></datalist>
+        </div>
+      </section>
+
+      <section id="empty-state" class="card">
+        <p>Select a player to view win/loss trend and box movement.</p>
+      </section>
+
+      <section id="player-view" class="hidden">
+        <div class="summary-grid">
+          <article class="card stat">
+            <h2>Win Rate</h2>
+            <p id="win-rate">-</p>
+          </article>
+          <article class="card stat">
+            <h2>Career W/L</h2>
+            <p id="career-wl">-</p>
+          </article>
+          <article class="card stat">
+            <h2>Promotions</h2>
+            <p id="promotions">-</p>
+          </article>
+          <article class="card stat">
+            <h2>Relegations</h2>
+            <p id="relegations">-</p>
+          </article>
+        </div>
+
+        <article class="card">
+          <h2 id="player-name">Player</h2>
+          <div id="chart" class="chart" aria-label="Box progression chart"></div>
+        </article>
+
+        <article class="card">
+          <h2>Season Breakdown</h2>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Round</th>
+                  <th>Group</th>
+                  <th>Pos</th>
+                  <th>W</th>
+                  <th>L</th>
+                  <th>Result</th>
+                </tr>
+              </thead>
+              <tbody id="season-rows"></tbody>
+            </table>
+          </div>
+        </article>
+      </section>
+
+      <footer class="page-footer">
+        <p id="meta" class="meta"></p>
+      </footer>
+    </main>
+
+    <script type="module" src="./assets/app.js?v=20260301h"></script>
+  </body>
+</html>

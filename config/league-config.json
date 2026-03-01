@@ -1,0 +1,35 @@
+{
+  "baseUrl": "https://competitions.lta.org.uk",
+  "ladderId": "cd5ce09a-bde8-474b-8db2-2592e508fc22",
+  "events": [
+    {
+      "id": 1,
+      "slug": "open",
+      "name": "CLTC Open Box League",
+      "enabled": true,
+      "seedRoundIds": [25, 24, 22]
+    },
+    {
+      "id": 4,
+      "slug": "women",
+      "name": "CLTC Women's Box League",
+      "enabled": false,
+      "seedRoundIds": [26]
+    }
+  ],
+  "scan": {
+    "maxRoundsToTry": 40,
+    "consecutiveMissesToStop": 8,
+    "minRoundId": 1,
+    "requestDelayMs": 250
+  },
+  "roundFilters": {
+    "dropZeroActivityRounds": true,
+    "excludeRoundIds": [],
+    "includeRoundIds": []
+  },
+  "scrape": {
+    "saveRawHtml": true,
+    "userAgent": "Mozilla/5.0 (compatible; tennis-tracker/0.1)"
+  }
+}
