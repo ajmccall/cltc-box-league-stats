@@ -1,0 +1,49 @@
+name: Update Tennis Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekly on Monday at 06:00 UTC.
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-tennis-data
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Update local data files
+        env:
+          LTA_COOKIE_HEADER: ${{ secrets.LTA_COOKIE_HEADER }}
+        run: |
+          npm run update-data
+          npm run build-stats
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- data/normalized/rounds.json data/player-stats.json data/last-update.json; then
+            echo "No data changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/normalized/rounds.json data/player-stats.json data/last-update.json
+          git commit -m "chore(data): refresh box league data"
+          git push

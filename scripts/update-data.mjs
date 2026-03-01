@@ -74,16 +74,39 @@ function parseOutcomeFromCell(text, html) {
   return null;
 }
 
-function extractRoundMeta(html) {
+function extractRoundMeta(html, roundId) {
   const titleMatch = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
   const title = titleMatch ? stripTags(titleMatch[1]) : null;
 
-  const dateMatch = html.match(/\((\d{1,2}\s+[A-Za-z]{3}\s+\d{4})\s+to\s+(\d{1,2}\s+[A-Za-z]{3}\s+\d{4})\)/i);
+  let roundStart = null;
+  let roundEnd = null;
+
+  const optionRoundRegex = /<option[^>]*data-uri="[^"]*\/round\/(\d+)[^"]*"[^>]*>([\s\S]*?)<\/option>/gi;
+  let optionMatch;
+  while ((optionMatch = optionRoundRegex.exec(html)) !== null) {
+    const optionRoundId = Number.parseInt(optionMatch[1], 10);
+    if (!Number.isFinite(optionRoundId) || optionRoundId !== roundId) continue;
+    const optionText = stripTags(optionMatch[2]);
+    const dateMatchFromOption = optionText.match(/\(([^()]+?)\s+to\s+([^()]+?)\)\s*$/i);
+    if (dateMatchFromOption) {
+      roundStart = dateMatchFromOption[1].trim();
+      roundEnd = dateMatchFromOption[2].trim();
+      break;
+    }
+  }
+
+  if (!roundStart || !roundEnd) {
+    const dateMatch = html.match(/\((\d{1,2}\s+[A-Za-z]{3}\s+\d{4})\s+to\s+(\d{1,2}\s+[A-Za-z]{3}\s+\d{4})\)/i);
+    if (dateMatch) {
+      roundStart = dateMatch[1];
+      roundEnd = dateMatch[2];
+    }
+  }
 
   return {
     title,
-    roundStart: dateMatch ? dateMatch[1] : null,
-    roundEnd: dateMatch ? dateMatch[2] : null
+    roundStart,
+    roundEnd
   };
 }
 
@@ -630,7 +653,7 @@ async function scrapeEvent(config, eventConfig, notes) {
       await fs.writeFile(rawPath, result.html, "utf8");
     }
 
-    const meta = extractRoundMeta(result.html);
+    const meta = extractRoundMeta(result.html, roundId);
     const roundLabel = meta.title || `Round ${roundId}`;
     const groupDescriptors = extractGroupContentDescriptors(result.html);
     const groupUrls = groupDescriptors.map((g) => g.urlPath);

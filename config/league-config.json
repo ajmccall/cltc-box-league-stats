@@ -29,7 +29,7 @@
     "includeRoundIds": []
   },
   "scrape": {
-    "saveRawHtml": true,
+    "saveRawHtml": false,
     "userAgent": "Mozilla/5.0 (compatible; tennis-tracker/0.1)"
   }
 }
