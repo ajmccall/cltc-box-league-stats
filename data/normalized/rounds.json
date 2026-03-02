@@ -4,8 +4,8 @@
     "eventName": "CLTC Open Box League",
     "roundId": 1,
     "roundLabel": "Winter 2022 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "31 Dec 2022",
+    "roundEnd": "16 Apr 2023",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/1",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/1/GetGroupContent?drawID=1&pageNum=1",
@@ -419,15 +419,15 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-03-01T22:04:43.959Z"
+    "fetchedAt": "2026-03-02T07:00:53.594Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 2,
     "roundLabel": "Spring 2023 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "17 Apr 2023",
+    "roundEnd": "30 Jun 2023",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/2",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/2/GetGroupContent?drawID=5&pageNum=1",
@@ -944,15 +944,15 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-03-01T22:04:42.355Z"
+    "fetchedAt": "2026-03-02T07:00:51.455Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 3,
     "roundLabel": "Summer 2023 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "1 Jul 2023",
+    "roundEnd": "30 Sep 2023",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/3/GetGroupContent?drawID=9&pageNum=1",
@@ -1467,15 +1467,15 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-03-01T22:04:39.947Z"
+    "fetchedAt": "2026-03-02T07:00:49.127Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 4,
     "roundLabel": "Autumn 2023 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "1 Oct 2023",
+    "roundEnd": "31 Dec 2023",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/4/GetGroupContent?drawID=14&pageNum=1",
@@ -2012,15 +2012,15 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-03-01T22:04:36.426Z"
+    "fetchedAt": "2026-03-02T07:00:46.517Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 6,
     "roundLabel": "Winter 2024 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "1 Jan 2024",
+    "roundEnd": "1 Apr 2024",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/6/GetGroupContent?drawID=24&pageNum=1",
@@ -2593,15 +2593,15 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-03-01T22:04:34.237Z"
+    "fetchedAt": "2026-03-02T07:00:44.024Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 7,
     "roundLabel": "Spring 2024 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "3 Apr 2024",
+    "roundEnd": "3 Apr 2024",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/7/GetGroupContent?drawID=30&pageNum=1",
@@ -3133,15 +3133,15 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-03-01T22:04:32.100Z"
+    "fetchedAt": "2026-03-02T07:00:41.459Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 12,
     "roundLabel": "Spring 2024 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "4 Apr 2024",
+    "roundEnd": "7 Jul 2024",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/12/GetGroupContent?drawID=35&pageNum=1",
@@ -3724,15 +3724,15 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-03-01T22:04:30.139Z"
+    "fetchedAt": "2026-03-02T07:00:39.049Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 13,
     "roundLabel": "Summer 2024 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "9 Jul 2024",
+    "roundEnd": "6 Oct 2024",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/13/GetGroupContent?drawID=40&pageNum=1",
@@ -4336,15 +4336,15 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-03-01T22:04:28.106Z"
+    "fetchedAt": "2026-03-02T07:00:36.411Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 14,
     "roundLabel": "Autumn 2024 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "8 Oct 2024",
+    "roundEnd": "5 Jan 2025",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/14/GetGroupContent?drawID=45&pageNum=1",
@@ -5006,15 +5006,15 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-03-01T22:04:25.800Z"
+    "fetchedAt": "2026-03-02T07:00:33.866Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 15,
     "roundLabel": "Winter 2025 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "7 Jan 2025",
+    "roundEnd": "13 Apr 2025",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/15/GetGroupContent?drawID=50&pageNum=1",
@@ -5681,15 +5681,15 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-03-01T22:04:23.465Z"
+    "fetchedAt": "2026-03-02T07:00:30.700Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 19,
     "roundLabel": "Swing Spring - 2025 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "18 Apr 2025",
+    "roundEnd": "18 Apr 2025",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/19/GetGroupContent?drawID=62&pageNum=1",
@@ -6247,15 +6247,15 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-03-01T22:04:20.874Z"
+    "fetchedAt": "2026-03-02T07:00:28.069Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 21,
     "roundLabel": "Swing Spring - 2025 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "19 Apr 2025",
+    "roundEnd": "27 Jul 2025",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/21/GetGroupContent?drawID=70&pageNum=1",
@@ -6887,7 +6887,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-03-01T22:04:18.601Z"
+    "fetchedAt": "2026-03-02T07:00:25.486Z"
   },
   {
     "eventId": 1,
@@ -7568,7 +7568,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-03-01T22:04:16.150Z"
+    "fetchedAt": "2026-03-02T07:00:22.607Z"
   },
   {
     "eventId": 1,
@@ -7581,15 +7581,15 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-03-01T22:04:13.645Z"
+    "fetchedAt": "2026-03-02T07:00:19.862Z"
   },
   {
     "eventId": 1,
     "eventName": "CLTC Open Box League",
     "roundId": 25,
     "roundLabel": "Ice Ice Aces 2025/26 | CLTC - Singles League | LTA - Tennis for Britain",
-    "roundStart": "30 Jul 2025",
-    "roundEnd": "2 Nov 2025",
+    "roundStart": "7 Nov 2025",
+    "roundEnd": "1 Mar",
     "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25",
     "groupContentUrls": [
       "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/25/GetGroupContent?drawID=89&pageNum=1",
@@ -8339,6 +8339,6 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-03-01T22:04:13.155Z"
+    "fetchedAt": "2026-03-02T07:00:19.328Z"
   }
 ]
