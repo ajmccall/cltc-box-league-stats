@@ -7,14 +7,23 @@
       "slug": "open",
       "name": "CLTC Open Box League",
       "enabled": true,
-      "seedRoundIds": [25, 24, 22]
+      "seedRoundIds": [
+        25,
+        24,
+        22
+      ]
     },
     {
       "id": 4,
       "slug": "women",
       "name": "CLTC Women's Box League",
       "enabled": true,
-      "seedRoundIds": [26, 25, 24, 22]
+      "seedRoundIds": [
+        26,
+        25,
+        24,
+        22
+      ]
     }
   ],
   "scan": {
@@ -30,6 +39,7 @@
   },
   "scrape": {
     "saveRawHtml": false,
+    "fetchPlayerMatchups": true,
     "userAgent": "Mozilla/5.0 (compatible; tennis-tracker/0.1)"
   }
 }

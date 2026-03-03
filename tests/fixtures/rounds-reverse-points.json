@@ -1,0 +1,57 @@
+[
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 101,
+    "roundLabel": "Fixture Round",
+    "roundStart": "1 Jan 2026",
+    "roundEnd": "31 Jan 2026",
+    "url": "https://example.test/round/101",
+    "players": [
+      {
+        "name": "Alice Example",
+        "playerId": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "position": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": ["win"],
+        "matchups": [
+          {
+            "opponentId": 2,
+            "opponentName": "Bob Example",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": null,
+            "scoreText": "9-6"
+          }
+        ]
+      },
+      {
+        "name": "Bob Example",
+        "playerId": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "position": 2,
+        "wins": 0,
+        "losses": 1,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": ["loss"],
+        "matchups": [
+          {
+            "opponentId": 1,
+            "opponentName": "Alice Example",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": null,
+            "scoreText": "6-9"
+          }
+        ]
+      }
+    ]
+  }
+]

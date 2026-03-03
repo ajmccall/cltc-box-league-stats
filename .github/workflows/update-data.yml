@@ -33,7 +33,6 @@ jobs:
           LTA_COOKIE_HEADER: ${{ secrets.LTA_COOKIE_HEADER }}
         run: |
           npm run update-data
-          npm run build-stats
 
       - name: Commit and push if changed
         run: |

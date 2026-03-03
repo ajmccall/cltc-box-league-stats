@@ -6,6 +6,7 @@
   "scripts": {
     "update-data": "node scripts/update-data.mjs",
     "serve": "python3 -m http.server 8000",
-    "build-stats": "node scripts/build-stats.mjs"
+    "build-stats": "node scripts/build-stats.mjs",
+    "test": "node --test"
   }
 }

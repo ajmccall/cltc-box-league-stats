@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CLTC Women's Box League Tracker</title>
-    <link rel="stylesheet" href="./assets/styles.css?v=20260303a" />
+    <link rel="stylesheet" href="./assets/styles.css?v=20260303d" />
   </head>
   <body>
     <main class="page">
@@ -48,15 +48,30 @@
             <h2>Relegations</h2>
             <p id="relegations">-</p>
           </article>
+          <article class="card stat">
+            <h2>Best League Result</h2>
+            <p id="best-position">-</p>
+            <p id="best-position-when" class="stat-sub">-</p>
+          </article>
+          <article class="card stat">
+            <h2>Points (For / Against)</h2>
+            <p id="tennis-points">-</p>
+          </article>
         </div>
 
-        <article class="card">
-          <h2 id="player-name">Player</h2>
+        <article class="card section-card">
+          <h2 class="section-label">Box League History</h2>
+          <p id="player-name" class="section-value">Player</p>
           <div id="chart" class="chart" aria-label="Box progression chart"></div>
         </article>
 
-        <article class="card">
-          <h2>Season Breakdown</h2>
+        <article class="card section-card">
+          <h2 class="section-label">Top Opponents (Head-to-head)</h2>
+          <ol id="top-opponents" class="opponent-list"></ol>
+        </article>
+
+        <article class="card section-card">
+          <h2 class="section-label">Season Breakdown</h2>
           <div class="table-wrap">
             <table>
               <thead>
@@ -80,6 +95,6 @@
       </footer>
     </main>
 
-    <script type="module" src="./assets/app.js?v=20260303a"></script>
+    <script type="module" src="./assets/app.js?v=20260303e"></script>
   </body>
 </html>

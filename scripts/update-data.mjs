@@ -235,6 +235,41 @@ function normalizePlayerName(name) {
     .trim();
 }
 
+function escapeRegExp(value) {
+  return String(value || "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function looksLikeOpponentName(name, selfName = "") {
+  const normalized = normalizePlayerName(name);
+  if (!normalized || normalized.length < 3 || normalized.length > 64) return false;
+  if (!/\s/.test(normalized)) return false;
+  if (/\d/.test(normalized)) return false;
+
+  const lower = normalized.toLowerCase();
+  const blocked = new Set([
+    "wins",
+    "losses",
+    "points",
+    "position",
+    "group",
+    "round",
+    "season",
+    "match",
+    "event",
+    "mon",
+    "tue",
+    "wed",
+    "thu",
+    "fri",
+    "sat",
+    "sun"
+  ]);
+  if (blocked.has(lower)) return false;
+
+  if (normalizePlayerName(selfName).toLowerCase() === lower) return false;
+  return true;
+}
+
 function extractNameAndIdFromCells(cells) {
   for (const cell of cells) {
     const hrefMatch = cell.html.match(/href="([^"]*\/player\/(\d+)\/event\/\d+\/round\/\d+)"/i);
@@ -246,15 +281,166 @@ function extractNameAndIdFromCells(cells) {
     return {
       name,
       playerId: Number.isFinite(playerId) ? playerId : null,
+      playerUrlPath: hrefMatch[1] || null,
       withdrawn
     };
   }
-  return { name: null, playerId: null, withdrawn: false };
+  return { name: null, playerId: null, playerUrlPath: null, withdrawn: false };
 }
 
 function parseIntOrNull(value) {
   const n = Number.parseInt(String(value ?? ""), 10);
   return Number.isFinite(n) ? n : null;
+}
+
+function parseTennisPointsFromScoreText(text, outcome = null) {
+  const scores = [...String(text || "").matchAll(/(\d+)\s*-\s*(\d+)/g)];
+  if (scores.length === 0) return null;
+
+  let pointsFor = 0;
+  let pointsAgainst = 0;
+  for (const score of scores) {
+    pointsFor += Number.parseInt(score[1], 10);
+    pointsAgainst += Number.parseInt(score[2], 10);
+  }
+
+  return {
+    pointsFor,
+    pointsAgainst,
+    scoreText: scores.map((score) => `${score[1]}-${score[2]}`).join(" ")
+  };
+}
+
+function extractOpponentFromCellHtml(cellHtml, selfPlayerId, selfName) {
+  const selfNameKey = normalizePlayerName(selfName || "").toLowerCase();
+  const linkMatches = [
+    ...String(cellHtml || "").matchAll(/href="[^"]*\/player\/(\d+)(?:\/[^"]*)?"[^>]*>([\s\S]*?)<\/a>/gi)
+  ];
+
+  for (const match of linkMatches) {
+    const opponentId = Number.parseInt(match[1], 10);
+    const opponentName = normalizePlayerName(stripTags(match[2]));
+    const opponentNameKey = opponentName.toLowerCase();
+
+    if (Number.isFinite(selfPlayerId) && Number.isFinite(opponentId) && selfPlayerId === opponentId) {
+      continue;
+    }
+    if (selfNameKey && opponentNameKey && selfNameKey === opponentNameKey) {
+      continue;
+    }
+    if (!opponentName && !Number.isFinite(opponentId)) {
+      continue;
+    }
+
+    return {
+      opponentId: Number.isFinite(opponentId) ? opponentId : null,
+      opponentName: opponentName || null
+    };
+  }
+
+  return { opponentId: null, opponentName: null };
+}
+
+function dedupeMatchups(matchups) {
+  const deduped = new Map();
+
+  for (const matchup of matchups || []) {
+    const opponentName = String(matchup.opponentName || "").trim();
+    const opponentKey = Number.isFinite(matchup.opponentId)
+      ? `id:${matchup.opponentId}`
+      : opponentName
+        ? `name:${opponentName.toLowerCase()}`
+        : "unknown";
+    const key = [
+      opponentKey,
+      matchup.outcome || "",
+      Number.isFinite(matchup.pointsFor) ? matchup.pointsFor : "",
+      Number.isFinite(matchup.pointsAgainst) ? matchup.pointsAgainst : "",
+      matchup.scoreText || ""
+    ].join("|");
+
+    if (!deduped.has(key)) {
+      deduped.set(key, {
+        opponentId: Number.isFinite(matchup.opponentId) ? matchup.opponentId : null,
+        opponentName: opponentName || null,
+        outcome: matchup.outcome || null,
+        pointsFor: Number.isFinite(matchup.pointsFor) ? matchup.pointsFor : null,
+        pointsAgainst: Number.isFinite(matchup.pointsAgainst) ? matchup.pointsAgainst : null,
+        scoreText: matchup.scoreText || null
+      });
+    }
+  }
+
+  return [...deduped.values()];
+}
+
+export function extractMatchupsFromPlayerPage(html, selfName, selfPlayerId = null) {
+  const normalizedSelfName = normalizePlayerName(selfName);
+  if (!normalizedSelfName) return [];
+
+  const source = String(html || "");
+  const matchups = [];
+  const matchItemStartRegex = /<li[^>]*class="[^"]*match-group__item[^"]*"[^>]*>/gi;
+  const starts = [];
+  let startMatch;
+  while ((startMatch = matchItemStartRegex.exec(source)) !== null) {
+    starts.push(startMatch.index);
+  }
+
+  for (let i = 0; i < starts.length; i += 1) {
+    const start = starts[i];
+    const nextStart = starts[i + 1] ?? source.length;
+    const endOfList = source.indexOf("</ol>", start);
+    const end = endOfList >= 0 ? Math.min(nextStart, endOfList) : nextStart;
+    const block = source.slice(start, end);
+    if (!block) continue;
+
+    const players = [
+      ...block.matchAll(
+        /href="[^"]*\/player\/(\d+)\/event\/\d+\/round\/\d+[^"]*"[^>]*>[\s\S]*?<span class="nav-link__value">([\s\S]*?)<\/span>/gi
+      )
+    ].map((x) => ({
+      playerId: Number.parseInt(x[1], 10),
+      name: normalizePlayerName(stripTags(x[2]))
+    }));
+
+    const points = [...block.matchAll(/<li class="points__cell[^"]*">\s*(\d+)\s*<\/li>/gi)].map((x) =>
+      Number.parseInt(x[1], 10)
+    );
+
+    if (players.length < 2 || points.length < 2) {
+      continue;
+    }
+
+    let selfIndex = -1;
+    if (Number.isFinite(selfPlayerId)) {
+      selfIndex = players.findIndex((p) => Number.isFinite(p.playerId) && p.playerId === selfPlayerId);
+    }
+    if (selfIndex < 0) {
+      selfIndex = players.findIndex((p) => p.name.toLowerCase() === normalizedSelfName.toLowerCase());
+    }
+    if (selfIndex < 0) continue;
+
+    const opponentIndex = selfIndex === 0 ? 1 : 0;
+    const opponent = players[opponentIndex];
+    if (!looksLikeOpponentName(opponent.name, normalizedSelfName)) continue;
+
+    const pointsFor = points[selfIndex];
+    const pointsAgainst = points[opponentIndex];
+    if (!Number.isFinite(pointsFor) || !Number.isFinite(pointsAgainst)) continue;
+    if (pointsFor > 99 || pointsAgainst > 99) continue;
+
+    matchups.push({
+      opponentId: Number.isFinite(opponent.playerId) ? opponent.playerId : null,
+      opponentName: opponent.name,
+      outcome: pointsFor > pointsAgainst ? "win" : pointsFor < pointsAgainst ? "loss" : null,
+      pointsFor,
+      pointsAgainst,
+      scoreText: `${pointsFor}-${pointsAgainst}`
+    });
+  }
+
+  return dedupeMatchups(matchups);
 }
 
 function getPlayerRoundKey(player) {
@@ -273,6 +459,8 @@ function playerRowQualityScore(player) {
   if (Number.isFinite(player.losses)) score += 10;
   if (Number.isFinite(player.points)) score += 10;
   if (Array.isArray(player.markers)) score += player.markers.length;
+  if (Array.isArray(player.matchups)) score += player.matchups.length * 5;
+  if (player.playerUrlPath) score += 1;
   return score;
 }
 
@@ -288,6 +476,7 @@ function mergePlayerRows(existing, incoming) {
     ...primary,
     name: primary.name || secondary.name,
     playerId: Number.isFinite(primary.playerId) ? primary.playerId : secondary.playerId,
+    playerUrlPath: primary.playerUrlPath || secondary.playerUrlPath || null,
     groupName: primary.groupName ?? secondary.groupName ?? null,
     groupNumber: Number.isFinite(primary.groupNumber) ? primary.groupNumber : secondary.groupNumber ?? null,
     position: Number.isFinite(primary.position) ? primary.position : secondary.position ?? null,
@@ -300,11 +489,12 @@ function mergePlayerRows(existing, incoming) {
       (Array.isArray(primary.markers) ? primary.markers.length : 0) >=
       (Array.isArray(secondary.markers) ? secondary.markers.length : 0)
         ? primary.markers || []
-        : secondary.markers || []
+        : secondary.markers || [],
+    matchups: dedupeMatchups([...(secondary.matchups || []), ...(primary.matchups || [])])
   };
 }
 
-function parsePlayersFromHtml(html, groupHint = null) {
+export function parsePlayersFromHtml(html, groupHint = null) {
   const cleaned = html
     .replace(/\r/g, "")
     .replace(/\n/g, " ")
@@ -326,7 +516,7 @@ function parsePlayersFromHtml(html, groupHint = null) {
 
     if (cells.length < 5) continue;
 
-    const { name, playerId, withdrawn } = extractNameAndIdFromCells(cells);
+    const { name, playerId, playerUrlPath, withdrawn } = extractNameAndIdFromCells(cells);
     if (!name) continue;
     if (/player/i.test(name) && !/\s/.test(name)) continue;
 
@@ -341,6 +531,7 @@ function parsePlayersFromHtml(html, groupHint = null) {
     const wins = numericCells[2] ?? null;
     const losses = numericCells[3] ?? null;
     const points = numericCells[4] ?? null;
+    const pointsAgainst = numericCells[5] ?? null;
 
     let groupNumber = groupHint?.groupNumber ?? null;
     let groupName = groupHint?.groupName ?? null;
@@ -351,14 +542,46 @@ function parsePlayersFromHtml(html, groupHint = null) {
     }
 
     const markers = [];
+    const matchups = [];
     for (const cell of cells.slice(2)) {
       const outcome = parseOutcomeFromCell(cell.text, cell.html);
       if (outcome) markers.push(outcome);
+
+      const opponent = extractOpponentFromCellHtml(cell.html, playerId, name);
+      const hasOpponent = Number.isFinite(opponent.opponentId) || Boolean(opponent.opponentName);
+      if (!hasOpponent) continue;
+
+      let score = parseTennisPointsFromScoreText(cell.text, outcome);
+      if (!score) {
+        const cleanedText = String(cell.text || "")
+          .replace(/\b\d{1,2}\/\d{1,2}\/\d{2,4}\b/g, " ")
+          .replace(/\b\d{1,2}:\d{2}\b/g, " ")
+          .replace(/\b\d{4}\b/g, " ")
+          .trim();
+        const compactNumbers = [...cleanedText.matchAll(/\b\d{1,2}\b/g)].map((x) => Number.parseInt(x[0], 10));
+        if (compactNumbers.length === 1) {
+          score = {
+            pointsFor: compactNumbers[0],
+            pointsAgainst: null,
+            scoreText: String(compactNumbers[0])
+          };
+        }
+      }
+
+      matchups.push({
+        opponentId: opponent.opponentId,
+        opponentName: opponent.opponentName,
+        outcome,
+        pointsFor: score?.pointsFor ?? null,
+        pointsAgainst: score?.pointsAgainst ?? null,
+        scoreText: score?.scoreText ?? null
+      });
     }
 
     players.push({
       name,
       playerId,
+      playerUrlPath: playerUrlPath || null,
       position: Number.isFinite(position) ? position : null,
       groupName,
       groupNumber: Number.isFinite(groupNumber) ? groupNumber : null,
@@ -367,7 +590,9 @@ function parsePlayersFromHtml(html, groupHint = null) {
       wins: Number.isFinite(wins) ? wins : null,
       losses: Number.isFinite(losses) ? losses : null,
       points: Number.isFinite(points) ? points : null,
-      markers
+      pointsAgainst: Number.isFinite(pointsAgainst) ? pointsAgainst : null,
+      markers,
+      matchups: dedupeMatchups(matchups)
     });
   }
 
@@ -550,6 +775,66 @@ async function loadConfig() {
 async function writeJson(filePath, data) {
   await fs.mkdir(path.dirname(filePath), { recursive: true });
   await fs.writeFile(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+}
+
+async function enrichPlayersFromPlayerPages(players, context) {
+  const {
+    eventConfig,
+    roundId,
+    config,
+    jar,
+    notes
+  } = context;
+
+  for (const player of players) {
+    if (!player.playerUrlPath) continue;
+    if (Array.isArray(player.matchups) && player.matchups.length > 0) continue;
+
+    const playerUrl = player.playerUrlPath.startsWith("http")
+      ? player.playerUrlPath
+      : `${config.baseUrl}${player.playerUrlPath}`;
+    logProgress(
+      `Event ${eventConfig.id} round ${roundId}: loading player page for ${player.name}.`
+    );
+
+    try {
+      const playerResult = await fetchHtml(
+        playerUrl,
+        config.scrape.userAgent,
+        jar,
+        config.baseUrl,
+        notes,
+        `${eventConfig.slug} round ${roundId} player ${player.playerId || player.name}`
+      );
+      if (!playerResult.ok) {
+        notes.push(
+          `${eventConfig.slug}: player page failed HTTP ${playerResult.status} (${player.name})`
+        );
+        await sleep(config.scan.requestDelayMs);
+        continue;
+      }
+
+      if (config.scrape.saveRawHtml) {
+        const safePlayerId = Number.isFinite(player.playerId) ? player.playerId : "x";
+        const rawPlayerPath = path.join(
+          rawDir,
+          `event-${eventConfig.id}-round-${roundId}-player-${safePlayerId}.html`
+        );
+        await fs.writeFile(rawPlayerPath, playerResult.html, "utf8");
+      }
+
+      const matchups = extractMatchupsFromPlayerPage(playerResult.html, player.name, player.playerId);
+      if (matchups.length > 0) {
+        player.matchups = dedupeMatchups([...(player.matchups || []), ...matchups]);
+      }
+    } catch (error) {
+      notes.push(
+        `${eventConfig.slug}: player page request failed (${error.message}) (${player.name})`
+      );
+    }
+
+    await sleep(config.scan.requestDelayMs);
+  }
 }
 
 async function scrapeEvent(config, eventConfig, notes) {
@@ -762,6 +1047,15 @@ async function scrapeEvent(config, eventConfig, notes) {
       playersByKey.set(key, existing ? mergePlayerRows(existing, player) : player);
     }
     const players = [...playersByKey.values()];
+    if (config.scrape.fetchPlayerMatchups !== false) {
+      await enrichPlayersFromPlayerPages(players, {
+        eventConfig,
+        roundId,
+        config,
+        jar,
+        notes
+      });
+    }
 
     rounds.push({
       eventId: eventConfig.id,
@@ -876,7 +1170,9 @@ async function main() {
   logProgress(`Completed in ${elapsedSeconds()}s.`);
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}

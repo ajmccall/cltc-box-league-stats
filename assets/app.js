@@ -1,3 +1,11 @@
+import {
+  aggregateHeadToHeadAndPoints,
+  cleanRoundLabel,
+  computeBestPositionFromTimeline,
+  identityKey,
+  safeNumber
+} from "../shared/stats-core.js";
+
 const dataUrl = "./data/player-stats.json";
 const pageEventId = parseEventIdFromPage();
 const pageLeagueName = (document.documentElement.dataset.leagueName || "").trim();
@@ -53,15 +61,6 @@ function formatPercent(value) {
   return `${Math.round(value * 100)}%`;
 }
 
-function cleanRoundLabel(label, roundId = null) {
-  if (!label && roundId == null) return "-";
-  const fallback = roundId == null ? "-" : `Round ${roundId}`;
-  const trimmed = String(label || "").trim();
-  if (!trimmed) return fallback;
-  const cleaned = trimmed.replace(/\s*\|\s*LTA - Tennis for Britain\s*$/i, "").trim();
-  return cleaned || trimmed || fallback;
-}
-
 function roundKey(eventId, roundId) {
   return `${eventId}:${roundId}`;
 }
@@ -74,7 +73,7 @@ function sortTimeline(a, b) {
 function filterDataByEvent(data, eventId) {
   if (!Number.isFinite(eventId)) return data;
 
-  const players = [];
+  const filteredPlayers = [];
 
   for (const player of data.players || []) {
     const timeline = (player.timeline || [])
@@ -83,6 +82,30 @@ function filterDataByEvent(data, eventId) {
       .sort(sortTimeline);
 
     if (timeline.length === 0) continue;
+
+    filteredPlayers.push({
+      ...player,
+      timeline
+    });
+  }
+
+  const matchScoreLookup = new Map();
+  for (const player of filteredPlayers) {
+    const selfKey = identityKey(player.playerId, player.name);
+    if (!selfKey) continue;
+    for (const entry of player.timeline || []) {
+      for (const matchup of entry.matchups || []) {
+        const opponentKey = identityKey(matchup.opponentId, matchup.opponentName);
+        const pointsFor = safeNumber(matchup.pointsFor);
+        if (!opponentKey || !Number.isFinite(pointsFor)) continue;
+        matchScoreLookup.set(`${entry.eventId}:${entry.roundId}:${selfKey}:${opponentKey}`, pointsFor);
+      }
+    }
+  }
+
+  const players = [];
+  for (const player of filteredPlayers) {
+    const timeline = player.timeline;
 
     const totalWins = timeline.reduce((sum, entry) => sum + (entry.wins || 0), 0);
     const totalLosses = timeline.reduce((sum, entry) => sum + (entry.losses || 0), 0);
@@ -96,6 +119,12 @@ function filterDataByEvent(data, eventId) {
       if (entry.transition === "relegation") relegations += 1;
       if (entry.transition === "stayed") stayed += 1;
     }
+    const bestPosition = computeBestPositionFromTimeline(timeline);
+    const headToHead = aggregateHeadToHeadAndPoints(
+      timeline,
+      identityKey(player.playerId, player.name),
+      matchScoreLookup
+    );
 
     players.push({
       ...player,
@@ -106,6 +135,10 @@ function filterDataByEvent(data, eventId) {
       promotions,
       relegations,
       stayed,
+      bestPosition,
+      topOpponents: headToHead.topOpponents,
+      tennisPointsFor: headToHead.tennisPointsFor,
+      tennisPointsAgainst: headToHead.tennisPointsAgainst,
       timeline
     });
   }
@@ -331,6 +364,28 @@ function renderSeasons(timeline) {
   }
 }
 
+function renderTopOpponents(topOpponents) {
+  const list = byId("top-opponents");
+  list.innerHTML = "";
+
+  if (!Array.isArray(topOpponents) || topOpponents.length === 0) {
+    const li = document.createElement("li");
+    li.textContent = "No opponent match data available yet.";
+    list.appendChild(li);
+    return;
+  }
+
+  for (const opponent of topOpponents) {
+    const li = document.createElement("li");
+    const h2h = `${opponent.wins ?? 0}-${opponent.losses ?? 0}`;
+    const pointsText = Number.isFinite(opponent.pointsFor) && Number.isFinite(opponent.pointsAgainst)
+      ? ` · points ${opponent.pointsFor}-${opponent.pointsAgainst}`
+      : "";
+    li.textContent = `${opponent.opponentName}: ${opponent.played} match${opponent.played === 1 ? "" : "es"} · ${h2h}${pointsText}`;
+    list.appendChild(li);
+  }
+}
+
 function renderPlayer(player) {
   byId("empty-state").classList.add("hidden");
   byId("player-view").classList.remove("hidden");
@@ -340,9 +395,24 @@ function renderPlayer(player) {
   byId("career-wl").textContent = `${player.totalWins} / ${player.totalLosses}`;
   byId("promotions").textContent = String(player.promotions ?? 0);
   byId("relegations").textContent = String(player.relegations ?? 0);
+  if (player.bestPosition) {
+    byId("best-position").textContent = `Group ${player.bestPosition.groupNumber} · Pos ${player.bestPosition.position}`;
+    byId("best-position-when").textContent = cleanRoundLabel(
+      player.bestPosition.roundLabel,
+      player.bestPosition.roundId
+    );
+  } else {
+    byId("best-position").textContent = "-";
+    byId("best-position-when").textContent = "-";
+  }
+  byId("tennis-points").textContent =
+    Number.isFinite(player.tennisPointsFor) && Number.isFinite(player.tennisPointsAgainst)
+      ? `${player.tennisPointsFor} / ${player.tennisPointsAgainst}`
+      : "-";
 
   renderChart(player.timeline);
   renderSeasons(player.timeline);
+  renderTopOpponents(player.topOpponents);
   setPlayerInUrl(player.name);
 }
 

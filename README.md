@@ -7,6 +7,7 @@ Static player stats site for your CLTC box leagues. No database or backend.
 - `index.html` Open Box League page
 - `women.html` Women's Box League page
 - Shared static UI (search player, view W/L and movement over rounds)
+- Player stats include best position, top opponents (when match detail is available), and points for/against
 - `scripts/update-data.mjs` crawler + normalizer
 - `scripts/build-stats.mjs` player summary generator
 - Local JSON data files under `data/`
@@ -29,6 +30,7 @@ Edit `config/league-config.json`:
 - `roundFilters.excludeRoundIds`: manual round ids to always remove from player stats
 - `roundFilters.includeRoundIds`: manual round ids to force-include even if they match other filters
 - `scrape.saveRawHtml`: set `true` only when debugging parsing/source changes
+- `scrape.fetchPlayerMatchups`: set `false` to skip per-player page fetches (faster, but no head-to-head points)
 
 Notes based on your setup:
 

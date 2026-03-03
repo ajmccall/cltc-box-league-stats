@@ -1,6 +1,14 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import {
+  aggregateHeadToHeadAndPoints,
+  canonicalName,
+  cleanRoundLabel,
+  computeBestPositionFromTimeline,
+  identityKey,
+  safeNumber
+} from "../shared/stats-core.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -9,30 +17,12 @@ const roundsPath = path.join(repoRoot, "data/normalized/rounds.json");
 const statsPath = path.join(repoRoot, "data/player-stats.json");
 const configPath = path.join(repoRoot, "config/league-config.json");
 
-function canonicalName(name) {
-  return name.trim().replace(/\s+/g, " ");
-}
-
 function playerKey(name) {
   return canonicalName(name).toLowerCase();
 }
 
-function safeNumber(value, fallback = null) {
-  if (typeof value === "number" && Number.isFinite(value)) return value;
-  const parsed = Number.parseInt(String(value ?? ""), 10);
-  return Number.isFinite(parsed) ? parsed : fallback;
-}
-
 function roundKey(eventId, roundId) {
   return `${eventId}:${roundId}`;
-}
-
-function cleanRoundLabel(label, roundId) {
-  const fallback = `Round ${roundId}`;
-  if (!label) return fallback;
-  const trimmed = String(label).trim();
-  const cleaned = trimmed.replace(/\s*\|\s*LTA - Tennis for Britain\s*$/i, "").trim();
-  return cleaned || trimmed || fallback;
 }
 
 function sortTimeline(a, b) {
@@ -57,7 +47,53 @@ function timelineQualityScore(entry) {
   if (entry.groupSize != null) score += 10;
   if (entry.wins != null) score += 10;
   if (entry.losses != null) score += 10;
+  if (entry.leaguePoints != null) score += 10;
+  if (entry.leaguePointsAgainst != null) score += 10;
+  if (Array.isArray(entry.matchups)) score += entry.matchups.length * 5;
   return score;
+}
+
+function normalizeMatchup(matchup) {
+  const opponentName = String(matchup?.opponentName || "").trim();
+  const opponentId = safeNumber(matchup?.opponentId);
+  const outcome = matchup?.outcome === "win" || matchup?.outcome === "loss" ? matchup.outcome : null;
+  const pointsFor = safeNumber(matchup?.pointsFor);
+  const pointsAgainst = safeNumber(matchup?.pointsAgainst);
+  const scoreText = String(matchup?.scoreText || "").trim();
+
+  return {
+    opponentId: Number.isFinite(opponentId) ? opponentId : null,
+    opponentName: opponentName || null,
+    outcome,
+    pointsFor: Number.isFinite(pointsFor) ? pointsFor : null,
+    pointsAgainst: Number.isFinite(pointsAgainst) ? pointsAgainst : null,
+    scoreText: scoreText || null
+  };
+}
+
+function dedupeMatchups(matchups) {
+  const deduped = new Map();
+  for (const rawMatchup of matchups || []) {
+    const matchup = normalizeMatchup(rawMatchup);
+    const opponentKey = Number.isFinite(matchup.opponentId)
+      ? `id:${matchup.opponentId}`
+      : matchup.opponentName
+        ? `name:${matchup.opponentName.toLowerCase()}`
+        : "unknown";
+    const key = [
+      opponentKey,
+      matchup.outcome || "",
+      Number.isFinite(matchup.pointsFor) ? matchup.pointsFor : "",
+      Number.isFinite(matchup.pointsAgainst) ? matchup.pointsAgainst : "",
+      matchup.scoreText || ""
+    ].join("|");
+
+    if (!deduped.has(key)) {
+      deduped.set(key, matchup);
+    }
+  }
+
+  return [...deduped.values()];
 }
 
 function mergeTimelineEntries(existing, incoming) {
@@ -75,7 +111,10 @@ function mergeTimelineEntries(existing, incoming) {
     withdrawn: Boolean(primary.withdrawn || secondary.withdrawn),
     position: primary.position ?? secondary.position ?? null,
     wins: primary.wins ?? secondary.wins ?? 0,
-    losses: primary.losses ?? secondary.losses ?? 0
+    losses: primary.losses ?? secondary.losses ?? 0,
+    leaguePoints: primary.leaguePoints ?? secondary.leaguePoints ?? null,
+    leaguePointsAgainst: primary.leaguePointsAgainst ?? secondary.leaguePointsAgainst ?? null,
+    matchups: dedupeMatchups([...(secondary.matchups || []), ...(primary.matchups || [])])
   };
 }
 
@@ -193,10 +232,30 @@ function getSeasonResult(entry, topGroupNumber) {
   }
 }
 
+function buildMatchScoreLookup(rounds) {
+  const map = new Map();
+
+  for (const round of rounds || []) {
+    for (const row of round.players || []) {
+      const selfKey = identityKey(row.playerId, row.name);
+      if (!selfKey) continue;
+      for (const matchup of row.matchups || []) {
+        const opponentKey = identityKey(matchup.opponentId, matchup.opponentName);
+        const pointsFor = safeNumber(matchup.pointsFor);
+        if (!opponentKey || !Number.isFinite(pointsFor)) continue;
+        map.set(`${round.eventId}:${round.roundId}:${selfKey}:${opponentKey}`, pointsFor);
+      }
+    }
+  }
+
+  return map;
+}
+
 export function buildPlayerStats(rounds, options = {}) {
   const { roundFilters = {} } = options;
   const { keptRounds, excludedRounds } = filterRoundsForStats(rounds, roundFilters);
   const topGroupByRound = buildRoundTopGroupMap(keptRounds);
+  const matchScoreLookup = buildMatchScoreLookup(keptRounds);
   const players = new Map();
 
   for (const round of keptRounds) {
@@ -212,6 +271,7 @@ export function buildPlayerStats(rounds, options = {}) {
       if (!players.has(key)) {
         players.set(key, {
           id: key.replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, ""),
+          playerId: safeNumber(row.playerId),
           name,
           timelineMap: new Map()
         });
@@ -223,6 +283,9 @@ export function buildPlayerStats(rounds, options = {}) {
       const outcomeLosses = Number.isFinite(row.losses) ? row.losses : markerLosses;
 
       const player = players.get(key);
+      if (!Number.isFinite(player.playerId) && Number.isFinite(safeNumber(row.playerId))) {
+        player.playerId = safeNumber(row.playerId);
+      }
       const timelineEntry = {
         eventId: round.eventId,
         eventName,
@@ -237,6 +300,9 @@ export function buildPlayerStats(rounds, options = {}) {
         position: safeNumber(row.position),
         wins: outcomeWins,
         losses: outcomeLosses,
+        leaguePoints: safeNumber(row.points),
+        leaguePointsAgainst: safeNumber(row.pointsAgainst),
+        matchups: dedupeMatchups(row.matchups || []),
         sourceUrl: round.url
       };
       const timelineKey = roundKey(round.eventId, round.roundId);
@@ -298,8 +364,15 @@ export function buildPlayerStats(rounds, options = {}) {
     }
 
     const totalGames = player.totalWins + player.totalLosses;
+    const bestPosition = computeBestPositionFromTimeline(player.timeline);
+    const headToHead = aggregateHeadToHeadAndPoints(
+      player.timeline,
+      identityKey(player.playerId, player.name),
+      matchScoreLookup
+    );
     outputPlayers.push({
       id: player.id,
+      playerId: Number.isFinite(player.playerId) ? player.playerId : null,
       name: player.name,
       totalRounds: player.timeline.length,
       totalWins: player.totalWins,
@@ -308,6 +381,10 @@ export function buildPlayerStats(rounds, options = {}) {
       promotions,
       relegations,
       stayed,
+      bestPosition,
+      topOpponents: headToHead.topOpponents,
+      tennisPointsFor: headToHead.tennisPointsFor,
+      tennisPointsAgainst: headToHead.tennisPointsAgainst,
       timeline: player.timeline
     });
   }
