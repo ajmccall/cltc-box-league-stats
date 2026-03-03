@@ -4,7 +4,9 @@ Static player stats site for your CLTC box leagues. No database or backend.
 
 ## What this includes
 
-- `index.html` static UI (search player, view W/L and movement over rounds)
+- `index.html` Open Box League page
+- `women.html` Women's Box League page
+- Shared static UI (search player, view W/L and movement over rounds)
 - `scripts/update-data.mjs` crawler + normalizer
 - `scripts/build-stats.mjs` player summary generator
 - Local JSON data files under `data/`
@@ -41,7 +43,10 @@ npm run update-data
 npm run serve
 ```
 
-Open: `http://localhost:8000`
+Open:
+
+- `http://localhost:8000/index.html` (Open)
+- `http://localhost:8000/women.html` (Women's)
 
 ## GitHub Pages deploy
 

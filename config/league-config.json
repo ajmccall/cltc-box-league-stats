@@ -13,8 +13,8 @@
       "id": 4,
       "slug": "women",
       "name": "CLTC Women's Box League",
-      "enabled": false,
-      "seedRoundIds": [26]
+      "enabled": true,
+      "seedRoundIds": [26, 25, 24, 22]
     }
   ],
   "scan": {

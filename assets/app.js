@@ -1,4 +1,6 @@
 const dataUrl = "./data/player-stats.json";
+const pageEventId = parseEventIdFromPage();
+const pageLeagueName = (document.documentElement.dataset.leagueName || "").trim();
 const ACTIVE_BAND_PALETTE = "cltc_vivid";
 const BAND_PALETTES = {
   cltc_vivid: {
@@ -24,6 +26,12 @@ const state = {
 
 function byId(id) {
   return document.getElementById(id);
+}
+
+function parseEventIdFromPage() {
+  const raw = document.documentElement.dataset.eventId;
+  const parsed = Number.parseInt(String(raw ?? ""), 10);
+  return Number.isFinite(parsed) ? parsed : null;
 }
 
 function cssVar(name, fallback) {
@@ -56,6 +64,59 @@ function cleanRoundLabel(label, roundId = null) {
 
 function roundKey(eventId, roundId) {
   return `${eventId}:${roundId}`;
+}
+
+function sortTimeline(a, b) {
+  if (a.eventId !== b.eventId) return a.eventId - b.eventId;
+  return a.roundId - b.roundId;
+}
+
+function filterDataByEvent(data, eventId) {
+  if (!Number.isFinite(eventId)) return data;
+
+  const players = [];
+
+  for (const player of data.players || []) {
+    const timeline = (player.timeline || [])
+      .filter((entry) => entry.eventId === eventId)
+      .slice()
+      .sort(sortTimeline);
+
+    if (timeline.length === 0) continue;
+
+    const totalWins = timeline.reduce((sum, entry) => sum + (entry.wins || 0), 0);
+    const totalLosses = timeline.reduce((sum, entry) => sum + (entry.losses || 0), 0);
+    const totalGames = totalWins + totalLosses;
+
+    let promotions = 0;
+    let relegations = 0;
+    let stayed = 0;
+    for (const entry of timeline) {
+      if (entry.transition === "promotion") promotions += 1;
+      if (entry.transition === "relegation") relegations += 1;
+      if (entry.transition === "stayed") stayed += 1;
+    }
+
+    players.push({
+      ...player,
+      totalRounds: timeline.length,
+      totalWins,
+      totalLosses,
+      winRate: totalGames > 0 ? Number((totalWins / totalGames).toFixed(3)) : null,
+      promotions,
+      relegations,
+      stayed,
+      timeline
+    });
+  }
+
+  players.sort((a, b) => a.name.localeCompare(b.name));
+
+  return {
+    ...data,
+    playerCount: players.length,
+    players
+  };
 }
 
 function buildTopGroupMap(data) {
@@ -330,10 +391,23 @@ async function init() {
     throw new Error(`Failed to load ${dataUrl}: ${response.status}`);
   }
 
-  state.data = await response.json();
+  const rawData = await response.json();
+  state.data = filterDataByEvent(rawData, pageEventId);
   state.topGroupByRound = buildTopGroupMap(state.data);
   state.maxDivision = findMaxDivision(state.data);
-  byId("meta").textContent = `Data updated ${new Date(state.data.generatedAt).toLocaleString()} · ${state.data.playerCount} players`;
+  const leaguePrefix = pageLeagueName ? `${pageLeagueName} · ` : "";
+  const generatedAtText = state.data.generatedAt
+    ? new Date(state.data.generatedAt).toLocaleString()
+    : "unknown time";
+  byId("meta").textContent = `${leaguePrefix}Data updated ${generatedAtText} · ${state.data.playerCount} players`;
+
+  if ((state.data.playerCount || 0) === 0) {
+    byId("empty-state").classList.remove("hidden");
+    byId("empty-state").querySelector("p").textContent =
+      "No players found for this league yet. Run update-data to refresh league data.";
+    byId("player-input").disabled = true;
+    return;
+  }
 
   hydratePlayerOptions();
   bindEvents();

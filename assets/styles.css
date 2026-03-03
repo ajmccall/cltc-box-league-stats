@@ -74,6 +74,30 @@ body {
   color: var(--muted);
 }
 
+.league-nav {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.9rem;
+}
+
+.league-link {
+  display: inline-block;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--panel);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.league-link.is-active {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+
 .controls,
 .card {
   margin-top: 1rem;

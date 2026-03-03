@@ -419,7 +419,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-03-02T07:00:53.594Z"
+    "fetchedAt": "2026-03-03T09:17:42.029Z"
   },
   {
     "eventId": 1,
@@ -944,7 +944,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-03-02T07:00:51.455Z"
+    "fetchedAt": "2026-03-03T09:17:40.151Z"
   },
   {
     "eventId": 1,
@@ -1467,7 +1467,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-03-02T07:00:49.127Z"
+    "fetchedAt": "2026-03-03T09:17:37.507Z"
   },
   {
     "eventId": 1,
@@ -2012,7 +2012,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-03-02T07:00:46.517Z"
+    "fetchedAt": "2026-03-03T09:17:35.521Z"
   },
   {
     "eventId": 1,
@@ -2593,7 +2593,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-03-02T07:00:44.024Z"
+    "fetchedAt": "2026-03-03T09:17:33.599Z"
   },
   {
     "eventId": 1,
@@ -3133,7 +3133,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-03-02T07:00:41.459Z"
+    "fetchedAt": "2026-03-03T09:17:31.620Z"
   },
   {
     "eventId": 1,
@@ -3724,7 +3724,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-03-02T07:00:39.049Z"
+    "fetchedAt": "2026-03-03T09:17:29.777Z"
   },
   {
     "eventId": 1,
@@ -4336,7 +4336,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-03-02T07:00:36.411Z"
+    "fetchedAt": "2026-03-03T09:17:26.203Z"
   },
   {
     "eventId": 1,
@@ -5006,7 +5006,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-03-02T07:00:33.866Z"
+    "fetchedAt": "2026-03-03T09:17:24.156Z"
   },
   {
     "eventId": 1,
@@ -5681,7 +5681,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-03-02T07:00:30.700Z"
+    "fetchedAt": "2026-03-03T09:17:22.147Z"
   },
   {
     "eventId": 1,
@@ -6247,7 +6247,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-03-02T07:00:28.069Z"
+    "fetchedAt": "2026-03-03T09:17:20.081Z"
   },
   {
     "eventId": 1,
@@ -6887,7 +6887,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-03-02T07:00:25.486Z"
+    "fetchedAt": "2026-03-03T09:17:18.222Z"
   },
   {
     "eventId": 1,
@@ -7568,7 +7568,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-03-02T07:00:22.607Z"
+    "fetchedAt": "2026-03-03T09:17:16.056Z"
   },
   {
     "eventId": 1,
@@ -7581,7 +7581,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-03-02T07:00:19.862Z"
+    "fetchedAt": "2026-03-03T09:17:14.039Z"
   },
   {
     "eventId": 1,
@@ -8339,6 +8339,1551 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-03-02T07:00:19.328Z"
+    "fetchedAt": "2026-03-03T09:17:13.675Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 28,
+    "roundLabel": "The Great Spring Scramble - 2026 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "3 Mar",
+    "roundEnd": "31 May",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
+    "groupContentUrls": [],
+    "players": [],
+    "playerCount": 0,
+    "fetchedAt": "2026-03-03T09:17:11.346Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 17,
+    "roundLabel": "Winter Warmer 2025 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "14 Jan 2025",
+    "roundEnd": "13 Apr 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/17",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/17/GetGroupContent?drawID=55&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/17/GetGroupContent?drawID=56&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/17/GetGroupContent?drawID=57&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 28,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Carol Hunt",
+        "playerId": 83,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 21,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Liz Bowran",
+        "playerId": 85,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 10,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Nicola Feltham",
+        "playerId": 86,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 3,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 57,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sarah Ruiz",
+        "playerId": 87,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 56,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Katrina O&#39;Keeffe",
+        "playerId": 98,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 48,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Joanne Lingwood",
+        "playerId": 88,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christine James",
+        "playerId": 90,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 14,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clare Martin",
+        "playerId": 91,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 13,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Anita Bjelke",
+        "playerId": 89,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Ruth Short",
+        "playerId": 97,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Lynne O&#39;Brien",
+        "playerId": 94,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 45,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Lisa Graves",
+        "playerId": 92,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 36,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Edyta Mccall",
+        "playerId": 93,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 2,
+        "losses": 3,
+        "points": 31,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bethan Jones",
+        "playerId": 95,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 20,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Sabah Khan",
+        "playerId": 78,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 16,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Rebecca Donohoe",
+        "playerId": 96,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 20,
+    "fetchedAt": "2026-03-03T09:17:52.194Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 18,
+    "roundLabel": "Spring Swing 2025 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "18 Apr 2025",
+    "roundEnd": "18 Apr 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/18",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/18/GetGroupContent?drawID=58&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/18/GetGroupContent?drawID=59&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/18/GetGroupContent?drawID=60&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Carol Hunt",
+        "playerId": 83,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Liz Bowran",
+        "playerId": 85,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Katrina O&#39;Keeffe",
+        "playerId": 98,
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Sarah Ruiz",
+        "playerId": 87,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Joanne Lingwood",
+        "playerId": 88,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Christine James",
+        "playerId": 90,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Ruth Short",
+        "playerId": 97,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Lynne O&#39;Brien",
+        "playerId": 94,
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Clare Martin",
+        "playerId": 91,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Lisa Graves",
+        "playerId": 92,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Edyta Mccall",
+        "playerId": 93,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Bethan Jones",
+        "playerId": 95,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Sabah Khan",
+        "playerId": 78,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Rebecca Donohoe",
+        "playerId": 96,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Anna Caruso",
+        "playerId": 100,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      },
+      {
+        "name": "Alex Davis",
+        "playerId": 105,
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "markers": []
+      }
+    ],
+    "playerCount": 20,
+    "fetchedAt": "2026-03-03T09:17:50.732Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 20,
+    "roundLabel": "Spring Swing 2025 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "19 Apr 2025",
+    "roundEnd": "27 Jul 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/20",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/20/GetGroupContent?drawID=67&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/20/GetGroupContent?drawID=68&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/20/GetGroupContent?drawID=69&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Carol Hunt",
+        "playerId": 83,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 24,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 23,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 17,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Liz Bowran",
+        "playerId": 85,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 12,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Katrina O&#39;Keeffe",
+        "playerId": 98,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 5,
+        "losses": 1,
+        "points": 65,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sarah Ruiz",
+        "playerId": 87,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 58,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Ruth Short",
+        "playerId": 97,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 3,
+        "losses": 2,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Joanne Lingwood",
+        "playerId": 88,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 30,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christine James",
+        "playerId": 90,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 10,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Lynne O&#39;Brien",
+        "playerId": 94,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 7,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Clare Martin",
+        "playerId": 91,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 3,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Lisa Graves",
+        "playerId": 92,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 4,
+        "losses": 1,
+        "points": 49,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clarice Williamson",
+        "playerId": 106,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 5,
+        "losses": 0,
+        "points": 42,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Anna Caruso",
+        "playerId": 100,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 34,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Edyta Mccall",
+        "playerId": 93,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bethan Jones",
+        "playerId": 95,
+        "position": 5,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 0,
+        "losses": 5,
+        "points": 27,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Alex Davis",
+        "playerId": 105,
+        "position": 6,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sabah Khan",
+        "playerId": 78,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Rebecca Donohoe",
+        "playerId": 96,
+        "position": 7,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 21,
+    "fetchedAt": "2026-03-03T09:17:49.428Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 22,
+    "roundLabel": "LTA - Tennis for Britain",
+    "roundStart": null,
+    "roundEnd": null,
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/22",
+    "groupContentUrls": [],
+    "players": [],
+    "playerCount": 0,
+    "fetchedAt": "2026-03-03T09:17:48.139Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 23,
+    "roundLabel": "Summer Smash 2025 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "28 Jul 2025",
+    "roundEnd": "2 Nov 2025",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/23",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/23/GetGroupContent?drawID=81&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/23/GetGroupContent?drawID=82&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/23/GetGroupContent?drawID=83&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 72,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Carol Hunt",
+        "playerId": 83,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 4,
+        "losses": 2,
+        "points": 49,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sarah Ruiz",
+        "playerId": 87,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 44,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 3,
+        "losses": 3,
+        "points": 43,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 39,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Liz Bowran",
+        "playerId": 85,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 21,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Joanne Lingwood",
+        "playerId": 88,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 4,
+        "losses": 0,
+        "points": 47,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Lisa Graves",
+        "playerId": 92,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 35,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Clarice Williamson",
+        "playerId": 106,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Ruth Short",
+        "playerId": 97,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 27,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christine James",
+        "playerId": 90,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 9,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Lynne O&#39;Brien",
+        "playerId": 94,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Anna Caruso",
+        "playerId": 100,
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 17,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bethan Jones",
+        "playerId": 95,
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 15,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alex Davis",
+        "playerId": 105,
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 13,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Edyta Mccall",
+        "playerId": 93,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Rebecca Donohoe",
+        "playerId": 96,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Anita Bjelke",
+        "playerId": 89,
+        "position": 4,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 19,
+    "fetchedAt": "2026-03-03T09:17:47.738Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 24,
+    "roundLabel": "LTA - Tennis for Britain",
+    "roundStart": null,
+    "roundEnd": null,
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/24",
+    "groupContentUrls": [],
+    "players": [],
+    "playerCount": 0,
+    "fetchedAt": "2026-03-03T09:17:46.406Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 25,
+    "roundLabel": "LTA - Tennis for Britain",
+    "roundStart": null,
+    "roundEnd": null,
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/25",
+    "groupContentUrls": [],
+    "players": [],
+    "playerCount": 0,
+    "fetchedAt": "2026-03-03T09:17:45.976Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 26,
+    "roundLabel": "Ice Ice Aces 2025/26 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "6 Nov 2025",
+    "roundEnd": "1 Mar",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/26",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/26/GetGroupContent?drawID=95&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/26/GetGroupContent?drawID=96&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 7,
+        "losses": 0,
+        "points": 92,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "position": 2,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 6,
+        "losses": 1,
+        "points": 62,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "position": 3,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 59,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Carol Hunt",
+        "playerId": 83,
+        "position": 4,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 5,
+        "losses": 2,
+        "points": 52,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Sarah Ruiz",
+        "playerId": 87,
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 2,
+        "losses": 5,
+        "points": 45,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 2,
+        "losses": 4,
+        "points": 40,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Liz Bowran",
+        "playerId": 85,
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 37,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Joanne Lingwood",
+        "playerId": 88,
+        "position": 8,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": true,
+        "played": 6,
+        "wins": 0,
+        "losses": 6,
+        "points": 18,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Lisa Graves",
+        "playerId": 92,
+        "position": 9,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      },
+      {
+        "name": "Ruth Short",
+        "playerId": 97,
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 6,
+        "wins": 6,
+        "losses": 0,
+        "points": 61,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Alex Davis",
+        "playerId": 105,
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 32,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Anna Caruso",
+        "playerId": 100,
+        "position": 3,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 26,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Bethan Jones",
+        "playerId": 95,
+        "position": 4,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 0,
+        "losses": 4,
+        "points": 24,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Edyta Mccall",
+        "playerId": 93,
+        "position": 5,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 14,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Lynne O&#39;Brien",
+        "playerId": 94,
+        "position": 6,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 12,
+        "markers": [
+          "win"
+        ]
+      },
+      {
+        "name": "Christine James",
+        "playerId": 90,
+        "position": 7,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 5,
+        "markers": [
+          "loss"
+        ]
+      },
+      {
+        "name": "Clarice Williamson",
+        "playerId": 106,
+        "position": 8,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": true,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": 0,
+        "markers": []
+      }
+    ],
+    "playerCount": 17,
+    "fetchedAt": "2026-03-03T09:17:45.600Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 29,
+    "roundLabel": "The Great Spring Scramble - 2026 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "4 Mar",
+    "roundEnd": "31 May",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/29",
+    "groupContentUrls": [],
+    "players": [],
+    "playerCount": 0,
+    "fetchedAt": "2026-03-03T09:17:44.530Z"
   }
 ]

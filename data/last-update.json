@@ -1,17 +1,24 @@
 {
-  "generatedAt": "2026-03-02T07:00:54.021Z",
-  "rounds": 15,
-  "players": 77,
+  "generatedAt": "2026-03-03T09:17:52.476Z",
+  "rounds": 25,
+  "players": 94,
   "events": [
     {
       "id": 1,
       "slug": "open",
       "name": "CLTC Open Box League"
+    },
+    {
+      "id": 4,
+      "slug": "women",
+      "name": "CLTC Women's Box League"
     }
   ],
   "notes": [
     "Scraping event 1 (open)",
     "open seed 25: cookie wall encountered, submitting consent.",
-    "Excluded rounds from stats: 7 (zero-activity), 19 (zero-activity), 24 (zero-activity)"
+    "Scraping event 4 (women)",
+    "women seed 26: cookie wall encountered, submitting consent.",
+    "Excluded rounds from stats: 7 (zero-activity), 19 (zero-activity), 24 (zero-activity), 28 (zero-activity), 18 (zero-activity), 22 (zero-activity), 24 (zero-activity), 25 (zero-activity), 29 (zero-activity)"
   ]
 }
