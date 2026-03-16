@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T07:11:39.461Z",
+  "generatedAt": "2026-03-16T07:27:20.440Z",
   "includedRoundCount": 17,
   "excludedRoundCount": 8,
   "excludedRounds": [
@@ -59,9 +59,9 @@
       "playerId": 25,
       "name": "Adam Biswell",
       "totalRounds": 10,
-      "totalWins": 24,
+      "totalWins": 25,
       "totalLosses": 7,
-      "winRate": 0.774,
+      "winRate": 0.781,
       "promotions": 0,
       "relegations": 0,
       "stayed": 8,
@@ -104,8 +104,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 313,
-      "tennisPointsAgainst": 151,
+      "tennisPointsFor": 324,
+      "tennisPointsAgainst": 155,
       "timeline": [
         {
           "eventId": 1,
@@ -582,12 +582,21 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
-          "wins": 0,
+          "position": 2,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 11,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -609,11 +618,11 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 0,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 3,
+        "roundId": 25,
+        "roundLabel": "Ice Ice Aces 2025/26",
+        "roundStart": "7 Nov 2025",
+        "roundEnd": "1 Mar",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -804,10 +813,10 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 4,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -1267,18 +1276,18 @@
       "name": "Alasdair McCall",
       "totalRounds": 13,
       "totalWins": 26,
-      "totalLosses": 36,
-      "winRate": 0.419,
+      "totalLosses": 37,
+      "winRate": 0.413,
       "promotions": 4,
       "relegations": 4,
       "stayed": 4,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 0,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 3,
+        "roundId": 15,
+        "roundLabel": "Winter 2025",
+        "roundStart": "7 Jan 2025",
+        "roundEnd": "13 Apr 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -1311,8 +1320,8 @@
           "pointsAgainst": 32
         }
       ],
-      "tennisPointsFor": 403,
-      "tennisPointsAgainst": 532,
+      "tennisPointsFor": 408,
+      "tennisPointsAgainst": 542,
       "timeline": [
         {
           "eventId": 1,
@@ -2109,12 +2118,21 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": null,
+          "losses": 1,
+          "leaguePoints": 5,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -3171,11 +3189,11 @@
       "stayed": 4,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 0,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 2,
+        "roundId": 21,
+        "roundLabel": "Swing Spring - 2025",
+        "roundStart": "19 Apr 2025",
+        "roundEnd": "27 Jul 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -3646,10 +3664,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -4180,10 +4198,10 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -4991,7 +5009,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -8501,9 +8519,9 @@
       "playerId": 4,
       "name": "Clive Coulson",
       "totalRounds": 13,
-      "totalWins": 16,
+      "totalWins": 17,
       "totalLosses": 22,
-      "winRate": 0.421,
+      "winRate": 0.436,
       "promotions": 2,
       "relegations": 4,
       "stayed": 6,
@@ -8521,11 +8539,11 @@
         {
           "opponentId": 3,
           "opponentName": "Richard Beales",
-          "played": 5,
-          "wins": 5,
+          "played": 6,
+          "wins": 6,
           "losses": 0,
-          "pointsFor": 56,
-          "pointsAgainst": 20
+          "pointsFor": 67,
+          "pointsAgainst": 24
         },
         {
           "opponentId": 5,
@@ -8546,8 +8564,8 @@
           "pointsAgainst": 12
         }
       ],
-      "tennisPointsFor": 293,
-      "tennisPointsAgainst": 294,
+      "tennisPointsFor": 304,
+      "tennisPointsAgainst": 298,
       "timeline": [
         {
           "eventId": 1,
@@ -9151,17 +9169,26 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
-          "wins": 0,
+          "position": 1,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 11,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 3,
+              "opponentName": "Richard Beales",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -9178,11 +9205,11 @@
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 0,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 3,
+        "roundId": 1,
+        "roundLabel": "Winter 2022",
+        "roundStart": "31 Dec 2022",
+        "roundEnd": "16 Apr 2023",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -9722,10 +9749,10 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -10857,10 +10884,10 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -11494,10 +11521,10 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 4,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -11892,10 +11919,10 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -13588,7 +13615,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -14016,9 +14043,9 @@
       "playerId": 17,
       "name": "Harry Ikin",
       "totalRounds": 13,
-      "totalWins": 24,
+      "totalWins": 25,
       "totalLosses": 30,
-      "winRate": 0.444,
+      "winRate": 0.455,
       "promotions": 5,
       "relegations": 3,
       "stayed": 4,
@@ -14061,8 +14088,8 @@
           "pointsAgainst": 22
         }
       ],
-      "tennisPointsFor": 353,
-      "tennisPointsAgainst": 382,
+      "tennisPointsFor": 361,
+      "tennisPointsAgainst": 389,
       "timeline": [
         {
           "eventId": 1,
@@ -14746,11 +14773,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 2,
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 5,
+          "leaguePoints": 13,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 6,
+              "opponentName": "Neil McAlpine",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 43,
               "opponentName": "Mark Smith",
@@ -14773,15 +14808,15 @@
       "playerId": 52,
       "name": "Henry Peart Smith",
       "totalRounds": 1,
-      "totalWins": 0,
-      "totalLosses": 0,
-      "winRate": null,
+      "totalWins": 1,
+      "totalLosses": 1,
+      "winRate": 0.5,
       "promotions": 0,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 0,
+        "position": 1,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -14789,9 +14824,28 @@
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
-      "topOpponents": [],
-      "tennisPointsFor": null,
-      "tennisPointsAgainst": null,
+      "topOpponents": [
+        {
+          "opponentId": 20,
+          "opponentName": "Alasdair McCall",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 10,
+          "pointsAgainst": 5
+        },
+        {
+          "opponentId": 25,
+          "opponentName": "Adam Biswell",
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "pointsFor": 4,
+          "pointsAgainst": 11
+        }
+      ],
+      "tennisPointsFor": 14,
+      "tennisPointsAgainst": 16,
       "timeline": [
         {
           "eventId": 1,
@@ -14804,17 +14858,34 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
-          "wins": 0,
-          "losses": 0,
-          "leaguePoints": null,
+          "position": 1,
+          "wins": 1,
+          "losses": 1,
+          "leaguePoints": 14,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 25,
+              "opponentName": "Adam Biswell",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -15508,7 +15579,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -15535,7 +15606,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 0,
+        "position": 3,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -15544,8 +15615,8 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [],
-      "tennisPointsFor": null,
-      "tennisPointsAgainst": null,
+      "tennisPointsFor": 0,
+      "tennisPointsAgainst": 0,
       "timeline": [
         {
           "eventId": 1,
@@ -15558,10 +15629,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -15585,7 +15656,7 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 0,
+        "position": 3,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -15748,10 +15819,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -16536,8 +16607,8 @@
       "name": "Joseph Bedford",
       "totalRounds": 6,
       "totalWins": 16,
-      "totalLosses": 9,
-      "winRate": 0.64,
+      "totalLosses": 10,
+      "winRate": 0.615,
       "promotions": 2,
       "relegations": 1,
       "stayed": 2,
@@ -16580,8 +16651,8 @@
           "pointsAgainst": 5
         }
       ],
-      "tennisPointsFor": 211,
-      "tennisPointsAgainst": 164,
+      "tennisPointsFor": 216,
+      "tennisPointsAgainst": 174,
       "timeline": [
         {
           "eventId": 1,
@@ -16914,12 +16985,21 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 5,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 43,
+              "opponentName": "Mark Smith",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -17688,7 +17768,7 @@
       "stayed": 3,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 0,
+        "position": 3,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -17962,10 +18042,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -19367,7 +19447,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -19386,9 +19466,9 @@
       "playerId": 43,
       "name": "Mark Smith",
       "totalRounds": 10,
-      "totalWins": 30,
-      "totalLosses": 9,
-      "winRate": 0.769,
+      "totalWins": 31,
+      "totalLosses": 10,
+      "winRate": 0.756,
       "promotions": 1,
       "relegations": 1,
       "stayed": 7,
@@ -19431,8 +19511,8 @@
           "pointsAgainst": 11
         }
       ],
-      "tennisPointsFor": 375,
-      "tennisPointsAgainst": 210,
+      "tennisPointsFor": 392,
+      "tennisPointsAgainst": 223,
       "timeline": [
         {
           "eventId": 1,
@@ -19958,11 +20038,27 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 1,
-          "wins": 2,
-          "losses": 0,
-          "leaguePoints": 23,
+          "wins": 3,
+          "losses": 1,
+          "leaguePoints": 40,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 22,
+              "opponentName": "Matthew Burt",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
+            {
+              "opponentId": 33,
+              "opponentName": "Joseph Bedford",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 6,
               "opponentName": "Neil McAlpine",
@@ -20900,10 +20996,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -20969,7 +21065,7 @@
       "playerId": 22,
       "name": "Matthew Burt",
       "totalRounds": 6,
-      "totalWins": 11,
+      "totalWins": 12,
       "totalLosses": 0,
       "winRate": 1,
       "promotions": 0,
@@ -20987,6 +21083,15 @@
       },
       "topOpponents": [
         {
+          "opponentId": 43,
+          "opponentName": "Mark Smith",
+          "played": 3,
+          "wins": 3,
+          "losses": 0,
+          "pointsFor": 25,
+          "pointsAgainst": 20
+        },
+        {
           "opponentId": 17,
           "opponentName": "Harry Ikin",
           "played": 2,
@@ -20994,15 +21099,6 @@
           "losses": 0,
           "pointsFor": 24,
           "pointsAgainst": 6
-        },
-        {
-          "opponentId": 43,
-          "opponentName": "Mark Smith",
-          "played": 2,
-          "wins": 2,
-          "losses": 0,
-          "pointsFor": 17,
-          "pointsAgainst": 13
         },
         {
           "opponentId": 107,
@@ -21014,8 +21110,8 @@
           "pointsAgainst": 3
         }
       ],
-      "tennisPointsFor": 118,
-      "tennisPointsAgainst": 47,
+      "tennisPointsFor": 126,
+      "tennisPointsAgainst": 54,
       "timeline": [
         {
           "eventId": 1,
@@ -21237,11 +21333,20 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 4,
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 8,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 43,
+              "opponentName": "Mark Smith",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -21263,7 +21368,7 @@
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 0,
+        "position": 3,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -21719,10 +21824,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -22120,7 +22225,7 @@
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 0,
+        "position": 3,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -22707,10 +22812,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -22905,8 +23010,8 @@
       "name": "Neil McAlpine",
       "totalRounds": 8,
       "totalWins": 25,
-      "totalLosses": 4,
-      "winRate": 0.862,
+      "totalLosses": 5,
+      "winRate": 0.833,
       "promotions": 3,
       "relegations": 2,
       "stayed": 2,
@@ -22949,8 +23054,8 @@
           "pointsAgainst": 7
         }
       ],
-      "tennisPointsFor": 306,
-      "tennisPointsAgainst": 129,
+      "tennisPointsFor": 313,
+      "tennisPointsAgainst": 137,
       "timeline": [
         {
           "eventId": 1,
@@ -23356,10 +23461,18 @@
           "withdrawn": false,
           "position": 3,
           "wins": 0,
-          "losses": 1,
-          "leaguePoints": 2,
+          "losses": 2,
+          "leaguePoints": 9,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 17,
+              "opponentName": "Harry Ikin",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 43,
               "opponentName": "Mark Smith",
@@ -23769,11 +23882,11 @@
       "stayed": 8,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 0,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 2,
+        "roundId": 21,
+        "roundLabel": "Swing Spring - 2025",
+        "roundStart": "19 Apr 2025",
+        "roundEnd": "27 Jul 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -24450,10 +24563,10 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 4,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -24546,7 +24659,7 @@
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 0,
+        "position": 4,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -25477,10 +25590,10 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 4,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -26107,11 +26220,11 @@
       "stayed": 8,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 0,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 3,
+        "roundId": 22,
+        "roundLabel": "Summer 2025 - Baseline Burn",
+        "roundStart": "30 Jul 2025",
+        "roundEnd": "2 Nov 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -26741,10 +26854,10 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -26768,7 +26881,7 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 4,
+        "position": 6,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -27083,7 +27196,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -27103,14 +27216,14 @@
       "name": "peter orourke",
       "totalRounds": 2,
       "totalWins": 1,
-      "totalLosses": 2,
-      "winRate": 0.333,
+      "totalLosses": 3,
+      "winRate": 0.25,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 0,
+        "position": 2,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -27119,6 +27232,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 136,
+          "opponentName": "Stefano Capece",
+          "played": 2,
+          "wins": 0,
+          "losses": 2,
+          "pointsFor": 12,
+          "pointsAgainst": 18
+        },
         {
           "opponentId": 106,
           "opponentName": "Clarice Williamson",
@@ -27136,19 +27258,10 @@
           "losses": 1,
           "pointsFor": 5,
           "pointsAgainst": 10
-        },
-        {
-          "opponentId": 136,
-          "opponentName": "Stefano Capece",
-          "played": 1,
-          "wins": 0,
-          "losses": 1,
-          "pointsFor": 6,
-          "pointsAgainst": 9
         }
       ],
-      "tennisPointsFor": 24,
-      "tennisPointsAgainst": 21,
+      "tennisPointsFor": 30,
+      "tennisPointsAgainst": 30,
       "timeline": [
         {
           "eventId": 1,
@@ -27209,12 +27322,21 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
+          "position": 2,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": null,
+          "losses": 1,
+          "leaguePoints": 6,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 136,
+              "opponentName": "Stefano Capece",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -28023,10 +28145,10 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -28311,8 +28433,8 @@
       "name": "Richard Beales",
       "totalRounds": 13,
       "totalWins": 18,
-      "totalLosses": 53,
-      "winRate": 0.254,
+      "totalLosses": 54,
+      "winRate": 0.25,
       "promotions": 3,
       "relegations": 5,
       "stayed": 4,
@@ -28328,6 +28450,15 @@
       },
       "topOpponents": [
         {
+          "opponentId": 4,
+          "opponentName": "Clive Coulson",
+          "played": 6,
+          "wins": 0,
+          "losses": 6,
+          "pointsFor": 24,
+          "pointsAgainst": 67
+        },
+        {
           "opponentId": 20,
           "opponentName": "Alasdair McCall",
           "played": 5,
@@ -28335,15 +28466,6 @@
           "losses": 4,
           "pointsFor": 36,
           "pointsAgainst": 39
-        },
-        {
-          "opponentId": 4,
-          "opponentName": "Clive Coulson",
-          "played": 5,
-          "wins": 0,
-          "losses": 5,
-          "pointsFor": 20,
-          "pointsAgainst": 56
         },
         {
           "opponentId": 10,
@@ -28355,8 +28477,8 @@
           "pointsAgainst": 52
         }
       ],
-      "tennisPointsFor": 437,
-      "tennisPointsAgainst": 639,
+      "tennisPointsFor": 441,
+      "tennisPointsAgainst": 650,
       "timeline": [
         {
           "eventId": 1,
@@ -29225,12 +29347,21 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 2,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": null,
+          "losses": 1,
+          "leaguePoints": 4,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 4,
+              "opponentName": "Clive Coulson",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -29351,10 +29482,10 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -30744,7 +30875,7 @@
       "playerId": 136,
       "name": "Stefano Capece",
       "totalRounds": 2,
-      "totalWins": 2,
+      "totalWins": 3,
       "totalLosses": 0,
       "winRate": 1,
       "promotions": 1,
@@ -30752,7 +30883,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 0,
+        "position": 1,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -30762,6 +30893,15 @@
       },
       "topOpponents": [
         {
+          "opponentId": 135,
+          "opponentName": "peter orourke",
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "pointsFor": 18,
+          "pointsAgainst": 12
+        },
+        {
           "opponentId": 106,
           "opponentName": "Clarice Williamson",
           "played": 1,
@@ -30769,19 +30909,10 @@
           "losses": 0,
           "pointsFor": 11,
           "pointsAgainst": 4
-        },
-        {
-          "opponentId": 135,
-          "opponentName": "peter orourke",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 9,
-          "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 20,
-      "tennisPointsAgainst": 10,
+      "tennisPointsFor": 29,
+      "tennisPointsAgainst": 16,
       "timeline": [
         {
           "eventId": 1,
@@ -30834,17 +30965,26 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 0,
-          "wins": 0,
+          "position": 1,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 9,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 135,
+              "opponentName": "peter orourke",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -32370,10 +32510,10 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 4,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -33970,10 +34110,10 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 4,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
@@ -34253,11 +34393,11 @@
       "stayed": 3,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 0,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 3,
+        "roundId": 21,
+        "roundLabel": "Swing Spring - 2025",
+        "roundStart": "19 Apr 2025",
+        "roundEnd": "27 Jul 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -34568,10 +34708,10 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 0,
+          "position": 4,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
