@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T07:52:43.747Z",
+  "generatedAt": "2026-04-06T07:55:24.779Z",
   "includedRoundCount": 18,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -2154,7 +2154,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 6,
           "wins": 0,
           "losses": 4,
           "leaguePoints": 16,
@@ -5173,7 +5173,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -5622,9 +5622,9 @@
       "playerId": 83,
       "name": "Carol Hunt",
       "totalRounds": 5,
-      "totalWins": 14,
-      "totalLosses": 7,
-      "winRate": 0.667,
+      "totalWins": 15,
+      "totalLosses": 8,
+      "winRate": 0.652,
       "promotions": 0,
       "relegations": 0,
       "stayed": 4,
@@ -5642,20 +5642,20 @@
         {
           "opponentId": 85,
           "opponentName": "Liz Bowran",
-          "played": 4,
-          "wins": 4,
+          "played": 5,
+          "wins": 5,
           "losses": 0,
-          "pointsFor": 41,
-          "pointsAgainst": 19
+          "pointsFor": 54,
+          "pointsAgainst": 21
         },
         {
           "opponentId": 77,
           "opponentName": "Wendy Bignold",
-          "played": 4,
+          "played": 5,
           "wins": 0,
-          "losses": 4,
-          "pointsFor": 15,
-          "pointsAgainst": 45
+          "losses": 5,
+          "pointsFor": 17,
+          "pointsAgainst": 58
         },
         {
           "opponentId": 71,
@@ -5667,8 +5667,8 @@
           "pointsAgainst": 17
         }
       ],
-      "tennisPointsFor": 169,
-      "tennisPointsAgainst": 143,
+      "tennisPointsFor": 184,
+      "tennisPointsAgainst": 158,
       "timeline": [
         {
           "eventId": 4,
@@ -5930,11 +5930,27 @@
           "groupSize": 8,
           "withdrawn": false,
           "position": 1,
-          "wins": 2,
-          "losses": 0,
-          "leaguePoints": 23,
+          "wins": 3,
+          "losses": 1,
+          "leaguePoints": 38,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 85,
+              "opponentName": "Liz Bowran",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
+            {
+              "opponentId": 77,
+              "opponentName": "Wendy Bignold",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
             {
               "opponentId": 71,
               "opponentName": "Celeste Narywonczyk",
@@ -6421,7 +6437,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 4,
@@ -11798,7 +11814,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 9,
+          "position": 10,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -12500,7 +12516,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 13,
@@ -13980,7 +13996,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -15174,8 +15190,8 @@
       "name": "Henry Peart Smith",
       "totalRounds": 1,
       "totalWins": 1,
-      "totalLosses": 1,
-      "winRate": 0.5,
+      "totalLosses": 2,
+      "winRate": 0.333,
       "promotions": 0,
       "relegations": 0,
       "stayed": 0,
@@ -15207,10 +15223,19 @@
           "losses": 1,
           "pointsFor": 4,
           "pointsAgainst": 11
+        },
+        {
+          "opponentId": 10,
+          "opponentName": "Nicholas Suggit",
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "pointsFor": 4,
+          "pointsAgainst": 11
         }
       ],
-      "tennisPointsFor": 14,
-      "tennisPointsAgainst": 16,
+      "tennisPointsFor": 18,
+      "tennisPointsAgainst": 27,
       "timeline": [
         {
           "eventId": 1,
@@ -15225,10 +15250,18 @@
           "withdrawn": false,
           "position": 4,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 14,
+          "losses": 2,
+          "leaguePoints": 18,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 25,
               "opponentName": "Adam Biswell",
@@ -17415,14 +17448,14 @@
       "name": "Katrina O&#39;Keeffe",
       "totalRounds": 3,
       "totalWins": 3,
-      "totalLosses": 4,
-      "winRate": 0.429,
+      "totalLosses": 5,
+      "winRate": 0.375,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 3,
+        "position": 4,
         "roundId": 29,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "4 Mar",
@@ -17459,8 +17492,8 @@
           "pointsAgainst": 0
         }
       ],
-      "tennisPointsFor": 53,
-      "tennisPointsAgainst": 52,
+      "tennisPointsFor": 55,
+      "tennisPointsAgainst": 65,
       "timeline": [
         {
           "eventId": 4,
@@ -17560,12 +17593,20 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
-          "losses": 2,
-          "leaguePoints": 5,
+          "losses": 3,
+          "leaguePoints": 7,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 77,
+              "opponentName": "Wendy Bignold",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
             {
               "opponentId": 83,
               "opponentName": "Carol Hunt",
@@ -18749,8 +18790,8 @@
       "name": "Liz Bowran",
       "totalRounds": 5,
       "totalWins": 2,
-      "totalLosses": 17,
-      "winRate": 0.105,
+      "totalLosses": 18,
+      "winRate": 0.1,
       "promotions": 0,
       "relegations": 0,
       "stayed": 4,
@@ -18768,11 +18809,11 @@
         {
           "opponentId": 83,
           "opponentName": "Carol Hunt",
-          "played": 4,
+          "played": 5,
           "wins": 0,
-          "losses": 4,
-          "pointsFor": 19,
-          "pointsAgainst": 41
+          "losses": 5,
+          "pointsFor": 21,
+          "pointsAgainst": 54
         },
         {
           "opponentId": 77,
@@ -18793,8 +18834,8 @@
           "pointsAgainst": 29
         }
       ],
-      "tennisPointsFor": 80,
-      "tennisPointsAgainst": 205,
+      "tennisPointsFor": 82,
+      "tennisPointsAgainst": 218,
       "timeline": [
         {
           "eventId": 4,
@@ -19055,12 +19096,21 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 2,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 83,
+              "opponentName": "Carol Hunt",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/29",
           "transition": null,
           "resultCode": "none",
@@ -19934,7 +19984,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -19953,9 +20003,9 @@
       "playerId": 43,
       "name": "Mark Smith",
       "totalRounds": 10,
-      "totalWins": 31,
+      "totalWins": 32,
       "totalLosses": 10,
-      "winRate": 0.756,
+      "winRate": 0.762,
       "promotions": 1,
       "relegations": 1,
       "stayed": 7,
@@ -19998,8 +20048,8 @@
           "pointsAgainst": 11
         }
       ],
-      "tennisPointsFor": 392,
-      "tennisPointsAgainst": 223,
+      "tennisPointsFor": 403,
+      "tennisPointsAgainst": 227,
       "timeline": [
         {
           "eventId": 1,
@@ -20525,11 +20575,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 1,
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
-          "leaguePoints": 40,
+          "leaguePoints": 51,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 42,
+              "opponentName": "Oscar Williamson",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 22,
               "opponentName": "Matthew Burt",
@@ -22725,7 +22783,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -24426,9 +24484,9 @@
       "playerId": 10,
       "name": "Nicholas Suggit",
       "totalRounds": 12,
-      "totalWins": 23,
+      "totalWins": 25,
       "totalLosses": 24,
-      "winRate": 0.489,
+      "winRate": 0.51,
       "promotions": 2,
       "relegations": 1,
       "stayed": 8,
@@ -24471,8 +24529,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 348,
-      "tennisPointsAgainst": 345,
+      "tennisPointsFor": 369,
+      "tennisPointsAgainst": 354,
       "timeline": [
         {
           "eventId": 1,
@@ -25115,12 +25173,29 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 9,
-          "wins": 0,
+          "position": 3,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 21,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 13,
+              "opponentName": "Nicole Borzatti",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -25204,14 +25279,14 @@
       "name": "Nicole Borzatti",
       "totalRounds": 13,
       "totalWins": 25,
-      "totalLosses": 51,
-      "winRate": 0.329,
+      "totalLosses": 52,
+      "winRate": 0.325,
       "promotions": 4,
       "relegations": 2,
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 5,
+        "position": 4,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -25248,8 +25323,8 @@
           "pointsAgainst": 39
         }
       ],
-      "tennisPointsFor": 477,
-      "tennisPointsAgainst": 662,
+      "tennisPointsFor": 482,
+      "tennisPointsAgainst": 672,
       "timeline": [
         {
           "eventId": 1,
@@ -26142,12 +26217,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 4,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 13,
+          "losses": 2,
+          "leaguePoints": 18,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 110,
               "opponentName": "Adam Farrer",
@@ -27452,8 +27535,8 @@
       "name": "Oscar Williamson",
       "totalRounds": 6,
       "totalWins": 7,
-      "totalLosses": 11,
-      "winRate": 0.389,
+      "totalLosses": 12,
+      "winRate": 0.368,
       "promotions": 3,
       "relegations": 1,
       "stayed": 1,
@@ -27496,8 +27579,8 @@
           "pointsAgainst": 7
         }
       ],
-      "tennisPointsFor": 129,
-      "tennisPointsAgainst": 141,
+      "tennisPointsFor": 133,
+      "tennisPointsAgainst": 152,
       "timeline": [
         {
           "eventId": 1,
@@ -27776,10 +27859,19 @@
           "withdrawn": false,
           "position": 7,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 4,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 43,
+              "opponentName": "Mark Smith",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/28",
           "transition": null,
           "resultCode": "none",
@@ -31102,7 +31194,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -33261,7 +33353,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 11,
@@ -34419,9 +34511,9 @@
       "playerId": 77,
       "name": "Wendy Bignold",
       "totalRounds": 11,
-      "totalWins": 34,
+      "totalWins": 36,
       "totalLosses": 23,
-      "winRate": 0.596,
+      "winRate": 0.61,
       "promotions": 3,
       "relegations": 0,
       "stayed": 6,
@@ -34436,6 +34528,15 @@
         "eventName": "CLTC Women's Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 83,
+          "opponentName": "Carol Hunt",
+          "played": 5,
+          "wins": 5,
+          "losses": 0,
+          "pointsFor": 58,
+          "pointsAgainst": 17
+        },
         {
           "opponentId": 75,
           "opponentName": "Doreen Lam",
@@ -34453,19 +34554,10 @@
           "losses": 2,
           "pointsFor": 41,
           "pointsAgainst": 34
-        },
-        {
-          "opponentId": 83,
-          "opponentName": "Carol Hunt",
-          "played": 4,
-          "wins": 4,
-          "losses": 0,
-          "pointsFor": 45,
-          "pointsAgainst": 15
         }
       ],
-      "tennisPointsFor": 477,
-      "tennisPointsAgainst": 378,
+      "tennisPointsFor": 503,
+      "tennisPointsAgainst": 380,
       "timeline": [
         {
           "eventId": 1,
@@ -34870,7 +34962,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 3,
           "leaguePoints": 11,
@@ -35174,12 +35266,21 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
-          "wins": 0,
+          "position": 2,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 26,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 83,
+              "opponentName": "Carol Hunt",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/29",
           "transition": null,
           "resultCode": "none",
@@ -35516,7 +35617,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 8,
+          "position": 9,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 9,
