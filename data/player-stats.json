@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T07:55:24.779Z",
+  "generatedAt": "2026-04-13T08:15:33.563Z",
   "includedRoundCount": 18,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -3297,8 +3297,8 @@
       "name": "Anthony Boobbyer",
       "totalRounds": 7,
       "totalWins": 18,
-      "totalLosses": 19,
-      "winRate": 0.486,
+      "totalLosses": 20,
+      "winRate": 0.474,
       "promotions": 2,
       "relegations": 0,
       "stayed": 4,
@@ -3316,11 +3316,11 @@
         {
           "opponentId": 64,
           "opponentName": "Melwyn Furtado",
-          "played": 4,
+          "played": 5,
           "wins": 3,
-          "losses": 1,
-          "pointsFor": 34,
-          "pointsAgainst": 26
+          "losses": 2,
+          "pointsFor": 39,
+          "pointsAgainst": 36
         },
         {
           "opponentId": 36,
@@ -3341,8 +3341,8 @@
           "pointsAgainst": 29
         }
       ],
-      "tennisPointsFor": 273,
-      "tennisPointsAgainst": 282,
+      "tennisPointsFor": 278,
+      "tennisPointsAgainst": 292,
       "timeline": [
         {
           "eventId": 1,
@@ -3779,12 +3779,20 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 5,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 9,
+          "losses": 2,
+          "leaguePoints": 14,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 64,
+              "opponentName": "Melwyn Furtado",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 3,
               "opponentName": "Richard Beales",
@@ -6437,7 +6445,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 7,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 4,
@@ -10033,7 +10041,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 7,
@@ -11834,8 +11842,8 @@
       "name": "Doreen Lam",
       "totalRounds": 11,
       "totalWins": 27,
-      "totalLosses": 23,
-      "winRate": 0.54,
+      "totalLosses": 24,
+      "winRate": 0.529,
       "promotions": 2,
       "relegations": 0,
       "stayed": 7,
@@ -11869,17 +11877,17 @@
           "pointsAgainst": 24
         },
         {
-          "opponentId": 83,
-          "opponentName": "Carol Hunt",
-          "played": 3,
-          "wins": 2,
-          "losses": 1,
-          "pointsFor": 26,
-          "pointsAgainst": 19
+          "opponentId": 30,
+          "opponentName": "Peter Walsh",
+          "played": 4,
+          "wins": 1,
+          "losses": 3,
+          "pointsFor": 22,
+          "pointsAgainst": 38
         }
       ],
-      "tennisPointsFor": 399,
-      "tennisPointsAgainst": 346,
+      "tennisPointsFor": 404,
+      "tennisPointsAgainst": 356,
       "timeline": [
         {
           "eventId": 1,
@@ -12214,10 +12222,18 @@
           "withdrawn": false,
           "position": 1,
           "wins": 2,
-          "losses": 1,
-          "leaguePoints": 24,
+          "losses": 2,
+          "leaguePoints": 29,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 18,
               "opponentName": "Daniel Ratinon",
@@ -12516,7 +12532,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 13,
@@ -14432,11 +14448,11 @@
       "stayed": 4,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 3,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 5,
+        "roundId": 21,
+        "roundLabel": "Swing Spring - 2025",
+        "roundStart": "19 Apr 2025",
+        "roundEnd": "27 Jul 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -15153,7 +15169,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 13,
@@ -15977,7 +15993,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 12,
@@ -16013,7 +16029,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 4,
+        "position": 6,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -16046,7 +16062,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 12,
@@ -17033,8 +17049,8 @@
       "name": "Joseph Bedford",
       "totalRounds": 6,
       "totalWins": 16,
-      "totalLosses": 11,
-      "winRate": 0.593,
+      "totalLosses": 12,
+      "winRate": 0.571,
       "promotions": 2,
       "relegations": 1,
       "stayed": 2,
@@ -17077,8 +17093,8 @@
           "pointsAgainst": 5
         }
       ],
-      "tennisPointsFor": 223,
-      "tennisPointsAgainst": 182,
+      "tennisPointsFor": 226,
+      "tennisPointsAgainst": 194,
       "timeline": [
         {
           "eventId": 1,
@@ -17411,12 +17427,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 4,
           "wins": 0,
-          "losses": 2,
-          "leaguePoints": 12,
+          "losses": 3,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 22,
+              "opponentName": "Matthew Burt",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 6,
               "opponentName": "Neil McAlpine",
@@ -17447,9 +17471,9 @@
       "playerId": 98,
       "name": "Katrina O&#39;Keeffe",
       "totalRounds": 3,
-      "totalWins": 3,
+      "totalWins": 4,
       "totalLosses": 5,
-      "winRate": 0.375,
+      "winRate": 0.444,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
@@ -17492,8 +17516,8 @@
           "pointsAgainst": 0
         }
       ],
-      "tennisPointsFor": 55,
-      "tennisPointsAgainst": 65,
+      "tennisPointsFor": 63,
+      "tennisPointsAgainst": 72,
       "timeline": [
         {
           "eventId": 4,
@@ -17594,11 +17618,19 @@
           "groupSize": 8,
           "withdrawn": false,
           "position": 4,
-          "wins": 0,
+          "wins": 1,
           "losses": 3,
-          "leaguePoints": 7,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 85,
+              "opponentName": "Liz Bowran",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 77,
               "opponentName": "Wendy Bignold",
@@ -18790,18 +18822,18 @@
       "name": "Liz Bowran",
       "totalRounds": 5,
       "totalWins": 2,
-      "totalLosses": 18,
-      "winRate": 0.1,
+      "totalLosses": 20,
+      "winRate": 0.091,
       "promotions": 0,
       "relegations": 0,
       "stayed": 4,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 4,
-        "roundId": 17,
-        "roundLabel": "Winter Warmer 2025",
-        "roundStart": "14 Jan 2025",
-        "roundEnd": "13 Apr 2025",
+        "position": 3,
+        "roundId": 29,
+        "roundLabel": "The Great Spring Scramble - 2026",
+        "roundStart": "4 Mar",
+        "roundEnd": "31 May",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -18834,8 +18866,8 @@
           "pointsAgainst": 29
         }
       ],
-      "tennisPointsFor": 82,
-      "tennisPointsAgainst": 218,
+      "tennisPointsFor": 96,
+      "tennisPointsAgainst": 226,
       "timeline": [
         {
           "eventId": 4,
@@ -19096,12 +19128,20 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 6,
+          "position": 3,
           "wins": 0,
-          "losses": 1,
-          "leaguePoints": 2,
+          "losses": 3,
+          "leaguePoints": 16,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 87,
+              "opponentName": "Sarah Ruiz",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 83,
               "opponentName": "Carol Hunt",
@@ -21627,7 +21667,7 @@
       "playerId": 22,
       "name": "Matthew Burt",
       "totalRounds": 6,
-      "totalWins": 12,
+      "totalWins": 13,
       "totalLosses": 0,
       "winRate": 1,
       "promotions": 0,
@@ -21663,17 +21703,17 @@
           "pointsAgainst": 6
         },
         {
-          "opponentId": 107,
-          "opponentName": "Alexia King",
-          "played": 1,
-          "wins": 1,
+          "opponentId": 33,
+          "opponentName": "Joseph Bedford",
+          "played": 2,
+          "wins": 2,
           "losses": 0,
-          "pointsFor": 12,
-          "pointsAgainst": 3
+          "pointsFor": 23,
+          "pointsAgainst": 7
         }
       ],
-      "tennisPointsFor": 126,
-      "tennisPointsAgainst": 54,
+      "tennisPointsFor": 138,
+      "tennisPointsAgainst": 57,
       "timeline": [
         {
           "eventId": 1,
@@ -21894,12 +21934,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
-          "wins": 1,
+          "position": 2,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 8,
+          "leaguePoints": 20,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 33,
+              "opponentName": "Joseph Bedford",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 43,
               "opponentName": "Mark Smith",
@@ -22783,7 +22831,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -22802,19 +22850,19 @@
       "playerId": 64,
       "name": "Melwyn Furtado",
       "totalRounds": 9,
-      "totalWins": 14,
+      "totalWins": 15,
       "totalLosses": 30,
-      "winRate": 0.318,
+      "winRate": 0.333,
       "promotions": 2,
       "relegations": 0,
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 5,
-        "roundId": 22,
-        "roundLabel": "Summer 2025 - Baseline Burn",
-        "roundStart": "30 Jul 2025",
-        "roundEnd": "2 Nov 2025",
+        "position": 4,
+        "roundId": 28,
+        "roundLabel": "The Great Spring Scramble - 2026",
+        "roundStart": "3 Mar",
+        "roundEnd": "31 May",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -22838,17 +22886,17 @@
           "pointsAgainst": 40
         },
         {
-          "opponentId": 36,
-          "opponentName": "OMAR IBRAHIM",
+          "opponentId": 72,
+          "opponentName": "Anthony Boobbyer",
           "played": 5,
-          "wins": 0,
-          "losses": 5,
-          "pointsFor": 24,
-          "pointsAgainst": 51
+          "wins": 2,
+          "losses": 3,
+          "pointsFor": 36,
+          "pointsAgainst": 39
         }
       ],
-      "tennisPointsFor": 295,
-      "tennisPointsAgainst": 365,
+      "tennisPointsFor": 305,
+      "tennisPointsAgainst": 370,
       "timeline": [
         {
           "eventId": 1,
@@ -23397,12 +23445,20 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
-          "wins": 0,
+          "position": 4,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 4,
+          "leaguePoints": 14,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 12,
               "opponentName": "Mark Wareham",
@@ -23611,7 +23667,7 @@
       "stayed": 2,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 2,
+        "position": 3,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -24053,7 +24109,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 20,
@@ -27506,7 +27562,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 12,
@@ -27886,14 +27942,14 @@
       "name": "peter orourke",
       "totalRounds": 2,
       "totalWins": 2,
-      "totalLosses": 3,
-      "winRate": 0.4,
+      "totalLosses": 4,
+      "winRate": 0.333,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 2,
+        "position": 3,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -27930,8 +27986,8 @@
           "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 39,
-      "tennisPointsAgainst": 36,
+      "tennisPointsFor": 42,
+      "tennisPointsAgainst": 48,
       "timeline": [
         {
           "eventId": 1,
@@ -27992,12 +28048,20 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 15,
+          "losses": 2,
+          "leaguePoints": 18,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -28028,9 +28092,9 @@
       "playerId": 30,
       "name": "Peter Walsh",
       "totalRounds": 13,
-      "totalWins": 23,
+      "totalWins": 25,
       "totalLosses": 35,
-      "winRate": 0.397,
+      "winRate": 0.417,
       "promotions": 2,
       "relegations": 3,
       "stayed": 7,
@@ -28064,17 +28128,17 @@
           "pointsAgainst": 47
         },
         {
-          "opponentId": 12,
-          "opponentName": "Mark Wareham",
+          "opponentId": 75,
+          "opponentName": "Doreen Lam",
           "played": 4,
-          "wins": 1,
-          "losses": 3,
-          "pointsFor": 23,
-          "pointsAgainst": 37
+          "wins": 3,
+          "losses": 1,
+          "pointsFor": 38,
+          "pointsAgainst": 22
         }
       ],
-      "tennisPointsFor": 387,
-      "tennisPointsAgainst": 478,
+      "tennisPointsFor": 409,
+      "tennisPointsAgainst": 486,
       "timeline": [
         {
           "eventId": 1,
@@ -28823,12 +28887,28 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 6,
-          "wins": 0,
+          "position": 2,
+          "wins": 2,
           "losses": 1,
-          "leaguePoints": 3,
+          "leaguePoints": 25,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
+            {
+              "opponentId": 135,
+              "opponentName": "peter orourke",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 111,
               "opponentName": "Richard Shepherd",
@@ -30194,7 +30274,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 12,
@@ -30871,9 +30951,9 @@
       "playerId": 87,
       "name": "Sarah Ruiz",
       "totalRounds": 5,
-      "totalWins": 14,
+      "totalWins": 15,
       "totalLosses": 9,
-      "winRate": 0.609,
+      "winRate": 0.625,
       "promotions": 1,
       "relegations": 0,
       "stayed": 3,
@@ -30898,6 +30978,15 @@
           "pointsAgainst": 15
         },
         {
+          "opponentId": 85,
+          "opponentName": "Liz Bowran",
+          "played": 3,
+          "wins": 3,
+          "losses": 0,
+          "pointsFor": 33,
+          "pointsAgainst": 12
+        },
+        {
           "opponentId": 71,
           "opponentName": "Celeste Narywonczyk",
           "played": 3,
@@ -30905,19 +30994,10 @@
           "losses": 1,
           "pointsFor": 22,
           "pointsAgainst": 23
-        },
-        {
-          "opponentId": 75,
-          "opponentName": "Doreen Lam",
-          "played": 3,
-          "wins": 1,
-          "losses": 2,
-          "pointsFor": 20,
-          "pointsAgainst": 25
         }
       ],
-      "tennisPointsFor": 203,
-      "tennisPointsAgainst": 132,
+      "tennisPointsFor": 211,
+      "tennisPointsAgainst": 139,
       "timeline": [
         {
           "eventId": 4,
@@ -31194,12 +31274,21 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 7,
-          "wins": 0,
+          "position": 6,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 8,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 85,
+              "opponentName": "Liz Bowran",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/29",
           "transition": null,
           "resultCode": "none",
@@ -31700,7 +31789,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 3,
+        "position": 4,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -31791,7 +31880,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 14,
