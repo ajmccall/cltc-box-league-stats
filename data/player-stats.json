@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T10:14:15.142Z",
+  "generatedAt": "2026-05-25T10:17:26.824Z",
   "includedRoundCount": 18,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -1149,7 +1149,7 @@
           "groupNumber": 5,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 14,
@@ -1343,9 +1343,9 @@
       "playerId": 20,
       "name": "Alasdair McCall",
       "totalRounds": 13,
-      "totalWins": 28,
+      "totalWins": 29,
       "totalLosses": 40,
-      "winRate": 0.412,
+      "winRate": 0.42,
       "promotions": 4,
       "relegations": 4,
       "stayed": 4,
@@ -1370,6 +1370,15 @@
           "pointsAgainst": 36
         },
         {
+          "opponentId": 10,
+          "opponentName": "Nicholas Suggit",
+          "played": 5,
+          "wins": 2,
+          "losses": 3,
+          "pointsFor": 28,
+          "pointsAgainst": 47
+        },
+        {
           "opponentId": 36,
           "opponentName": "OMAR IBRAHIM",
           "played": 4,
@@ -1377,19 +1386,10 @@
           "losses": 0,
           "pointsFor": 38,
           "pointsAgainst": 22
-        },
-        {
-          "opponentId": 12,
-          "opponentName": "Mark Wareham",
-          "played": 4,
-          "wins": 2,
-          "losses": 2,
-          "pointsFor": 32,
-          "pointsAgainst": 32
         }
       ],
-      "tennisPointsFor": 436,
-      "tennisPointsAgainst": 589,
+      "tennisPointsFor": 444,
+      "tennisPointsAgainst": 596,
       "timeline": [
         {
           "eventId": 1,
@@ -2186,12 +2186,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
-          "wins": 2,
+          "position": 4,
+          "wins": 3,
           "losses": 4,
-          "leaguePoints": 33,
+          "leaguePoints": 41,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 76,
               "opponentName": "Wesley Taupin",
@@ -3370,8 +3378,8 @@
       "name": "Anthony Boobbyer",
       "totalRounds": 7,
       "totalWins": 18,
-      "totalLosses": 21,
-      "winRate": 0.462,
+      "totalLosses": 22,
+      "winRate": 0.45,
       "promotions": 2,
       "relegations": 0,
       "stayed": 4,
@@ -3414,8 +3422,8 @@
           "pointsAgainst": 16
         }
       ],
-      "tennisPointsFor": 284,
-      "tennisPointsAgainst": 301,
+      "tennisPointsFor": 289,
+      "tennisPointsAgainst": 311,
       "timeline": [
         {
           "eventId": 1,
@@ -3852,12 +3860,20 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 3,
           "wins": 1,
-          "losses": 3,
-          "leaguePoints": 20,
+          "losses": 4,
+          "leaguePoints": 25,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 45,
+              "opponentName": "James Reilly",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 41,
               "opponentName": "Matthew Takeuchi",
@@ -5279,7 +5295,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 2,
           "losses": 0,
           "leaguePoints": 22,
@@ -6112,9 +6128,9 @@
       "playerId": 71,
       "name": "Celeste Narywonczyk",
       "totalRounds": 10,
-      "totalWins": 15,
-      "totalLosses": 14,
-      "winRate": 0.517,
+      "totalWins": 16,
+      "totalLosses": 16,
+      "winRate": 0.5,
       "promotions": 2,
       "relegations": 1,
       "stayed": 4,
@@ -6130,6 +6146,24 @@
       },
       "topOpponents": [
         {
+          "opponentId": 87,
+          "opponentName": "Sarah Ruiz",
+          "played": 4,
+          "wins": 1,
+          "losses": 3,
+          "pointsFor": 28,
+          "pointsAgainst": 32
+        },
+        {
+          "opponentId": 85,
+          "opponentName": "Liz Bowran",
+          "played": 3,
+          "wins": 3,
+          "losses": 0,
+          "pointsFor": 28,
+          "pointsAgainst": 17
+        },
+        {
           "opponentId": 84,
           "opponentName": "Melanie Burt",
           "played": 3,
@@ -6137,28 +6171,10 @@
           "losses": 1,
           "pointsFor": 23,
           "pointsAgainst": 22
-        },
-        {
-          "opponentId": 87,
-          "opponentName": "Sarah Ruiz",
-          "played": 3,
-          "wins": 1,
-          "losses": 2,
-          "pointsFor": 23,
-          "pointsAgainst": 22
-        },
-        {
-          "opponentId": 83,
-          "opponentName": "Carol Hunt",
-          "played": 3,
-          "wins": 0,
-          "losses": 3,
-          "pointsFor": 17,
-          "pointsAgainst": 28
         }
       ],
-      "tennisPointsFor": 216,
-      "tennisPointsAgainst": 211,
+      "tennisPointsFor": 231,
+      "tennisPointsAgainst": 241,
       "timeline": [
         {
           "eventId": 1,
@@ -6576,12 +6592,36 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 6,
-          "wins": 2,
-          "losses": 2,
-          "leaguePoints": 21,
+          "position": 5,
+          "wins": 3,
+          "losses": 4,
+          "leaguePoints": 36,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 85,
+              "opponentName": "Liz Bowran",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            },
+            {
+              "opponentId": 87,
+              "opponentName": "Sarah Ruiz",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 84,
               "opponentName": "Melanie Burt",
@@ -8682,8 +8722,8 @@
       "name": "Clarice Williamson",
       "totalRounds": 5,
       "totalWins": 8,
-      "totalLosses": 6,
-      "winRate": 0.571,
+      "totalLosses": 7,
+      "winRate": 0.533,
       "promotions": 1,
       "relegations": 0,
       "stayed": 2,
@@ -8726,8 +8766,8 @@
           "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 84,
-      "tennisPointsAgainst": 126,
+      "tennisPointsFor": 85,
+      "tennisPointsAgainst": 140,
       "timeline": [
         {
           "eventId": 1,
@@ -8790,10 +8830,18 @@
           "withdrawn": false,
           "position": 5,
           "wins": 0,
-          "losses": 2,
-          "leaguePoints": 1,
+          "losses": 3,
+          "leaguePoints": 2,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            },
             {
               "opponentId": 104,
               "opponentName": "Rashed Karim",
@@ -10213,7 +10261,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 2,
           "leaguePoints": 12,
@@ -11138,9 +11186,9 @@
       "playerId": 102,
       "name": "Dmitry Skorokhod",
       "totalRounds": 4,
-      "totalWins": 9,
+      "totalWins": 12,
       "totalLosses": 4,
-      "winRate": 0.692,
+      "winRate": 0.75,
       "promotions": 1,
       "relegations": 1,
       "stayed": 1,
@@ -11183,8 +11231,8 @@
           "pointsAgainst": 5
         }
       ],
-      "tennisPointsFor": 126,
-      "tennisPointsAgainst": 69,
+      "tennisPointsFor": 163,
+      "tennisPointsAgainst": 77,
       "timeline": [
         {
           "eventId": 1,
@@ -11365,12 +11413,36 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 7,
-          "wins": 1,
+          "position": 2,
+          "wins": 4,
           "losses": 0,
-          "leaguePoints": 10,
+          "leaguePoints": 47,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
+            {
+              "opponentId": 135,
+              "opponentName": "peter orourke",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 18,
               "opponentName": "Daniel Ratinon",
@@ -12030,9 +12102,9 @@
       "playerId": 75,
       "name": "Doreen Lam",
       "totalRounds": 11,
-      "totalWins": 31,
-      "totalLosses": 26,
-      "winRate": 0.544,
+      "totalWins": 32,
+      "totalLosses": 27,
+      "winRate": 0.542,
       "promotions": 2,
       "relegations": 0,
       "stayed": 7,
@@ -12075,8 +12147,8 @@
           "pointsAgainst": 24
         }
       ],
-      "tennisPointsFor": 452,
-      "tennisPointsAgainst": 398,
+      "tennisPointsFor": 469,
+      "tennisPointsAgainst": 411,
       "timeline": [
         {
           "eventId": 1,
@@ -12409,12 +12481,20 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 2,
-          "losses": 3,
-          "leaguePoints": 33,
+          "losses": 4,
+          "leaguePoints": 36,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 102,
+              "opponentName": "Dmitry Skorokhod",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 111,
               "opponentName": "Richard Shepherd",
@@ -12730,11 +12810,19 @@
           "groupSize": 8,
           "withdrawn": false,
           "position": 2,
-          "wins": 5,
+          "wins": 6,
           "losses": 1,
-          "leaguePoints": 57,
+          "leaguePoints": 71,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 71,
+              "opponentName": "Celeste Narywonczyk",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
             {
               "opponentId": 85,
               "opponentName": "Liz Bowran",
@@ -13473,8 +13561,8 @@
       "name": "Gianluca Iorizzo",
       "totalRounds": 13,
       "totalWins": 18,
-      "totalLosses": 41,
-      "winRate": 0.305,
+      "totalLosses": 42,
+      "winRate": 0.3,
       "promotions": 1,
       "relegations": 1,
       "stayed": 10,
@@ -13499,6 +13587,15 @@
           "pointsAgainst": 85
         },
         {
+          "opponentId": 43,
+          "opponentName": "Mark Smith",
+          "played": 5,
+          "wins": 1,
+          "losses": 4,
+          "pointsFor": 32,
+          "pointsAgainst": 43
+        },
+        {
           "opponentId": 8,
           "opponentName": "Tim Acreman",
           "played": 5,
@@ -13506,19 +13603,10 @@
           "losses": 4,
           "pointsFor": 31,
           "pointsAgainst": 45
-        },
-        {
-          "opponentId": 17,
-          "opponentName": "Harry Ikin",
-          "played": 4,
-          "wins": 3,
-          "losses": 1,
-          "pointsFor": 36,
-          "pointsAgainst": 24
         }
       ],
-      "tennisPointsFor": 395,
-      "tennisPointsAgainst": 526,
+      "tennisPointsFor": 402,
+      "tennisPointsAgainst": 534,
       "timeline": [
         {
           "eventId": 1,
@@ -14268,10 +14356,18 @@
           "withdrawn": false,
           "position": 2,
           "wins": 3,
-          "losses": 1,
-          "leaguePoints": 34,
+          "losses": 2,
+          "leaguePoints": 41,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 43,
+              "opponentName": "Mark Smith",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 42,
               "opponentName": "Oscar Williamson",
@@ -15456,7 +15552,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 24,
@@ -15516,7 +15612,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 6,
+        "position": 7,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -15567,7 +15663,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 2,
           "losses": 3,
           "leaguePoints": 33,
@@ -15774,8 +15870,8 @@
       "name": "James Karamath",
       "totalRounds": 10,
       "totalWins": 29,
-      "totalLosses": 7,
-      "winRate": 0.806,
+      "totalLosses": 8,
+      "winRate": 0.784,
       "promotions": 0,
       "relegations": 0,
       "stayed": 9,
@@ -15818,8 +15914,8 @@
           "pointsAgainst": 15
         }
       ],
-      "tennisPointsFor": 356,
-      "tennisPointsAgainst": 184,
+      "tennisPointsFor": 359,
+      "tennisPointsAgainst": 196,
       "timeline": [
         {
           "eventId": 1,
@@ -16314,10 +16410,18 @@
           "withdrawn": false,
           "position": 3,
           "wins": 3,
-          "losses": 0,
-          "leaguePoints": 33,
+          "losses": 1,
+          "leaguePoints": 36,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 33,
+              "opponentName": "Joseph Bedford",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 2,
               "opponentName": "Gianluca Iorizzo",
@@ -16356,7 +16460,7 @@
       "playerId": 45,
       "name": "James Reilly",
       "totalRounds": 1,
-      "totalWins": 1,
+      "totalWins": 2,
       "totalLosses": 0,
       "winRate": 1,
       "promotions": 0,
@@ -16364,7 +16468,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 6,
+        "position": 4,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -16373,6 +16477,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 72,
+          "opponentName": "Anthony Boobbyer",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 10,
+          "pointsAgainst": 5
+        },
         {
           "opponentId": 3,
           "opponentName": "Richard Beales",
@@ -16383,8 +16496,8 @@
           "pointsAgainst": 3
         }
       ],
-      "tennisPointsFor": 12,
-      "tennisPointsAgainst": 3,
+      "tennisPointsFor": 22,
+      "tennisPointsAgainst": 8,
       "timeline": [
         {
           "eventId": 1,
@@ -16397,12 +16510,20 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
-          "wins": 1,
+          "position": 4,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 12,
+          "leaguePoints": 22,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 3,
               "opponentName": "Richard Beales",
@@ -17383,9 +17504,9 @@
       "playerId": 33,
       "name": "Joseph Bedford",
       "totalRounds": 6,
-      "totalWins": 16,
+      "totalWins": 17,
       "totalLosses": 12,
-      "winRate": 0.571,
+      "winRate": 0.586,
       "promotions": 2,
       "relegations": 1,
       "stayed": 2,
@@ -17428,8 +17549,8 @@
           "pointsAgainst": 5
         }
       ],
-      "tennisPointsFor": 226,
-      "tennisPointsAgainst": 194,
+      "tennisPointsFor": 238,
+      "tennisPointsAgainst": 197,
       "timeline": [
         {
           "eventId": 1,
@@ -17762,12 +17883,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 8,
-          "wins": 0,
+          "position": 5,
+          "wins": 1,
           "losses": 3,
-          "leaguePoints": 15,
+          "leaguePoints": 27,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 39,
+              "opponentName": "James Karamath",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 22,
               "opponentName": "Matthew Burt",
@@ -17814,11 +17943,11 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 5,
-        "roundId": 29,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "4 Mar",
-        "roundEnd": "31 May",
+        "position": 6,
+        "roundId": 20,
+        "roundLabel": "Spring Swing 2025",
+        "roundStart": "19 Apr 2025",
+        "roundEnd": "27 Jul 2025",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -17952,7 +18081,7 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 8,
           "wins": 1,
           "losses": 4,
           "leaguePoints": 22,
@@ -19165,8 +19294,8 @@
       "name": "Liz Bowran",
       "totalRounds": 5,
       "totalWins": 2,
-      "totalLosses": 22,
-      "winRate": 0.083,
+      "totalLosses": 24,
+      "winRate": 0.077,
       "promotions": 0,
       "relegations": 0,
       "stayed": 4,
@@ -19209,8 +19338,8 @@
           "pointsAgainst": 42
         }
       ],
-      "tennisPointsFor": 99,
-      "tennisPointsAgainst": 253,
+      "tennisPointsFor": 108,
+      "tennisPointsAgainst": 274,
       "timeline": [
         {
           "eventId": 4,
@@ -19471,12 +19600,28 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 8,
+          "position": 7,
           "wins": 0,
-          "losses": 5,
-          "leaguePoints": 19,
+          "losses": 7,
+          "leaguePoints": 28,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 71,
+              "opponentName": "Celeste Narywonczyk",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            },
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -20402,9 +20547,9 @@
       "playerId": 43,
       "name": "Mark Smith",
       "totalRounds": 10,
-      "totalWins": 32,
+      "totalWins": 33,
       "totalLosses": 10,
-      "winRate": 0.762,
+      "winRate": 0.767,
       "promotions": 1,
       "relegations": 1,
       "stayed": 7,
@@ -20420,6 +20565,15 @@
       },
       "topOpponents": [
         {
+          "opponentId": 2,
+          "opponentName": "Gianluca Iorizzo",
+          "played": 5,
+          "wins": 4,
+          "losses": 1,
+          "pointsFor": 43,
+          "pointsAgainst": 32
+        },
+        {
           "opponentId": 25,
           "opponentName": "Adam Biswell",
           "played": 4,
@@ -20427,15 +20581,6 @@
           "losses": 0,
           "pointsFor": 36,
           "pointsAgainst": 24
-        },
-        {
-          "opponentId": 2,
-          "opponentName": "Gianluca Iorizzo",
-          "played": 4,
-          "wins": 3,
-          "losses": 1,
-          "pointsFor": 35,
-          "pointsAgainst": 25
         },
         {
           "opponentId": 17,
@@ -20447,8 +20592,8 @@
           "pointsAgainst": 11
         }
       ],
-      "tennisPointsFor": 403,
-      "tennisPointsAgainst": 227,
+      "tennisPointsFor": 411,
+      "tennisPointsAgainst": 234,
       "timeline": [
         {
           "eventId": 1,
@@ -20974,11 +21119,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 1,
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
-          "leaguePoints": 51,
+          "leaguePoints": 59,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 2,
+              "opponentName": "Gianluca Iorizzo",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 42,
               "opponentName": "Oscar Williamson",
@@ -21940,7 +22093,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 14,
@@ -22293,7 +22446,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 2,
           "losses": 0,
           "leaguePoints": 20,
@@ -22821,9 +22974,9 @@
       "playerId": 84,
       "name": "Melanie Burt",
       "totalRounds": 7,
-      "totalWins": 14,
+      "totalWins": 15,
       "totalLosses": 11,
-      "winRate": 0.56,
+      "winRate": 0.577,
       "promotions": 0,
       "relegations": 0,
       "stayed": 5,
@@ -22848,6 +23001,15 @@
           "pointsAgainst": 41
         },
         {
+          "opponentId": 85,
+          "opponentName": "Liz Bowran",
+          "played": 4,
+          "wins": 4,
+          "losses": 0,
+          "pointsFor": 47,
+          "pointsAgainst": 13
+        },
+        {
           "opponentId": 75,
           "opponentName": "Doreen Lam",
           "played": 4,
@@ -22855,19 +23017,10 @@
           "losses": 2,
           "pointsFor": 32,
           "pointsAgainst": 28
-        },
-        {
-          "opponentId": 85,
-          "opponentName": "Liz Bowran",
-          "played": 3,
-          "wins": 3,
-          "losses": 0,
-          "pointsFor": 35,
-          "pointsAgainst": 10
         }
       ],
-      "tennisPointsFor": 206,
-      "tennisPointsAgainst": 169,
+      "tennisPointsFor": 218,
+      "tennisPointsAgainst": 172,
       "timeline": [
         {
           "eventId": 1,
@@ -23199,12 +23352,20 @@
           "groupNumber": 1,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 7,
-          "wins": 1,
+          "position": 6,
+          "wins": 2,
           "losses": 2,
-          "leaguePoints": 21,
+          "leaguePoints": 33,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 85,
+              "opponentName": "Liz Bowran",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 71,
               "opponentName": "Celeste Narywonczyk",
@@ -24966,8 +25127,8 @@
       "name": "Nicholas Suggit",
       "totalRounds": 12,
       "totalWins": 26,
-      "totalLosses": 25,
-      "winRate": 0.51,
+      "totalLosses": 27,
+      "winRate": 0.491,
       "promotions": 2,
       "relegations": 1,
       "stayed": 8,
@@ -24994,11 +25155,11 @@
         {
           "opponentId": 20,
           "opponentName": "Alasdair McCall",
-          "played": 4,
+          "played": 5,
           "wins": 3,
-          "losses": 1,
-          "pointsFor": 40,
-          "pointsAgainst": 20
+          "losses": 2,
+          "pointsFor": 47,
+          "pointsAgainst": 28
         },
         {
           "opponentId": 9,
@@ -25010,8 +25171,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 386,
-      "tennisPointsAgainst": 367,
+      "tennisPointsFor": 398,
+      "tennisPointsAgainst": 385,
       "timeline": [
         {
           "eventId": 1,
@@ -25654,12 +25815,28 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 3,
           "wins": 3,
-          "losses": 1,
-          "leaguePoints": 38,
+          "losses": 3,
+          "leaguePoints": 50,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 8,
+              "opponentName": "Tim Acreman",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 25,
               "opponentName": "Adam Biswell",
@@ -25783,7 +25960,7 @@
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 5,
+        "position": 6,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -26714,7 +26891,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 1,
           "losses": 6,
           "leaguePoints": 35,
@@ -28035,7 +28212,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 12,
@@ -28431,14 +28608,14 @@
       "name": "peter orourke",
       "totalRounds": 2,
       "totalWins": 2,
-      "totalLosses": 5,
-      "winRate": 0.286,
+      "totalLosses": 6,
+      "winRate": 0.25,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 4,
+        "position": 5,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -28475,8 +28652,8 @@
           "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 44,
-      "tennisPointsAgainst": 61,
+      "tennisPointsFor": 46,
+      "tennisPointsAgainst": 74,
       "timeline": [
         {
           "eventId": 1,
@@ -28537,12 +28714,20 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
-          "losses": 3,
-          "leaguePoints": 20,
+          "losses": 4,
+          "leaguePoints": 22,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 102,
+              "opponentName": "Dmitry Skorokhod",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
             {
               "opponentId": 111,
               "opponentName": "Richard Shepherd",
@@ -28590,8 +28775,8 @@
       "name": "Peter Walsh",
       "totalRounds": 13,
       "totalWins": 25,
-      "totalLosses": 35,
-      "winRate": 0.417,
+      "totalLosses": 36,
+      "winRate": 0.41,
       "promotions": 2,
       "relegations": 3,
       "stayed": 7,
@@ -28634,8 +28819,8 @@
           "pointsAgainst": 22
         }
       ],
-      "tennisPointsFor": 409,
-      "tennisPointsAgainst": 486,
+      "tennisPointsFor": 412,
+      "tennisPointsAgainst": 498,
       "timeline": [
         {
           "eventId": 1,
@@ -29384,12 +29569,20 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 2,
-          "losses": 1,
-          "leaguePoints": 25,
+          "losses": 2,
+          "leaguePoints": 28,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 102,
+              "opponentName": "Dmitry Skorokhod",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -30636,7 +30829,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 4,
           "leaguePoints": 21,
@@ -31521,9 +31714,9 @@
       "playerId": 87,
       "name": "Sarah Ruiz",
       "totalRounds": 5,
-      "totalWins": 15,
+      "totalWins": 16,
       "totalLosses": 13,
-      "winRate": 0.536,
+      "winRate": 0.552,
       "promotions": 1,
       "relegations": 0,
       "stayed": 3,
@@ -31538,6 +31731,15 @@
         "eventName": "CLTC Women's Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 71,
+          "opponentName": "Celeste Narywonczyk",
+          "played": 4,
+          "wins": 3,
+          "losses": 1,
+          "pointsFor": 32,
+          "pointsAgainst": 28
+        },
         {
           "opponentId": 75,
           "opponentName": "Doreen Lam",
@@ -31555,19 +31757,10 @@
           "losses": 0,
           "pointsFor": 30,
           "pointsAgainst": 15
-        },
-        {
-          "opponentId": 85,
-          "opponentName": "Liz Bowran",
-          "played": 3,
-          "wins": 3,
-          "losses": 0,
-          "pointsFor": 33,
-          "pointsAgainst": 12
         }
       ],
-      "tennisPointsFor": 231,
-      "tennisPointsAgainst": 179,
+      "tennisPointsFor": 241,
+      "tennisPointsAgainst": 184,
       "timeline": [
         {
           "eventId": 4,
@@ -31845,11 +32038,19 @@
           "groupSize": 8,
           "withdrawn": false,
           "position": 4,
-          "wins": 1,
+          "wins": 2,
           "losses": 4,
-          "leaguePoints": 28,
+          "leaguePoints": 38,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 71,
+              "opponentName": "Celeste Narywonczyk",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 83,
               "opponentName": "Carol Hunt",
@@ -31912,7 +32113,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 5,
-        "position": 3,
+        "position": 4,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -31954,7 +32155,7 @@
           "groupNumber": 5,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 10,
@@ -32427,7 +32628,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 5,
+        "position": 6,
         "roundId": 28,
         "roundLabel": "The Great Spring Scramble - 2026",
         "roundStart": "3 Mar",
@@ -32518,7 +32719,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": true,
-          "position": 5,
+          "position": 6,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 14,
@@ -32554,9 +32755,9 @@
       "playerId": 108,
       "name": "Stephen Power",
       "totalRounds": 3,
-      "totalWins": 2,
+      "totalWins": 3,
       "totalLosses": 8,
-      "winRate": 0.2,
+      "winRate": 0.273,
       "promotions": 1,
       "relegations": 1,
       "stayed": 0,
@@ -32581,6 +32782,15 @@
           "pointsAgainst": 17
         },
         {
+          "opponentId": 106,
+          "opponentName": "Clarice Williamson",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 14,
+          "pointsAgainst": 1
+        },
+        {
           "opponentId": 81,
           "opponentName": "Glenn Bignold",
           "played": 1,
@@ -32588,19 +32798,10 @@
           "losses": 0,
           "pointsFor": 13,
           "pointsAgainst": 2
-        },
-        {
-          "opponentId": 18,
-          "opponentName": "Daniel Ratinon",
-          "played": 1,
-          "wins": 0,
-          "losses": 1,
-          "pointsFor": 3,
-          "pointsAgainst": 12
         }
       ],
-      "tennisPointsFor": 49,
-      "tennisPointsAgainst": 101,
+      "tennisPointsFor": 63,
+      "tennisPointsAgainst": 102,
       "timeline": [
         {
           "eventId": 1,
@@ -32725,12 +32926,20 @@
           "groupNumber": 5,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 4,
-          "wins": 0,
+          "position": 2,
+          "wins": 1,
           "losses": 2,
-          "leaguePoints": 9,
+          "leaguePoints": 23,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 106,
+              "opponentName": "Clarice Williamson",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
             {
               "opponentId": 138,
               "opponentName": "Sathisha Poojary",
@@ -33494,9 +33703,9 @@
       "playerId": 8,
       "name": "Tim Acreman",
       "totalRounds": 13,
-      "totalWins": 25,
+      "totalWins": 26,
       "totalLosses": 10,
-      "winRate": 0.714,
+      "winRate": 0.722,
       "promotions": 3,
       "relegations": 4,
       "stayed": 5,
@@ -33539,8 +33748,8 @@
           "pointsAgainst": 23
         }
       ],
-      "tennisPointsFor": 326,
-      "tennisPointsAgainst": 208,
+      "tennisPointsFor": 336,
+      "tennisPointsAgainst": 213,
       "timeline": [
         {
           "eventId": 1,
@@ -34089,11 +34298,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 2,
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
-          "leaguePoints": 42,
+          "leaguePoints": 52,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 25,
               "opponentName": "Adam Biswell",
@@ -35721,7 +35938,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 2,
           "losses": 6,
           "leaguePoints": 40,
