@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-05-25T10:15:49.444Z"
+    "fetchedAt": "2026-06-01T11:43:13.556Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-05-25T10:15:27.287Z"
+    "fetchedAt": "2026-06-01T11:42:55.883Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-05-25T10:15:00.277Z"
+    "fetchedAt": "2026-06-01T11:42:33.768Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-05-25T10:14:31.478Z"
+    "fetchedAt": "2026-06-01T11:42:09.514Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-05-25T10:14:03.015Z"
+    "fetchedAt": "2026-06-01T11:41:47.116Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-05-25T10:13:32.781Z"
+    "fetchedAt": "2026-06-01T11:41:14.291Z"
   },
   {
     "eventId": 1,
@@ -8666,7 +8666,7 @@
         "points": 29,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-05-25T10:13:03.054Z"
+    "fetchedAt": "2026-06-01T11:40:49.896Z"
   },
   {
     "eventId": 1,
@@ -10143,7 +10143,7 @@
         "points": 39,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
           {
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-05-25T10:12:31.829Z"
+    "fetchedAt": "2026-06-01T11:40:21.966Z"
   },
   {
     "eventId": 1,
@@ -11744,7 +11744,7 @@
         "points": 31,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
           {
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-05-25T10:12:00.776Z"
+    "fetchedAt": "2026-06-01T11:39:51.584Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-05-25T10:11:27.024Z"
+    "fetchedAt": "2026-06-01T11:39:24.320Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-05-25T10:10:51.611Z"
+    "fetchedAt": "2026-06-01T11:38:48.509Z"
   },
   {
     "eventId": 1,
@@ -17797,7 +17797,7 @@
         "points": 40,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-05-25T10:10:20.040Z"
+    "fetchedAt": "2026-06-01T11:38:17.786Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-05-25T10:09:46.600Z"
+    "fetchedAt": "2026-06-01T11:37:49.032Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-05-25T10:09:10.584Z"
+    "fetchedAt": "2026-06-01T11:37:15.670Z"
   },
   {
     "eventId": 1,
@@ -21238,7 +21238,7 @@
         "points": 41,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
           {
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-05-25T10:09:09.973Z"
+    "fetchedAt": "2026-06-01T11:37:15.132Z"
   },
   {
     "eventId": 1,
@@ -23530,10 +23530,93 @@
     ],
     "players": [
       {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/2/event/1/round/28",
+        "position": 1,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 8,
+        "wins": 5,
+        "losses": 3,
+        "points": 73,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 26,
+            "opponentName": "Bharat Sreenivas Venkatesh",
+            "outcome": "win",
+            "pointsFor": 13,
+            "pointsAgainst": 2,
+            "scoreText": "13-2"
+          },
+          {
+            "opponentId": 22,
+            "opponentName": "Matthew Burt",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
+          },
+          {
+            "opponentId": 33,
+            "opponentName": "Joseph Bedford",
+            "outcome": "win",
+            "pointsFor": 13,
+            "pointsAgainst": 2,
+            "scoreText": "13-2"
+          },
+          {
+            "opponentId": 43,
+            "opponentName": "Mark Smith",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
+          {
+            "opponentId": 42,
+            "opponentName": "Oscar Williamson",
+            "outcome": "win",
+            "pointsFor": 10,
+            "pointsAgainst": 5,
+            "scoreText": "10-5"
+          },
+          {
+            "opponentId": 6,
+            "opponentName": "Neil McAlpine",
+            "outcome": "win",
+            "pointsFor": 11,
+            "pointsAgainst": 4,
+            "scoreText": "11-4"
+          },
+          {
+            "opponentId": 39,
+            "opponentName": "James Karamath",
+            "outcome": "loss",
+            "pointsFor": 4,
+            "pointsAgainst": 11,
+            "scoreText": "4-11"
+          },
+          {
+            "opponentId": 17,
+            "opponentName": "Harry Ikin",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": 6,
+            "scoreText": "9-6"
+          }
+        ]
+      },
+      {
         "name": "Mark Smith",
         "playerId": 43,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/43/event/1/round/28",
-        "position": 1,
+        "position": 2,
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
@@ -23593,65 +23676,6 @@
             "pointsFor": 10,
             "pointsAgainst": 5,
             "scoreText": "10-5"
-          }
-        ]
-      },
-      {
-        "name": "Gianluca Iorizzo",
-        "playerId": 2,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/2/event/1/round/28",
-        "position": 2,
-        "groupName": "Group 1",
-        "groupNumber": 1,
-        "withdrawn": false,
-        "played": 5,
-        "wins": 3,
-        "losses": 2,
-        "points": 41,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 43,
-            "opponentName": "Mark Smith",
-            "outcome": "loss",
-            "pointsFor": 7,
-            "pointsAgainst": 8,
-            "scoreText": "7-8"
-          },
-          {
-            "opponentId": 42,
-            "opponentName": "Oscar Williamson",
-            "outcome": "win",
-            "pointsFor": 10,
-            "pointsAgainst": 5,
-            "scoreText": "10-5"
-          },
-          {
-            "opponentId": 6,
-            "opponentName": "Neil McAlpine",
-            "outcome": "win",
-            "pointsFor": 11,
-            "pointsAgainst": 4,
-            "scoreText": "11-4"
-          },
-          {
-            "opponentId": 39,
-            "opponentName": "James Karamath",
-            "outcome": "loss",
-            "pointsFor": 4,
-            "pointsAgainst": 11,
-            "scoreText": "4-11"
-          },
-          {
-            "opponentId": 17,
-            "opponentName": "Harry Ikin",
-            "outcome": "win",
-            "pointsFor": 9,
-            "pointsAgainst": 6,
-            "scoreText": "9-6"
           }
         ]
       },
@@ -23774,22 +23798,73 @@
         ]
       },
       {
-        "name": "Joseph Bedford",
-        "playerId": 33,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/33/event/1/round/28",
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/22/event/1/round/28",
         "position": 5,
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
-        "played": 4,
-        "wins": 1,
-        "losses": 3,
-        "points": 27,
+        "played": 3,
+        "wins": 3,
+        "losses": 0,
+        "points": 29,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 2,
+            "opponentName": "Gianluca Iorizzo",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": 6,
+            "scoreText": "9-6"
+          },
+          {
+            "opponentId": 33,
+            "opponentName": "Joseph Bedford",
+            "outcome": "win",
+            "pointsFor": 12,
+            "pointsAgainst": 3,
+            "scoreText": "12-3"
+          },
+          {
+            "opponentId": 43,
+            "opponentName": "Mark Smith",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          }
+        ]
+      },
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/33/event/1/round/28",
+        "position": 6,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 5,
+        "wins": 1,
+        "losses": 4,
+        "points": 29,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 2,
+            "opponentName": "Gianluca Iorizzo",
+            "outcome": "loss",
+            "pointsFor": 2,
+            "pointsAgainst": 13,
+            "scoreText": "2-13"
+          },
           {
             "opponentId": 39,
             "opponentName": "James Karamath",
@@ -23825,10 +23900,53 @@
         ]
       },
       {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/26/event/1/round/28",
+        "position": 7,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 2,
+        "losses": 1,
+        "points": 24,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 2,
+            "opponentName": "Gianluca Iorizzo",
+            "outcome": "loss",
+            "pointsFor": 2,
+            "pointsAgainst": 13,
+            "scoreText": "2-13"
+          },
+          {
+            "opponentId": 42,
+            "opponentName": "Oscar Williamson",
+            "outcome": "win",
+            "pointsFor": 14,
+            "pointsAgainst": 1,
+            "scoreText": "14-1"
+          },
+          {
+            "opponentId": 6,
+            "opponentName": "Neil McAlpine",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          }
+        ]
+      },
+      {
         "name": "Harry Ikin",
         "playerId": 17,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/17/event/1/round/28",
-        "position": 6,
+        "position": 8,
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
@@ -23872,76 +23990,6 @@
             "pointsFor": 5,
             "pointsAgainst": 10,
             "scoreText": "5-10"
-          }
-        ]
-      },
-      {
-        "name": "Bharat Sreenivas Venkatesh",
-        "playerId": 26,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/26/event/1/round/28",
-        "position": 7,
-        "groupName": "Group 1",
-        "groupNumber": 1,
-        "withdrawn": false,
-        "played": 2,
-        "wins": 2,
-        "losses": 0,
-        "points": 22,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 42,
-            "opponentName": "Oscar Williamson",
-            "outcome": "win",
-            "pointsFor": 14,
-            "pointsAgainst": 1,
-            "scoreText": "14-1"
-          },
-          {
-            "opponentId": 6,
-            "opponentName": "Neil McAlpine",
-            "outcome": "win",
-            "pointsFor": 8,
-            "pointsAgainst": 7,
-            "scoreText": "8-7"
-          }
-        ]
-      },
-      {
-        "name": "Matthew Burt",
-        "playerId": 22,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/22/event/1/round/28",
-        "position": 8,
-        "groupName": "Group 1",
-        "groupNumber": 1,
-        "withdrawn": false,
-        "played": 2,
-        "wins": 2,
-        "losses": 0,
-        "points": 20,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 33,
-            "opponentName": "Joseph Bedford",
-            "outcome": "win",
-            "pointsFor": 12,
-            "pointsAgainst": 3,
-            "scoreText": "12-3"
-          },
-          {
-            "opponentId": 43,
-            "opponentName": "Mark Smith",
-            "outcome": "win",
-            "pointsFor": 8,
-            "pointsAgainst": 7,
-            "scoreText": "8-7"
           }
         ]
       },
@@ -24592,22 +24640,81 @@
         "matchups": []
       },
       {
-        "name": "Clive Coulson",
-        "playerId": 4,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/4/event/1/round/28",
+        "name": "James Reilly",
+        "playerId": 45,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/45/event/1/round/28",
         "position": 1,
         "groupName": "Group 3",
         "groupNumber": 3,
         "withdrawn": false,
-        "played": 3,
-        "wins": 3,
+        "played": 4,
+        "wins": 4,
         "losses": 0,
-        "points": 36,
+        "points": 45,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 4,
+            "opponentName": "Clive Coulson",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": 6,
+            "scoreText": "9-6"
+          },
+          {
+            "opponentId": 64,
+            "opponentName": "Melwyn Furtado",
+            "outcome": "win",
+            "pointsFor": 14,
+            "pointsAgainst": 1,
+            "scoreText": "14-1"
+          },
+          {
+            "opponentId": 72,
+            "opponentName": "Anthony Boobbyer",
+            "outcome": "win",
+            "pointsFor": 10,
+            "pointsAgainst": 5,
+            "scoreText": "10-5"
+          },
+          {
+            "opponentId": 3,
+            "opponentName": "Richard Beales",
+            "outcome": "win",
+            "pointsFor": 12,
+            "pointsAgainst": 3,
+            "scoreText": "12-3"
+          }
+        ]
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/4/event/1/round/28",
+        "position": 2,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 3,
+        "losses": 1,
+        "points": 42,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 45,
+            "opponentName": "James Reilly",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
+          },
           {
             "opponentId": 64,
             "opponentName": "Melwyn Furtado",
@@ -24638,19 +24745,27 @@
         "name": "Melwyn Furtado",
         "playerId": 64,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/64/event/1/round/28",
-        "position": 2,
+        "position": 3,
         "groupName": "Group 3",
         "groupNumber": 3,
         "withdrawn": false,
-        "played": 4,
+        "played": 5,
         "wins": 2,
-        "losses": 2,
-        "points": 26,
+        "losses": 3,
+        "points": 27,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 45,
+            "opponentName": "James Reilly",
+            "outcome": "loss",
+            "pointsFor": 1,
+            "pointsAgainst": 14,
+            "scoreText": "1-14"
+          },
           {
             "opponentId": 3,
             "opponentName": "Richard Beales",
@@ -24689,7 +24804,7 @@
         "name": "Anthony Boobbyer",
         "playerId": 72,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/72/event/1/round/28",
-        "position": 3,
+        "position": 4,
         "groupName": "Group 3",
         "groupNumber": 3,
         "withdrawn": false,
@@ -24741,41 +24856,6 @@
             "pointsFor": 1,
             "pointsAgainst": 14,
             "scoreText": "1-14"
-          }
-        ]
-      },
-      {
-        "name": "James Reilly",
-        "playerId": 45,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/45/event/1/round/28",
-        "position": 4,
-        "groupName": "Group 3",
-        "groupNumber": 3,
-        "withdrawn": false,
-        "played": 2,
-        "wins": 2,
-        "losses": 0,
-        "points": 22,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 72,
-            "opponentName": "Anthony Boobbyer",
-            "outcome": "win",
-            "pointsFor": 10,
-            "pointsAgainst": 5,
-            "scoreText": "10-5"
-          },
-          {
-            "opponentId": 3,
-            "opponentName": "Richard Beales",
-            "outcome": "win",
-            "pointsFor": 12,
-            "pointsAgainst": 3,
-            "scoreText": "12-3"
           }
         ]
       },
@@ -24837,7 +24917,7 @@
         "position": 6,
         "groupName": "Group 3",
         "groupNumber": 3,
-        "withdrawn": false,
+        "withdrawn": true,
         "played": 2,
         "wins": 1,
         "losses": 1,
@@ -25584,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-05-25T10:08:29.573Z"
+    "fetchedAt": "2026-06-01T11:36:39.601Z"
   },
   {
     "eventId": 4,
@@ -26453,7 +26533,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-05-25T10:17:26.552Z"
+    "fetchedAt": "2026-06-01T11:44:41.709Z"
   },
   {
     "eventId": 4,
@@ -26791,7 +26871,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-05-25T10:17:10.807Z"
+    "fetchedAt": "2026-06-01T11:44:23.585Z"
   },
   {
     "eventId": 4,
@@ -27751,7 +27831,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-05-25T10:16:55.112Z"
+    "fetchedAt": "2026-06-01T11:44:10.955Z"
   },
   {
     "eventId": 4,
@@ -27764,7 +27844,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-05-25T10:16:39.121Z"
+    "fetchedAt": "2026-06-01T11:43:55.735Z"
   },
   {
     "eventId": 4,
@@ -28659,7 +28739,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-05-25T10:16:38.512Z"
+    "fetchedAt": "2026-06-01T11:43:55.213Z"
   },
   {
     "eventId": 4,
@@ -28672,7 +28752,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-05-25T10:16:22.190Z"
+    "fetchedAt": "2026-06-01T11:43:42.899Z"
   },
   {
     "eventId": 4,
@@ -28685,7 +28765,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-05-25T10:16:21.575Z"
+    "fetchedAt": "2026-06-01T11:43:42.378Z"
   },
   {
     "eventId": 4,
@@ -29627,7 +29707,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-05-25T10:16:20.963Z"
+    "fetchedAt": "2026-06-01T11:43:41.840Z"
   },
   {
     "eventId": 4,
@@ -29650,15 +29730,23 @@
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
-        "played": 6,
-        "wins": 6,
+        "played": 7,
+        "wins": 7,
         "losses": 0,
-        "points": 79,
+        "points": 89,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 84,
+            "opponentName": "Melanie Burt",
+            "outcome": "win",
+            "pointsFor": 10,
+            "pointsAgainst": 5,
+            "scoreText": "10-5"
+          },
           {
             "opponentId": 85,
             "opponentName": "Liz Bowran",
@@ -29776,15 +29864,23 @@
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
-        "played": 6,
+        "played": 7,
         "wins": 4,
-        "losses": 2,
-        "points": 53,
+        "losses": 3,
+        "points": 60,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 84,
+            "opponentName": "Melanie Burt",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
           {
             "opponentId": 87,
             "opponentName": "Sarah Ruiz",
@@ -29828,17 +29924,84 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
-        "playerId": 87,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/29",
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/84/event/4/round/29",
         "position": 4,
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
-        "played": 6,
-        "wins": 2,
+        "played": 7,
+        "wins": 4,
+        "losses": 3,
+        "points": 55,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 83,
+            "opponentName": "Carol Hunt",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          },
+          {
+            "opponentId": 77,
+            "opponentName": "Wendy Bignold",
+            "outcome": "loss",
+            "pointsFor": 5,
+            "pointsAgainst": 10,
+            "scoreText": "5-10"
+          },
+          {
+            "opponentId": 85,
+            "opponentName": "Liz Bowran",
+            "outcome": "win",
+            "pointsFor": 12,
+            "pointsAgainst": 3,
+            "scoreText": "12-3"
+          },
+          {
+            "opponentId": 71,
+            "opponentName": "Celeste Narywonczyk",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
+          {
+            "opponentId": 75,
+            "opponentName": "Doreen Lam",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
+          },
+          {
+            "opponentId": 87,
+            "opponentName": "Sarah Ruiz",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Ruiz",
+        "playerId": 87,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/29",
+        "position": 5,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 7,
+        "wins": 3,
         "losses": 4,
-        "points": 38,
+        "points": 46,
         "pointsAgainst": null,
         "markers": [
           "win"
@@ -29898,7 +30061,7 @@
         "name": "Celeste Narywonczyk",
         "playerId": 71,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/71/event/4/round/29",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
@@ -29962,29 +30125,37 @@
         ]
       },
       {
-        "name": "Melanie Burt",
-        "playerId": 84,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/84/event/4/round/29",
-        "position": 6,
+        "name": "Katrina O&#39;Keeffe",
+        "playerId": 98,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/98/event/4/round/29",
+        "position": 7,
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
-        "played": 4,
-        "wins": 2,
-        "losses": 2,
-        "points": 33,
+        "played": 7,
+        "wins": 1,
+        "losses": 6,
+        "points": 35,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
-            "opponentId": 85,
-            "opponentName": "Liz Bowran",
-            "outcome": "win",
-            "pointsFor": 12,
-            "pointsAgainst": 3,
-            "scoreText": "12-3"
+            "opponentId": 87,
+            "opponentName": "Sarah Ruiz",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
+          {
+            "opponentId": 84,
+            "opponentName": "Melanie Burt",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
           },
           {
             "opponentId": 71,
@@ -29995,20 +30166,36 @@
             "scoreText": "7-8"
           },
           {
-            "opponentId": 75,
-            "opponentName": "Doreen Lam",
-            "outcome": "loss",
-            "pointsFor": 6,
-            "pointsAgainst": 9,
-            "scoreText": "6-9"
-          },
-          {
-            "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentId": 85,
+            "opponentName": "Liz Bowran",
             "outcome": "win",
             "pointsFor": 8,
             "pointsAgainst": 7,
             "scoreText": "8-7"
+          },
+          {
+            "opponentId": 77,
+            "opponentName": "Wendy Bignold",
+            "outcome": "loss",
+            "pointsFor": 2,
+            "pointsAgainst": 13,
+            "scoreText": "2-13"
+          },
+          {
+            "opponentId": 83,
+            "opponentName": "Carol Hunt",
+            "outcome": "loss",
+            "pointsFor": 3,
+            "pointsAgainst": 12,
+            "scoreText": "3-12"
+          },
+          {
+            "opponentId": 75,
+            "opponentName": "Doreen Lam",
+            "outcome": "loss",
+            "pointsFor": 2,
+            "pointsAgainst": 13,
+            "scoreText": "2-13"
           }
         ]
       },
@@ -30016,7 +30203,7 @@
         "name": "Liz Bowran",
         "playerId": 85,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/85/event/4/round/29",
-        "position": 7,
+        "position": 8,
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
@@ -30072,65 +30259,6 @@
           {
             "opponentId": 83,
             "opponentName": "Carol Hunt",
-            "outcome": "loss",
-            "pointsFor": 2,
-            "pointsAgainst": 13,
-            "scoreText": "2-13"
-          }
-        ]
-      },
-      {
-        "name": "Katrina O&#39;Keeffe",
-        "playerId": 98,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/98/event/4/round/29",
-        "position": 8,
-        "groupName": "Group 1",
-        "groupNumber": 1,
-        "withdrawn": false,
-        "played": 5,
-        "wins": 1,
-        "losses": 4,
-        "points": 22,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 71,
-            "opponentName": "Celeste Narywonczyk",
-            "outcome": "loss",
-            "pointsFor": 7,
-            "pointsAgainst": 8,
-            "scoreText": "7-8"
-          },
-          {
-            "opponentId": 85,
-            "opponentName": "Liz Bowran",
-            "outcome": "win",
-            "pointsFor": 8,
-            "pointsAgainst": 7,
-            "scoreText": "8-7"
-          },
-          {
-            "opponentId": 77,
-            "opponentName": "Wendy Bignold",
-            "outcome": "loss",
-            "pointsFor": 2,
-            "pointsAgainst": 13,
-            "scoreText": "2-13"
-          },
-          {
-            "opponentId": 83,
-            "opponentName": "Carol Hunt",
-            "outcome": "loss",
-            "pointsFor": 3,
-            "pointsAgainst": 12,
-            "scoreText": "3-12"
-          },
-          {
-            "opponentId": 75,
-            "opponentName": "Doreen Lam",
             "outcome": "loss",
             "pointsFor": 2,
             "pointsAgainst": 13,
@@ -30240,15 +30368,23 @@
         "groupName": "Group 2",
         "groupNumber": 2,
         "withdrawn": false,
-        "played": 3,
-        "wins": 0,
+        "played": 4,
+        "wins": 1,
         "losses": 3,
-        "points": 20,
+        "points": 29,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
+          {
+            "opponentId": 95,
+            "opponentName": "Bethan Jones",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": 6,
+            "scoreText": "9-6"
+          },
           {
             "opponentId": 97,
             "opponentName": "Ruth Short",
@@ -30337,15 +30473,23 @@
         "groupName": "Group 2",
         "groupNumber": 2,
         "withdrawn": false,
-        "played": 2,
+        "played": 3,
         "wins": 0,
-        "losses": 2,
-        "points": 2,
+        "losses": 3,
+        "points": 8,
         "pointsAgainst": null,
         "markers": [
           "loss"
         ],
         "matchups": [
+          {
+            "opponentId": 100,
+            "opponentName": "Anna Caruso",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
+          },
           {
             "opponentId": 97,
             "opponentName": "Ruth Short",
@@ -30382,6 +30526,6 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-05-25T10:16:07.893Z"
+    "fetchedAt": "2026-06-01T11:43:31.592Z"
   }
 ]
