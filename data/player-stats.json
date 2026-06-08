@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-01T11:44:41.986Z",
+  "generatedAt": "2026-06-08T11:07:45.032Z",
   "includedRoundCount": 18,
-  "excludedRoundCount": 7,
+  "excludedRoundCount": 9,
   "excludedRounds": [
     {
       "eventId": 1,
@@ -19,6 +19,12 @@
       "eventId": 1,
       "roundId": 24,
       "roundLabel": "LTA - Tennis for Britain",
+      "reason": "zero-activity"
+    },
+    {
+      "eventId": 1,
+      "roundId": 31,
+      "roundLabel": "Strawberries & Screamers - Summer 2026",
       "reason": "zero-activity"
     },
     {
@@ -43,6 +49,12 @@
       "eventId": 4,
       "roundId": 25,
       "roundLabel": "LTA - Tennis for Britain",
+      "reason": "zero-activity"
+    },
+    {
+      "eventId": 4,
+      "roundId": 30,
+      "roundLabel": "Strawberries & Screamers - Summer 2026",
       "reason": "zero-activity"
     }
   ],

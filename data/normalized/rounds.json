@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-06-01T11:43:13.556Z"
+    "fetchedAt": "2026-06-08T11:05:56.231Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-06-01T11:42:55.883Z"
+    "fetchedAt": "2026-06-08T11:05:37.891Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-06-01T11:42:33.768Z"
+    "fetchedAt": "2026-06-08T11:05:11.413Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-06-01T11:42:09.514Z"
+    "fetchedAt": "2026-06-08T11:04:46.604Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-06-01T11:41:47.116Z"
+    "fetchedAt": "2026-06-08T11:04:15.008Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-06-01T11:41:14.291Z"
+    "fetchedAt": "2026-06-08T11:03:45.367Z"
   },
   {
     "eventId": 1,
@@ -8666,7 +8666,7 @@
         "points": 29,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
           {
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-06-01T11:40:49.896Z"
+    "fetchedAt": "2026-06-08T11:03:13.008Z"
   },
   {
     "eventId": 1,
@@ -10143,7 +10143,7 @@
         "points": 39,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-06-01T11:40:21.966Z"
+    "fetchedAt": "2026-06-08T11:02:45.622Z"
   },
   {
     "eventId": 1,
@@ -11744,7 +11744,7 @@
         "points": 31,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-06-01T11:39:51.584Z"
+    "fetchedAt": "2026-06-08T11:02:11.425Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-06-01T11:39:24.320Z"
+    "fetchedAt": "2026-06-08T11:01:36.742Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-06-01T11:38:48.509Z"
+    "fetchedAt": "2026-06-08T11:01:01.134Z"
   },
   {
     "eventId": 1,
@@ -17797,7 +17797,7 @@
         "points": 40,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
           {
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-06-01T11:38:17.786Z"
+    "fetchedAt": "2026-06-08T11:00:28.663Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-06-01T11:37:49.032Z"
+    "fetchedAt": "2026-06-08T10:59:53.050Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-01T11:37:15.670Z"
+    "fetchedAt": "2026-06-08T10:59:16.269Z"
   },
   {
     "eventId": 1,
@@ -21238,7 +21238,7 @@
         "points": 41,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-06-01T11:37:15.132Z"
+    "fetchedAt": "2026-06-08T10:59:15.653Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,763 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-06-01T11:36:39.601Z"
+    "fetchedAt": "2026-06-08T10:58:31.207Z"
+  },
+  {
+    "eventId": 1,
+    "eventName": "CLTC Open Box League",
+    "roundId": 31,
+    "roundLabel": "Strawberries & Screamers - Summer 2026 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "5 Jun",
+    "roundEnd": "6 Sep",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31/GetGroupContent?drawID=111&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31/GetGroupContent?drawID=112&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31/GetGroupContent?drawID=113&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31/GetGroupContent?drawID=114&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31/GetGroupContent?drawID=115&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/2/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Mark Smith",
+        "playerId": 43,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/43/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "James Karamath",
+        "playerId": 39,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/39/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Neil McAlpine",
+        "playerId": 6,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/6/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Matthew Burt",
+        "playerId": 22,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/22/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Joseph Bedford",
+        "playerId": 33,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/33/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Bharat Sreenivas Venkatesh",
+        "playerId": 26,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/26/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Harry Ikin",
+        "playerId": 17,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/17/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Adam Biswell",
+        "playerId": 25,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/25/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/8/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Oscar Williamson",
+        "playerId": 42,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/42/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Nicholas Suggit",
+        "playerId": 10,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/10/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/20/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/77/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Nicole Borzatti",
+        "playerId": 13,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/13/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Henry Peart Smith",
+        "playerId": 52,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/52/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Adam Farrer",
+        "playerId": 110,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/110/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "James Reilly",
+        "playerId": 45,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/45/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Clive Coulson",
+        "playerId": 4,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/4/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Nicolas Mayorga",
+        "playerId": 50,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/50/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Dominic Moret",
+        "playerId": 9,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/9/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Melwyn Furtado",
+        "playerId": 64,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/64/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Anthony Boobbyer",
+        "playerId": 72,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/72/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Richard Beales",
+        "playerId": 3,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/3/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "OMAR IBRAHIM",
+        "playerId": 36,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/36/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/41/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Richard Shepherd",
+        "playerId": 111,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/111/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Dmitry Skorokhod",
+        "playerId": 102,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/102/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Ruairi O&#39;Rourke",
+        "playerId": 145,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/145/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/28/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Jenson Moret",
+        "playerId": 49,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/49/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Leon Ooi",
+        "playerId": 63,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/63/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/75/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/30/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "peter orourke",
+        "playerId": 135,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/135/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Rashed Karim",
+        "playerId": 104,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/104/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Stephen Power",
+        "playerId": 108,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/108/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Daniel Baulch",
+        "playerId": 142,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/142/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/18/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Arshad Munir",
+        "playerId": 66,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/66/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/80/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Sathisha Poojary",
+        "playerId": 138,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/138/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Clarice Williamson",
+        "playerId": 106,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/106/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "David Bales",
+        "playerId": 16,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/16/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Celeste Narywonczyk",
+        "playerId": 71,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/71/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Ian Thorley",
+        "playerId": 139,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/139/event/1/round/31",
+        "position": 0,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      }
+    ],
+    "playerCount": 46,
+    "fetchedAt": "2026-06-08T10:57:54.868Z"
   },
   {
     "eventId": 4,
@@ -26533,7 +27289,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-06-01T11:44:41.709Z"
+    "fetchedAt": "2026-06-08T11:07:44.761Z"
   },
   {
     "eventId": 4,
@@ -26871,7 +27627,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-06-01T11:44:23.585Z"
+    "fetchedAt": "2026-06-08T11:07:25.192Z"
   },
   {
     "eventId": 4,
@@ -27831,7 +28587,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-06-01T11:44:10.955Z"
+    "fetchedAt": "2026-06-08T11:07:09.736Z"
   },
   {
     "eventId": 4,
@@ -27844,7 +28600,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-01T11:43:55.735Z"
+    "fetchedAt": "2026-06-08T11:06:54.026Z"
   },
   {
     "eventId": 4,
@@ -28739,7 +29495,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-06-01T11:43:55.213Z"
+    "fetchedAt": "2026-06-08T11:06:53.449Z"
   },
   {
     "eventId": 4,
@@ -28752,7 +29508,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-01T11:43:42.899Z"
+    "fetchedAt": "2026-06-08T11:06:38.823Z"
   },
   {
     "eventId": 4,
@@ -28765,7 +29521,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-01T11:43:42.378Z"
+    "fetchedAt": "2026-06-08T11:06:38.274Z"
   },
   {
     "eventId": 4,
@@ -29707,7 +30463,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-06-01T11:43:41.840Z"
+    "fetchedAt": "2026-06-08T11:06:37.588Z"
   },
   {
     "eventId": 4,
@@ -30526,6 +31282,263 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-06-01T11:43:31.592Z"
+    "fetchedAt": "2026-06-08T11:06:24.504Z"
+  },
+  {
+    "eventId": 4,
+    "eventName": "CLTC Women's Box League",
+    "roundId": 30,
+    "roundLabel": "Strawberries & Screamers - Summer 2026 | CLTC - Singles League | LTA - Tennis for Britain",
+    "roundStart": "4 Jun",
+    "roundEnd": "6 Sep",
+    "url": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
+    "groupContentUrls": [
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30/GetGroupContent?drawID=109&pageNum=1",
+      "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30/GetGroupContent?drawID=110&pageNum=1"
+    ],
+    "players": [
+      {
+        "name": "Wendy Bignold",
+        "playerId": 77,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/77/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Doreen Lam",
+        "playerId": 75,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/75/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Carol Hunt",
+        "playerId": 83,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/83/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Melanie Burt",
+        "playerId": 84,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/84/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Sarah Ruiz",
+        "playerId": 87,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Katrina O&#39;Keeffe",
+        "playerId": 98,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/98/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Liz Bowran",
+        "playerId": 85,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/85/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 1",
+        "groupNumber": 1,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Anna Caruso",
+        "playerId": 100,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/100/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Christine James",
+        "playerId": 90,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/90/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Bethan Jones",
+        "playerId": 95,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/95/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Lynne O&#39;Brien",
+        "playerId": 94,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/94/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Edyta Mccall",
+        "playerId": 93,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/93/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Ruth Short",
+        "playerId": 97,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/97/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Melisa Kulenovic",
+        "playerId": 140,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/140/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      },
+      {
+        "name": "Maddy Smith",
+        "playerId": 147,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/147/event/4/round/30",
+        "position": 0,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 0,
+        "wins": 0,
+        "losses": 0,
+        "points": null,
+        "pointsAgainst": null,
+        "markers": [],
+        "matchups": []
+      }
+    ],
+    "playerCount": 15,
+    "fetchedAt": "2026-06-08T11:06:12.811Z"
   }
 ]
