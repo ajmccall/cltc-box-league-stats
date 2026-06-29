@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-06-22T12:05:40.514Z"
+    "fetchedAt": "2026-06-29T11:09:27.660Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-06-22T12:05:12.382Z"
+    "fetchedAt": "2026-06-29T11:09:07.232Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-06-22T12:04:40.945Z"
+    "fetchedAt": "2026-06-29T11:08:39.687Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-06-22T12:04:08.002Z"
+    "fetchedAt": "2026-06-29T11:08:13.112Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-06-22T12:03:36.216Z"
+    "fetchedAt": "2026-06-29T11:07:45.000Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-06-22T12:03:06.035Z"
+    "fetchedAt": "2026-06-29T11:07:11.756Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-06-22T12:02:29.314Z"
+    "fetchedAt": "2026-06-29T11:06:42.328Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-06-22T12:01:52.645Z"
+    "fetchedAt": "2026-06-29T11:06:12.413Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-06-22T12:01:16.369Z"
+    "fetchedAt": "2026-06-29T11:05:42.248Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-06-22T12:00:35.319Z"
+    "fetchedAt": "2026-06-29T11:05:05.527Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-06-22T11:59:55.393Z"
+    "fetchedAt": "2026-06-29T11:04:26.572Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-06-22T11:59:21.065Z"
+    "fetchedAt": "2026-06-29T11:03:51.857Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-06-22T11:58:36.500Z"
+    "fetchedAt": "2026-06-29T11:03:19.422Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-22T11:57:52.112Z"
+    "fetchedAt": "2026-06-29T11:02:44.275Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-06-22T11:57:51.249Z"
+    "fetchedAt": "2026-06-29T11:02:43.775Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-06-22T11:57:05.808Z"
+    "fetchedAt": "2026-06-29T11:02:00.653Z"
   },
   {
     "eventId": 1,
@@ -26286,17 +26286,71 @@
         "matchups": []
       },
       {
+        "name": "Daniel Baulch",
+        "playerId": 142,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/142/event/1/round/31",
+        "position": 1,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 14,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 30,
+            "opponentName": "Peter Walsh",
+            "outcome": "win",
+            "pointsFor": 14,
+            "pointsAgainst": 1,
+            "scoreText": "14-1"
+          }
+        ]
+      },
+      {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/30/event/1/round/31",
+        "position": 2,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 0,
+        "losses": 1,
+        "points": 1,
+        "pointsAgainst": null,
+        "markers": [
+          "loss"
+        ],
+        "matchups": [
+          {
+            "opponentId": 142,
+            "opponentName": "Daniel Baulch",
+            "outcome": "loss",
+            "pointsFor": 1,
+            "pointsAgainst": 14,
+            "scoreText": "1-14"
+          }
+        ]
+      },
+      {
         "name": "Jenson Moret",
         "playerId": 49,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/49/event/1/round/31",
-        "position": 0,
+        "position": 3,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
         "played": 0,
         "wins": 0,
         "losses": 0,
-        "points": null,
+        "points": 0,
         "pointsAgainst": null,
         "markers": [],
         "matchups": []
@@ -26305,14 +26359,14 @@
         "name": "Leon Ooi",
         "playerId": 63,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/63/event/1/round/31",
-        "position": 0,
+        "position": 3,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
         "played": 0,
         "wins": 0,
         "losses": 0,
-        "points": null,
+        "points": 0,
         "pointsAgainst": null,
         "markers": [],
         "matchups": []
@@ -26321,30 +26375,14 @@
         "name": "Doreen Lam",
         "playerId": 75,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/75/event/1/round/31",
-        "position": 0,
+        "position": 3,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
         "played": 0,
         "wins": 0,
         "losses": 0,
-        "points": null,
-        "pointsAgainst": null,
-        "markers": [],
-        "matchups": []
-      },
-      {
-        "name": "Peter Walsh",
-        "playerId": 30,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/30/event/1/round/31",
-        "position": 0,
-        "groupName": "Group 4",
-        "groupNumber": 4,
-        "withdrawn": false,
-        "played": 0,
-        "wins": 0,
-        "losses": 0,
-        "points": null,
+        "points": 0,
         "pointsAgainst": null,
         "markers": [],
         "matchups": []
@@ -26353,14 +26391,14 @@
         "name": "peter orourke",
         "playerId": 135,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/135/event/1/round/31",
-        "position": 0,
+        "position": 3,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
         "played": 0,
         "wins": 0,
         "losses": 0,
-        "points": null,
+        "points": 0,
         "pointsAgainst": null,
         "markers": [],
         "matchups": []
@@ -26369,14 +26407,14 @@
         "name": "Rashed Karim",
         "playerId": 104,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/104/event/1/round/31",
-        "position": 0,
+        "position": 3,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
         "played": 0,
         "wins": 0,
         "losses": 0,
-        "points": null,
+        "points": 0,
         "pointsAgainst": null,
         "markers": [],
         "matchups": []
@@ -26385,30 +26423,14 @@
         "name": "Stephen Power",
         "playerId": 108,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/108/event/1/round/31",
-        "position": 0,
+        "position": 3,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
         "played": 0,
         "wins": 0,
         "losses": 0,
-        "points": null,
-        "pointsAgainst": null,
-        "markers": [],
-        "matchups": []
-      },
-      {
-        "name": "Daniel Baulch",
-        "playerId": 142,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/142/event/1/round/31",
-        "position": 0,
-        "groupName": "Group 4",
-        "groupNumber": 4,
-        "withdrawn": false,
-        "played": 0,
-        "wins": 0,
-        "losses": 0,
-        "points": null,
+        "points": 0,
         "pointsAgainst": null,
         "markers": [],
         "matchups": []
@@ -26565,7 +26587,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-06-22T11:56:21.539Z"
+    "fetchedAt": "2026-06-29T11:01:22.117Z"
   },
   {
     "eventId": 4,
@@ -27434,7 +27456,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-06-22T12:07:49.706Z"
+    "fetchedAt": "2026-06-29T11:11:10.800Z"
   },
   {
     "eventId": 4,
@@ -27772,7 +27794,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-06-22T12:07:31.342Z"
+    "fetchedAt": "2026-06-29T11:10:56.409Z"
   },
   {
     "eventId": 4,
@@ -28732,7 +28754,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-06-22T12:07:16.288Z"
+    "fetchedAt": "2026-06-29T11:10:40.146Z"
   },
   {
     "eventId": 4,
@@ -28745,7 +28767,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-22T12:06:57.241Z"
+    "fetchedAt": "2026-06-29T11:10:22.673Z"
   },
   {
     "eventId": 4,
@@ -29640,7 +29662,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-06-22T12:06:56.629Z"
+    "fetchedAt": "2026-06-29T11:10:22.168Z"
   },
   {
     "eventId": 4,
@@ -29653,7 +29675,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-22T12:06:34.788Z"
+    "fetchedAt": "2026-06-29T11:10:06.346Z"
   },
   {
     "eventId": 4,
@@ -29666,7 +29688,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-06-22T12:06:34.137Z"
+    "fetchedAt": "2026-06-29T11:10:05.844Z"
   },
   {
     "eventId": 4,
@@ -30608,7 +30630,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-06-22T12:06:33.485Z"
+    "fetchedAt": "2026-06-29T11:10:05.342Z"
   },
   {
     "eventId": 4,
@@ -31427,7 +31449,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-06-22T12:06:15.640Z"
+    "fetchedAt": "2026-06-29T11:09:54.349Z"
   },
   {
     "eventId": 4,
@@ -31684,6 +31706,6 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-06-22T12:06:00.814Z"
+    "fetchedAt": "2026-06-29T11:09:42.515Z"
   }
 ]
