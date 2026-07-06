@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T11:11:11.073Z",
+  "generatedAt": "2026-07-06T10:34:12.788Z",
   "includedRoundCount": 19,
   "excludedRoundCount": 8,
   "excludedRounds": [
@@ -924,7 +924,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -1426,11 +1426,11 @@
       "stayed": 5,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 2,
-        "roundId": 31,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "5 Jun",
-        "roundEnd": "6 Sep",
+        "position": 3,
+        "roundId": 15,
+        "roundLabel": "Winter 2025",
+        "roundStart": "7 Jan 2025",
+        "roundEnd": "13 Apr 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -2341,7 +2341,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 2,
+          "position": 6,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 2,
@@ -3493,8 +3493,8 @@
       "name": "Anthony Boobbyer",
       "totalRounds": 8,
       "totalWins": 18,
-      "totalLosses": 22,
-      "winRate": 0.45,
+      "totalLosses": 23,
+      "winRate": 0.439,
       "promotions": 2,
       "relegations": 0,
       "stayed": 5,
@@ -3538,7 +3538,7 @@
         }
       ],
       "tennisPointsFor": 289,
-      "tennisPointsAgainst": 311,
+      "tennisPointsAgainst": 326,
       "timeline": [
         {
           "eventId": 1,
@@ -4039,12 +4039,21 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "leaguePoints": 0,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 9,
+              "opponentName": "Dominic Moret",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -9278,9 +9287,9 @@
       "playerId": 4,
       "name": "Clive Coulson",
       "totalRounds": 14,
-      "totalWins": 19,
+      "totalWins": 20,
       "totalLosses": 23,
-      "winRate": 0.452,
+      "winRate": 0.465,
       "promotions": 3,
       "relegations": 4,
       "stayed": 6,
@@ -9305,6 +9314,15 @@
           "pointsAgainst": 24
         },
         {
+          "opponentId": 10,
+          "opponentName": "Nicholas Suggit",
+          "played": 4,
+          "wins": 2,
+          "losses": 2,
+          "pointsFor": 32,
+          "pointsAgainst": 28
+        },
+        {
           "opponentId": 5,
           "opponentName": "Chris Playle",
           "played": 4,
@@ -9312,19 +9330,10 @@
           "losses": 3,
           "pointsFor": 28,
           "pointsAgainst": 34
-        },
-        {
-          "opponentId": 20,
-          "opponentName": "Alasdair McCall",
-          "played": 3,
-          "wins": 3,
-          "losses": 0,
-          "pointsFor": 33,
-          "pointsAgainst": 12
         }
       ],
-      "tennisPointsFor": 335,
-      "tennisPointsAgainst": 312,
+      "tennisPointsFor": 345,
+      "tennisPointsAgainst": 317,
       "timeline": [
         {
           "eventId": 1,
@@ -9985,11 +9994,20 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 3,
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 10,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -11612,11 +11630,11 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 3,
-        "roundId": 31,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "5 Jun",
-        "roundEnd": "6 Sep",
+        "position": 4,
+        "roundId": 22,
+        "roundLabel": "Summer 2025 - Baseline Burn",
+        "roundStart": "30 Jul 2025",
+        "roundEnd": "2 Nov 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -11887,7 +11905,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -11906,9 +11924,9 @@
       "playerId": 9,
       "name": "Dominic Moret",
       "totalRounds": 14,
-      "totalWins": 22,
+      "totalWins": 23,
       "totalLosses": 12,
-      "winRate": 0.647,
+      "winRate": 0.657,
       "promotions": 1,
       "relegations": 2,
       "stayed": 10,
@@ -11951,7 +11969,7 @@
           "pointsAgainst": 33
         }
       ],
-      "tennisPointsFor": 291,
+      "tennisPointsFor": 306,
       "tennisPointsAgainst": 227,
       "timeline": [
         {
@@ -12547,12 +12565,21 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
-          "wins": 0,
+          "position": 2,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -16194,11 +16221,11 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 3,
-        "roundId": 31,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "5 Jun",
-        "roundEnd": "6 Sep",
+        "position": 7,
+        "roundId": 28,
+        "roundLabel": "The Great Spring Scramble - 2026",
+        "roundStart": "3 Mar",
+        "roundEnd": "31 May",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -16309,7 +16336,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -17155,7 +17182,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 3,
+        "position": 7,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -17262,7 +17289,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -23390,11 +23417,11 @@
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 3,
-        "roundId": 31,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "5 Jun",
-        "roundEnd": "6 Sep",
+        "position": 4,
+        "roundId": 25,
+        "roundLabel": "Ice Ice Aces 2025/26",
+        "roundStart": "7 Nov 2025",
+        "roundEnd": "1 Mar",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -23878,7 +23905,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -24351,11 +24378,11 @@
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 2,
-        "roundId": 31,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "5 Jun",
-        "roundEnd": "6 Sep",
+        "position": 3,
+        "roundId": 28,
+        "roundLabel": "The Great Spring Scramble - 2026",
+        "roundStart": "3 Mar",
+        "roundEnd": "31 May",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -25002,7 +25029,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 3,
@@ -26145,8 +26172,8 @@
       "playerId": 10,
       "name": "Nicholas Suggit",
       "totalRounds": 13,
-      "totalWins": 26,
-      "totalLosses": 27,
+      "totalWins": 27,
+      "totalLosses": 28,
       "winRate": 0.491,
       "promotions": 2,
       "relegations": 1,
@@ -26181,17 +26208,17 @@
           "pointsAgainst": 28
         },
         {
-          "opponentId": 9,
-          "opponentName": "Dominic Moret",
+          "opponentId": 4,
+          "opponentName": "Clive Coulson",
           "played": 4,
-          "wins": 0,
-          "losses": 4,
-          "pointsFor": 24,
-          "pointsAgainst": 36
+          "wins": 2,
+          "losses": 2,
+          "pointsFor": 28,
+          "pointsAgainst": 32
         }
       ],
-      "tennisPointsFor": 398,
-      "tennisPointsAgainst": 385,
+      "tennisPointsFor": 413,
+      "tennisPointsAgainst": 400,
       "timeline": [
         {
           "eventId": 1,
@@ -26906,12 +26933,29 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
-          "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "position": 2,
+          "wins": 1,
+          "losses": 1,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 4,
+              "opponentName": "Clive Coulson",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
+            {
+              "opponentId": 77,
+              "opponentName": "Wendy Bignold",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -26994,7 +27038,7 @@
       "playerId": 50,
       "name": "Nicolas Mayorga",
       "totalRounds": 1,
-      "totalWins": 1,
+      "totalWins": 2,
       "totalLosses": 0,
       "winRate": 1,
       "promotions": 0,
@@ -27019,10 +27063,19 @@
           "losses": 0,
           "pointsFor": 13,
           "pointsAgainst": 2
+        },
+        {
+          "opponentId": 13,
+          "opponentName": "Nicole Borzatti",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 8,
+          "pointsAgainst": 7
         }
       ],
-      "tennisPointsFor": 13,
-      "tennisPointsAgainst": 2,
+      "tennisPointsFor": 21,
+      "tennisPointsAgainst": 9,
       "timeline": [
         {
           "eventId": 1,
@@ -27036,11 +27089,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 1,
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 13,
+          "leaguePoints": 21,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 13,
+              "opponentName": "Nicole Borzatti",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 20,
               "opponentName": "Alasdair McCall",
@@ -27064,14 +27125,14 @@
       "name": "Nicole Borzatti",
       "totalRounds": 14,
       "totalWins": 25,
-      "totalLosses": 56,
-      "winRate": 0.309,
+      "totalLosses": 57,
+      "winRate": 0.305,
       "promotions": 4,
       "relegations": 2,
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 3,
+        "position": 4,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -27108,8 +27169,8 @@
           "pointsAgainst": 39
         }
       ],
-      "tennisPointsFor": 499,
-      "tennisPointsAgainst": 715,
+      "tennisPointsFor": 506,
+      "tennisPointsAgainst": 723,
       "timeline": [
         {
           "eventId": 1,
@@ -28082,12 +28143,21 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 7,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 50,
+              "opponentName": "Nicolas Mayorga",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -29378,7 +29448,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -29768,7 +29838,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -31173,8 +31243,8 @@
       "name": "Richard Beales",
       "totalRounds": 14,
       "totalWins": 18,
-      "totalLosses": 57,
-      "winRate": 0.24,
+      "totalLosses": 58,
+      "winRate": 0.237,
       "promotions": 3,
       "relegations": 5,
       "stayed": 5,
@@ -31217,8 +31287,8 @@
           "pointsAgainst": 52
         }
       ],
-      "tennisPointsFor": 458,
-      "tennisPointsAgainst": 678,
+      "tennisPointsFor": 460,
+      "tennisPointsAgainst": 691,
       "timeline": [
         {
           "eventId": 1,
@@ -32143,12 +32213,21 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 2,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 111,
+              "opponentName": "Richard Shepherd",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -32162,7 +32241,7 @@
       "playerId": 111,
       "name": "Richard Shepherd",
       "totalRounds": 3,
-      "totalWins": 8,
+      "totalWins": 9,
       "totalLosses": 0,
       "winRate": 1,
       "promotions": 1,
@@ -32207,8 +32286,8 @@
           "pointsAgainst": 1
         }
       ],
-      "tennisPointsFor": 98,
-      "tennisPointsAgainst": 22,
+      "tennisPointsFor": 111,
+      "tennisPointsAgainst": 24,
       "timeline": [
         {
           "eventId": 1,
@@ -32326,11 +32405,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 1,
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 12,
+          "leaguePoints": 25,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 3,
+              "opponentName": "Richard Beales",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
             {
               "opponentId": 64,
               "opponentName": "Melwyn Furtado",
@@ -32361,7 +32448,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 3,
+        "position": 5,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -32384,7 +32471,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -36923,7 +37010,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -36943,8 +37030,8 @@
       "name": "Wendy Bignold",
       "totalRounds": 12,
       "totalWins": 43,
-      "totalLosses": 26,
-      "winRate": 0.623,
+      "totalLosses": 27,
+      "winRate": 0.614,
       "promotions": 3,
       "relegations": 0,
       "stayed": 7,
@@ -36987,8 +37074,8 @@
           "pointsAgainst": 17
         }
       ],
-      "tennisPointsFor": 595,
-      "tennisPointsAgainst": 438,
+      "tennisPointsFor": 600,
+      "tennisPointsAgainst": 448,
       "timeline": [
         {
           "eventId": 1,
@@ -37481,12 +37568,21 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 5,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
