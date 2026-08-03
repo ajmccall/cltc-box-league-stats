@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T10:12:00.982Z",
+  "generatedAt": "2026-08-03T09:53:50.726Z",
   "includedRoundCount": 20,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -54,8 +54,8 @@
       "name": "Adam Biswell",
       "totalRounds": 11,
       "totalWins": 31,
-      "totalLosses": 7,
-      "winRate": 0.816,
+      "totalLosses": 8,
+      "winRate": 0.795,
       "promotions": 1,
       "relegations": 0,
       "stayed": 8,
@@ -98,8 +98,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 395,
-      "tennisPointsAgainst": 174,
+      "tennisPointsFor": 400,
+      "tennisPointsAgainst": 184,
       "timeline": [
         {
           "eventId": 1,
@@ -552,7 +552,7 @@
           "matchups": [
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -658,10 +658,19 @@
           "withdrawn": false,
           "position": 8,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 5,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 8,
+              "opponentName": "Tim Acreman",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -676,8 +685,8 @@
       "name": "Adam Farrer",
       "totalRounds": 4,
       "totalWins": 13,
-      "totalLosses": 2,
-      "winRate": 0.867,
+      "totalLosses": 4,
+      "winRate": 0.765,
       "promotions": 1,
       "relegations": 0,
       "stayed": 2,
@@ -695,11 +704,11 @@
         {
           "opponentId": 77,
           "opponentName": "Wendy Bignold",
-          "played": 3,
+          "played": 4,
           "wins": 3,
-          "losses": 0,
-          "pointsFor": 36,
-          "pointsAgainst": 9
+          "losses": 1,
+          "pointsFor": 43,
+          "pointsAgainst": 17
         },
         {
           "opponentId": 20,
@@ -720,8 +729,8 @@
           "pointsAgainst": 5
         }
       ],
-      "tennisPointsFor": 149,
-      "tennisPointsAgainst": 76,
+      "tennisPointsFor": 161,
+      "tennisPointsAgainst": 94,
       "timeline": [
         {
           "eventId": 1,
@@ -918,12 +927,28 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 10,
+          "position": 7,
           "wins": 0,
-          "losses": 1,
-          "leaguePoints": 5,
+          "losses": 3,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 77,
+              "opponentName": "Wendy Bignold",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 50,
               "opponentName": "Nicolas Mayorga",
@@ -1236,7 +1261,7 @@
           "groupNumber": 5,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -1422,8 +1447,8 @@
       "name": "Alasdair McCall",
       "totalRounds": 14,
       "totalWins": 29,
-      "totalLosses": 43,
-      "winRate": 0.403,
+      "totalLosses": 44,
+      "winRate": 0.397,
       "promotions": 4,
       "relegations": 4,
       "stayed": 5,
@@ -1457,17 +1482,17 @@
           "pointsAgainst": 47
         },
         {
-          "opponentId": 36,
-          "opponentName": "OMAR IBRAHIM",
-          "played": 4,
-          "wins": 4,
-          "losses": 0,
-          "pointsFor": 38,
-          "pointsAgainst": 22
+          "opponentId": 13,
+          "opponentName": "Nicole Borzatti",
+          "played": 5,
+          "wins": 2,
+          "losses": 3,
+          "pointsFor": 35,
+          "pointsAgainst": 40
         }
       ],
-      "tennisPointsFor": 456,
-      "tennisPointsAgainst": 629,
+      "tennisPointsFor": 460,
+      "tennisPointsAgainst": 640,
       "timeline": [
         {
           "eventId": 1,
@@ -2344,12 +2369,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 8,
           "wins": 0,
-          "losses": 3,
-          "leaguePoints": 12,
+          "losses": 4,
+          "leaguePoints": 16,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 13,
+              "opponentName": "Nicole Borzatti",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 42,
               "opponentName": "Oscar Williamson",
@@ -4081,7 +4114,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 0,
@@ -4109,9 +4142,9 @@
       "playerId": 66,
       "name": "Arshad Munir",
       "totalRounds": 9,
-      "totalWins": 12,
+      "totalWins": 13,
       "totalLosses": 27,
-      "winRate": 0.308,
+      "winRate": 0.325,
       "promotions": 2,
       "relegations": 2,
       "stayed": 4,
@@ -4154,8 +4187,8 @@
           "pointsAgainst": 14
         }
       ],
-      "tennisPointsFor": 227,
-      "tennisPointsAgainst": 358,
+      "tennisPointsFor": 241,
+      "tennisPointsAgainst": 359,
       "timeline": [
         {
           "eventId": 1,
@@ -4657,11 +4690,19 @@
           "groupSize": 8,
           "withdrawn": false,
           "position": 1,
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
-          "leaguePoints": 20,
+          "leaguePoints": 34,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 106,
+              "opponentName": "Clarice Williamson",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
             {
               "opponentId": 138,
               "opponentName": "Sathisha Poojary",
@@ -4700,7 +4741,7 @@
       "stayed": 4,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 1,
+        "position": 3,
         "roundId": 30,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "4 Jun",
@@ -4999,7 +5040,7 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 1,
+          "position": 3,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 13,
@@ -5024,9 +5065,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -5420,7 +5461,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 4,
               "pointsAgainst": 11,
@@ -5620,7 +5661,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 8,
+          "position": 9,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -5637,7 +5678,7 @@
     {
       "id": "bond-wong",
       "playerId": 65,
-      "name": "BOND WONG",
+      "name": "Bond Wong",
       "totalRounds": 6,
       "totalWins": 26,
       "totalLosses": 3,
@@ -6070,8 +6111,8 @@
       "name": "Carol Hunt",
       "totalRounds": 6,
       "totalWins": 16,
-      "totalLosses": 10,
-      "winRate": 0.615,
+      "totalLosses": 11,
+      "winRate": 0.593,
       "promotions": 0,
       "relegations": 0,
       "stayed": 5,
@@ -6096,6 +6137,15 @@
           "pointsAgainst": 21
         },
         {
+          "opponentId": 84,
+          "opponentName": "Melanie Burt",
+          "played": 5,
+          "wins": 2,
+          "losses": 3,
+          "pointsFor": 39,
+          "pointsAgainst": 36
+        },
+        {
           "opponentId": 77,
           "opponentName": "Wendy Bignold",
           "played": 5,
@@ -6103,19 +6153,10 @@
           "losses": 5,
           "pointsFor": 17,
           "pointsAgainst": 58
-        },
-        {
-          "opponentId": 84,
-          "opponentName": "Melanie Burt",
-          "played": 4,
-          "wins": 2,
-          "losses": 2,
-          "pointsFor": 33,
-          "pointsAgainst": 27
         }
       ],
-      "tennisPointsFor": 206,
-      "tennisPointsAgainst": 181,
+      "tennisPointsFor": 212,
+      "tennisPointsAgainst": 190,
       "timeline": [
         {
           "eventId": 4,
@@ -6447,18 +6488,27 @@
           "groupName": "Group 1",
           "groupNumber": 1,
           "groupSize": 7,
-          "withdrawn": false,
+          "withdrawn": true,
           "position": 3,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 6,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "withdrawn",
+          "resultLabel": "🚫 Withdrawn",
+          "resultClass": "result-withdrawn"
         }
       ]
     },
@@ -6700,7 +6750,7 @@
           "groupNumber": 5,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -7549,7 +7599,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -7800,15 +7850,15 @@
       "playerId": 90,
       "name": "Christine James",
       "totalRounds": 6,
-      "totalWins": 2,
+      "totalWins": 3,
       "totalLosses": 15,
-      "winRate": 0.118,
+      "winRate": 0.167,
       "promotions": 0,
       "relegations": 0,
       "stayed": 5,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 3,
+        "position": 2,
         "roundId": 30,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "4 Jun",
@@ -7845,8 +7895,8 @@
           "pointsAgainst": 18
         }
       ],
-      "tennisPointsFor": 53,
-      "tennisPointsAgainst": 182,
+      "tennisPointsFor": 61,
+      "tennisPointsAgainst": 189,
       "timeline": [
         {
           "eventId": 4,
@@ -8099,12 +8149,20 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 3,
-          "wins": 0,
+          "position": 2,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 7,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 95,
               "opponentName": "Bethan Jones",
@@ -8155,7 +8213,7 @@
         },
         {
           "opponentId": 65,
-          "opponentName": "BOND WONG",
+          "opponentName": "Bond Wong",
           "played": 3,
           "wins": 0,
           "losses": 3,
@@ -8425,7 +8483,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 5,
               "pointsAgainst": 10,
@@ -8633,7 +8691,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 5,
               "pointsAgainst": 10,
@@ -8665,7 +8723,7 @@
           "matchups": [
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -8784,7 +8842,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 4,
               "pointsAgainst": 11,
@@ -8848,7 +8906,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "win",
               "pointsFor": 8,
               "pointsAgainst": 7,
@@ -9116,8 +9174,8 @@
       "name": "Clarice Williamson",
       "totalRounds": 6,
       "totalWins": 8,
-      "totalLosses": 7,
-      "winRate": 0.533,
+      "totalLosses": 8,
+      "winRate": 0.5,
       "promotions": 1,
       "relegations": 0,
       "stayed": 3,
@@ -9160,8 +9218,8 @@
           "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 85,
-      "tennisPointsAgainst": 140,
+      "tennisPointsFor": 86,
+      "tennisPointsAgainst": 154,
       "timeline": [
         {
           "eventId": 1,
@@ -9272,10 +9330,19 @@
           "withdrawn": false,
           "position": 4,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 1,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 66,
+              "opponentName": "Arshad Munir",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -9433,8 +9500,8 @@
       "name": "Clive Coulson",
       "totalRounds": 14,
       "totalWins": 20,
-      "totalLosses": 25,
-      "winRate": 0.444,
+      "totalLosses": 26,
+      "winRate": 0.435,
       "promotions": 3,
       "relegations": 4,
       "stayed": 6,
@@ -9477,8 +9544,8 @@
           "pointsAgainst": 34
         }
       ],
-      "tennisPointsFor": 358,
-      "tennisPointsAgainst": 334,
+      "tennisPointsFor": 362,
+      "tennisPointsAgainst": 345,
       "timeline": [
         {
           "eventId": 1,
@@ -9866,7 +9933,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 2,
               "pointsAgainst": 13,
@@ -10138,12 +10205,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 1,
-          "losses": 2,
-          "leaguePoints": 23,
+          "losses": 3,
+          "leaguePoints": 27,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 13,
               "opponentName": "Nicole Borzatti",
@@ -11478,7 +11553,7 @@
           "groupNumber": 5,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -12083,7 +12158,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -12440,7 +12515,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 2,
               "pointsAgainst": 13,
@@ -13614,7 +13689,7 @@
           "groupNumber": 1,
           "groupSize": 7,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -13851,7 +13926,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -14340,8 +14415,8 @@
       "name": "Gianluca Iorizzo",
       "totalRounds": 14,
       "totalWins": 21,
-      "totalLosses": 43,
-      "winRate": 0.328,
+      "totalLosses": 44,
+      "winRate": 0.323,
       "promotions": 1,
       "relegations": 1,
       "stayed": 11,
@@ -14359,11 +14434,11 @@
         {
           "opponentId": 39,
           "opponentName": "James Karamath",
-          "played": 8,
+          "played": 9,
           "wins": 0,
-          "losses": 8,
-          "pointsFor": 35,
-          "pointsAgainst": 85
+          "losses": 9,
+          "pointsFor": 41,
+          "pointsAgainst": 94
         },
         {
           "opponentId": 8,
@@ -14384,8 +14459,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 444,
-      "tennisPointsAgainst": 552,
+      "tennisPointsFor": 450,
+      "tennisPointsAgainst": 561,
       "timeline": [
         {
           "eventId": 1,
@@ -14789,7 +14864,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -14869,7 +14944,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 2,
               "pointsAgainst": 13,
@@ -14925,7 +15000,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 4,
               "pointsAgainst": 11,
@@ -15223,10 +15298,18 @@
           "withdrawn": false,
           "position": 3,
           "wins": 1,
-          "losses": 0,
-          "leaguePoints": 10,
+          "losses": 1,
+          "leaguePoints": 16,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 39,
+              "opponentName": "James Karamath",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            },
             {
               "opponentId": 8,
               "opponentName": "Tim Acreman",
@@ -15666,7 +15749,7 @@
       "stayed": 5,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 1,
+        "position": 2,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -16179,7 +16262,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 6,
               "pointsAgainst": 9,
@@ -16443,7 +16526,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 28,
@@ -16484,9 +16567,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
-          "resultCode": "league-champion",
-          "resultLabel": "🏆 League Champion",
-          "resultClass": "result-overall-champion"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -16495,15 +16578,15 @@
       "playerId": 52,
       "name": "Henry Peart Smith",
       "totalRounds": 2,
-      "totalWins": 5,
+      "totalWins": 7,
       "totalLosses": 4,
-      "winRate": 0.556,
+      "winRate": 0.636,
       "promotions": 0,
       "relegations": 0,
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 2,
+        "position": 1,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -16540,8 +16623,8 @@
           "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 72,
-      "tennisPointsAgainst": 63,
+      "tennisPointsFor": 93,
+      "tennisPointsAgainst": 72,
       "timeline": [
         {
           "eventId": 1,
@@ -16618,12 +16701,28 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 2,
-          "wins": 3,
+          "position": 1,
+          "wins": 5,
           "losses": 1,
-          "leaguePoints": 39,
+          "leaguePoints": 60,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 4,
+              "opponentName": "Clive Coulson",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
+            {
+              "opponentId": 110,
+              "opponentName": "Adam Farrer",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 77,
               "opponentName": "Wendy Bignold",
@@ -16659,9 +16758,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -16678,7 +16777,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 5,
-        "position": 4,
+        "position": 5,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -16701,7 +16800,7 @@
           "groupNumber": 5,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -16866,9 +16965,9 @@
       "playerId": 39,
       "name": "James Karamath",
       "totalRounds": 11,
-      "totalWins": 31,
+      "totalWins": 32,
       "totalLosses": 8,
-      "winRate": 0.795,
+      "winRate": 0.8,
       "promotions": 0,
       "relegations": 0,
       "stayed": 10,
@@ -16886,11 +16985,11 @@
         {
           "opponentId": 2,
           "opponentName": "Gianluca Iorizzo",
-          "played": 8,
-          "wins": 8,
+          "played": 9,
+          "wins": 9,
           "losses": 0,
-          "pointsFor": 85,
-          "pointsAgainst": 35
+          "pointsFor": 94,
+          "pointsAgainst": 41
         },
         {
           "opponentId": 17,
@@ -16911,8 +17010,8 @@
           "pointsAgainst": 15
         }
       ],
-      "tennisPointsFor": 381,
-      "tennisPointsAgainst": 204,
+      "tennisPointsFor": 390,
+      "tennisPointsAgainst": 210,
       "timeline": [
         {
           "eventId": 1,
@@ -17181,7 +17280,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -17237,7 +17336,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "win",
               "pointsFor": 8,
               "pointsAgainst": 7,
@@ -17461,12 +17560,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 2,
-          "wins": 2,
+          "position": 1,
+          "wins": 3,
           "losses": 0,
-          "leaguePoints": 22,
+          "leaguePoints": 31,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 2,
+              "opponentName": "Gianluca Iorizzo",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
             {
               "opponentId": 17,
               "opponentName": "Harry Ikin",
@@ -17486,9 +17593,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "league-champion",
+          "resultLabel": "🏆 League Champion",
+          "resultClass": "result-overall-champion"
         }
       ]
     },
@@ -17505,7 +17612,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 9,
+        "position": 10,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -17612,7 +17719,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 9,
+          "position": 10,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 8,
@@ -17834,7 +17941,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -19064,7 +19171,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": true,
-          "position": 8,
+          "position": 9,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -19091,7 +19198,7 @@
       "stayed": 2,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 3,
+        "position": 5,
         "roundId": 30,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "4 Jun",
@@ -19309,7 +19416,7 @@
           "groupNumber": 1,
           "groupSize": 7,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -20238,7 +20345,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -20504,22 +20611,31 @@
       "name": "Liz Bowran",
       "totalRounds": 6,
       "totalWins": 2,
-      "totalLosses": 24,
-      "winRate": 0.077,
+      "totalLosses": 25,
+      "winRate": 0.074,
       "promotions": 0,
       "relegations": 0,
       "stayed": 5,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 3,
-        "roundId": 30,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "4 Jun",
-        "roundEnd": "6 Sep",
+        "position": 4,
+        "roundId": 17,
+        "roundLabel": "Winter Warmer 2025",
+        "roundStart": "14 Jan 2025",
+        "roundEnd": "13 Apr 2025",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 77,
+          "opponentName": "Wendy Bignold",
+          "played": 6,
+          "wins": 0,
+          "losses": 6,
+          "pointsFor": 8,
+          "pointsAgainst": 82
+        },
         {
           "opponentId": 83,
           "opponentName": "Carol Hunt",
@@ -20528,15 +20644,6 @@
           "losses": 5,
           "pointsFor": 21,
           "pointsAgainst": 54
-        },
-        {
-          "opponentId": 77,
-          "opponentName": "Wendy Bignold",
-          "played": 5,
-          "wins": 0,
-          "losses": 5,
-          "pointsFor": 7,
-          "pointsAgainst": 68
         },
         {
           "opponentId": 75,
@@ -20548,8 +20655,8 @@
           "pointsAgainst": 42
         }
       ],
-      "tennisPointsFor": 108,
-      "tennisPointsAgainst": 274,
+      "tennisPointsFor": 109,
+      "tennisPointsAgainst": 288,
       "timeline": [
         {
           "eventId": 4,
@@ -20882,12 +20989,21 @@
           "groupNumber": 1,
           "groupSize": 7,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 1,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 77,
+              "opponentName": "Wendy Bignold",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
           "transition": null,
           "resultCode": "none",
@@ -21422,14 +21538,14 @@
       "name": "Maddy Smith",
       "totalRounds": 1,
       "totalWins": 1,
-      "totalLosses": 0,
-      "winRate": 1,
+      "totalLosses": 1,
+      "winRate": 0.5,
       "promotions": 0,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 2,
+        "position": 1,
         "roundId": 30,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "4 Jun",
@@ -21446,10 +21562,19 @@
           "losses": 0,
           "pointsFor": 10,
           "pointsAgainst": 5
+        },
+        {
+          "opponentId": 90,
+          "opponentName": "Christine James",
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "pointsFor": 7,
+          "pointsAgainst": 8
         }
       ],
-      "tennisPointsFor": 10,
-      "tennisPointsAgainst": 5,
+      "tennisPointsFor": 17,
+      "tennisPointsAgainst": 13,
       "timeline": [
         {
           "eventId": 4,
@@ -21462,12 +21587,20 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 2,
+          "position": 1,
           "wins": 1,
-          "losses": 0,
-          "leaguePoints": 10,
+          "losses": 1,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 90,
+              "opponentName": "Christine James",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 95,
               "opponentName": "Bethan Jones",
@@ -21479,9 +21612,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -22227,7 +22360,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 5,
               "pointsAgainst": 10,
@@ -22291,7 +22424,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "win",
               "pointsFor": 10,
               "pointsAgainst": 5,
@@ -22515,7 +22648,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 9,
@@ -22922,7 +23055,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 1,
               "pointsAgainst": 14,
@@ -23851,7 +23984,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 9,
@@ -24375,7 +24508,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -24394,9 +24527,9 @@
       "playerId": 84,
       "name": "Melanie Burt",
       "totalRounds": 8,
-      "totalWins": 17,
+      "totalWins": 18,
       "totalLosses": 13,
-      "winRate": 0.567,
+      "winRate": 0.581,
       "promotions": 0,
       "relegations": 0,
       "stayed": 6,
@@ -24421,6 +24554,15 @@
           "pointsAgainst": 63
         },
         {
+          "opponentId": 83,
+          "opponentName": "Carol Hunt",
+          "played": 5,
+          "wins": 3,
+          "losses": 2,
+          "pointsFor": 36,
+          "pointsAgainst": 39
+        },
+        {
           "opponentId": 85,
           "opponentName": "Liz Bowran",
           "played": 4,
@@ -24428,19 +24570,10 @@
           "losses": 0,
           "pointsFor": 47,
           "pointsAgainst": 13
-        },
-        {
-          "opponentId": 83,
-          "opponentName": "Carol Hunt",
-          "played": 4,
-          "wins": 2,
-          "losses": 2,
-          "pointsFor": 27,
-          "pointsAgainst": 33
         }
       ],
-      "tennisPointsFor": 243,
-      "tennisPointsAgainst": 201,
+      "tennisPointsFor": 252,
+      "tennisPointsAgainst": 207,
       "timeline": [
         {
           "eventId": 1,
@@ -24845,11 +24978,19 @@
           "groupSize": 7,
           "withdrawn": false,
           "position": 2,
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 3,
+          "leaguePoints": 12,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 83,
+              "opponentName": "Carol Hunt",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
             {
               "opponentId": 77,
               "opponentName": "Wendy Bignold",
@@ -24922,9 +25063,9 @@
       "playerId": 64,
       "name": "Melwyn Furtado",
       "totalRounds": 10,
-      "totalWins": 17,
+      "totalWins": 18,
       "totalLosses": 34,
-      "winRate": 0.333,
+      "winRate": 0.346,
       "promotions": 2,
       "relegations": 0,
       "stayed": 7,
@@ -24967,8 +25108,8 @@
           "pointsAgainst": 39
         }
       ],
-      "tennisPointsFor": 330,
-      "tennisPointsAgainst": 435,
+      "tennisPointsFor": 339,
+      "tennisPointsAgainst": 441,
       "timeline": [
         {
           "eventId": 1,
@@ -25582,11 +25723,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 3,
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
-          "leaguePoints": 12,
+          "leaguePoints": 21,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 28,
+              "opponentName": "Warren Williamson",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
             {
               "opponentId": 3,
               "opponentName": "Richard Beales",
@@ -26325,7 +26474,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 2,
           "leaguePoints": 7,
@@ -27102,7 +27251,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -27501,7 +27650,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 2,
           "leaguePoints": 19,
@@ -27622,7 +27771,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 1,
+        "position": 2,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -27673,7 +27822,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 5,
           "losses": 0,
           "leaguePoints": 51,
@@ -27722,9 +27871,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -27733,15 +27882,15 @@
       "playerId": 13,
       "name": "Nicole Borzatti",
       "totalRounds": 14,
-      "totalWins": 26,
+      "totalWins": 27,
       "totalLosses": 58,
-      "winRate": 0.31,
+      "winRate": 0.318,
       "promotions": 4,
       "relegations": 2,
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 4,
+        "position": 3,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -27769,17 +27918,17 @@
           "pointsAgainst": 41
         },
         {
-          "opponentId": 36,
-          "opponentName": "OMAR IBRAHIM",
+          "opponentId": 20,
+          "opponentName": "Alasdair McCall",
           "played": 5,
-          "wins": 2,
-          "losses": 3,
-          "pointsFor": 36,
-          "pointsAgainst": 39
+          "wins": 3,
+          "losses": 2,
+          "pointsFor": 40,
+          "pointsAgainst": 35
         }
       ],
-      "tennisPointsFor": 518,
-      "tennisPointsAgainst": 741,
+      "tennisPointsFor": 529,
+      "tennisPointsAgainst": 745,
       "timeline": [
         {
           "eventId": 1,
@@ -28096,7 +28245,7 @@
           "matchups": [
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 5,
               "pointsAgainst": 10,
@@ -28752,12 +28901,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
-          "wins": 1,
+          "position": 3,
+          "wins": 2,
           "losses": 2,
-          "leaguePoints": 19,
+          "leaguePoints": 30,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 4,
               "opponentName": "Clive Coulson",
@@ -28824,7 +28981,7 @@
         },
         {
           "opponentId": 65,
-          "opponentName": "BOND WONG",
+          "opponentName": "Bond Wong",
           "played": 3,
           "wins": 0,
           "losses": 3,
@@ -29102,7 +29259,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 5,
               "pointsAgainst": 10,
@@ -29182,7 +29339,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 4,
               "pointsAgainst": 11,
@@ -29222,7 +29379,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 0,
               "pointsAgainst": 15,
@@ -29399,9 +29556,9 @@
       "playerId": 36,
       "name": "OMAR IBRAHIM",
       "totalRounds": 12,
-      "totalWins": 27,
-      "totalLosses": 17,
-      "winRate": 0.614,
+      "totalWins": 28,
+      "totalLosses": 18,
+      "winRate": 0.609,
       "promotions": 2,
       "relegations": 0,
       "stayed": 9,
@@ -29444,8 +29601,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 356,
-      "tennisPointsAgainst": 304,
+      "tennisPointsFor": 373,
+      "tennisPointsAgainst": 317,
       "timeline": [
         {
           "eventId": 1,
@@ -30073,12 +30230,29 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
-          "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "position": 4,
+          "wins": 1,
+          "losses": 1,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 28,
+              "opponentName": "Warren Williamson",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
+            {
+              "opponentId": 3,
+              "opponentName": "Richard Beales",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -30463,7 +30637,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 9,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 10,
@@ -30492,18 +30666,18 @@
       "name": "peter orourke",
       "totalRounds": 3,
       "totalWins": 2,
-      "totalLosses": 6,
-      "winRate": 0.25,
+      "totalLosses": 7,
+      "winRate": 0.222,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 5,
-        "roundId": 28,
-        "roundLabel": "The Great Spring Scramble - 2026",
-        "roundStart": "3 Mar",
-        "roundEnd": "31 May",
+        "position": 4,
+        "roundId": 31,
+        "roundLabel": "Strawberries & Screamers - Summer 2026",
+        "roundStart": "5 Jun",
+        "roundEnd": "6 Sep",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -30536,8 +30710,8 @@
           "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 46,
-      "tennisPointsAgainst": 74,
+      "tennisPointsFor": 52,
+      "tennisPointsAgainst": 83,
       "timeline": [
         {
           "eventId": 1,
@@ -30662,12 +30836,21 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 4,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 6,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -31028,7 +31211,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -31532,7 +31715,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 1,
@@ -31568,7 +31751,7 @@
       "stayed": 2,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 5,
+        "position": 6,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -31761,7 +31944,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -31877,8 +32060,8 @@
       "name": "Richard Beales",
       "totalRounds": 14,
       "totalWins": 18,
-      "totalLosses": 60,
-      "winRate": 0.231,
+      "totalLosses": 61,
+      "winRate": 0.228,
       "promotions": 3,
       "relegations": 5,
       "stayed": 5,
@@ -31921,8 +32104,8 @@
           "pointsAgainst": 50
         }
       ],
-      "tennisPointsFor": 470,
-      "tennisPointsAgainst": 711,
+      "tennisPointsFor": 475,
+      "tennisPointsAgainst": 721,
       "timeline": [
         {
           "eventId": 1,
@@ -32391,7 +32574,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 1,
               "pointsAgainst": 14,
@@ -32847,12 +33030,20 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 0,
-          "losses": 3,
-          "leaguePoints": 12,
+          "losses": 4,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 36,
+              "opponentName": "OMAR IBRAHIM",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 64,
               "opponentName": "Melwyn Furtado",
@@ -33098,7 +33289,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 6,
+        "position": 7,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -33121,7 +33312,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": true,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -34232,7 +34423,7 @@
           "groupNumber": 1,
           "groupSize": 7,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -34942,9 +35133,9 @@
       "playerId": 108,
       "name": "Stephen Power",
       "totalRounds": 4,
-      "totalWins": 3,
+      "totalWins": 4,
       "totalLosses": 9,
-      "winRate": 0.25,
+      "winRate": 0.308,
       "promotions": 2,
       "relegations": 1,
       "stayed": 0,
@@ -34987,8 +35178,8 @@
           "pointsAgainst": 1
         }
       ],
-      "tennisPointsFor": 67,
-      "tennisPointsAgainst": 113,
+      "tennisPointsFor": 76,
+      "tennisPointsAgainst": 119,
       "timeline": [
         {
           "eventId": 1,
@@ -35162,11 +35353,19 @@
           "groupSize": 8,
           "withdrawn": false,
           "position": 3,
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 4,
+          "leaguePoints": 13,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 135,
+              "opponentName": "peter orourke",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -35922,9 +36121,9 @@
       "playerId": 8,
       "name": "Tim Acreman",
       "totalRounds": 14,
-      "totalWins": 26,
+      "totalWins": 27,
       "totalLosses": 11,
-      "winRate": 0.703,
+      "winRate": 0.711,
       "promotions": 4,
       "relegations": 4,
       "stayed": 5,
@@ -35958,17 +36157,17 @@
           "pointsAgainst": 12
         },
         {
-          "opponentId": 33,
-          "opponentName": "Joseph Bedford",
+          "opponentId": 25,
+          "opponentName": "Adam Biswell",
           "played": 3,
           "wins": 1,
           "losses": 2,
-          "pointsFor": 22,
-          "pointsAgainst": 23
+          "pointsFor": 20,
+          "pointsAgainst": 25
         }
       ],
-      "tennisPointsFor": 341,
-      "tennisPointsAgainst": 223,
+      "tennisPointsFor": 351,
+      "tennisPointsAgainst": 228,
       "timeline": [
         {
           "eventId": 1,
@@ -36380,7 +36579,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -36580,12 +36779,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
-          "wins": 0,
+          "position": 4,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 5,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 25,
+              "opponentName": "Adam Biswell",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 2,
               "opponentName": "Gianluca Iorizzo",
@@ -37043,9 +37250,9 @@
       "playerId": 28,
       "name": "Warren Williamson",
       "totalRounds": 11,
-      "totalWins": 26,
-      "totalLosses": 25,
-      "winRate": 0.51,
+      "totalWins": 27,
+      "totalLosses": 26,
+      "winRate": 0.509,
       "promotions": 1,
       "relegations": 1,
       "stayed": 8,
@@ -37088,8 +37295,8 @@
           "pointsAgainst": 28
         }
       ],
-      "tennisPointsFor": 365,
-      "tennisPointsAgainst": 417,
+      "tennisPointsFor": 379,
+      "tennisPointsAgainst": 433,
       "timeline": [
         {
           "eventId": 1,
@@ -37446,7 +37653,7 @@
             },
             {
               "opponentId": 65,
-              "opponentName": "BOND WONG",
+              "opponentName": "Bond Wong",
               "outcome": "loss",
               "pointsFor": 2,
               "pointsAgainst": 13,
@@ -37743,11 +37950,27 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 5,
-          "wins": 0,
-          "losses": 1,
-          "leaguePoints": 3,
+          "wins": 1,
+          "losses": 2,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 64,
+              "opponentName": "Melwyn Furtado",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            },
+            {
+              "opponentId": 36,
+              "opponentName": "OMAR IBRAHIM",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 9,
               "opponentName": "Dominic Moret",
@@ -37770,9 +37993,9 @@
       "playerId": 77,
       "name": "Wendy Bignold",
       "totalRounds": 13,
-      "totalWins": 44,
+      "totalWins": 46,
       "totalLosses": 28,
-      "winRate": 0.611,
+      "winRate": 0.622,
       "promotions": 3,
       "relegations": 0,
       "stayed": 8,
@@ -37797,6 +38020,15 @@
           "pointsAgainst": 42
         },
         {
+          "opponentId": 85,
+          "opponentName": "Liz Bowran",
+          "played": 6,
+          "wins": 6,
+          "losses": 0,
+          "pointsFor": 82,
+          "pointsAgainst": 8
+        },
+        {
           "opponentId": 75,
           "opponentName": "Doreen Lam",
           "played": 6,
@@ -37804,19 +38036,10 @@
           "losses": 1,
           "pointsFor": 62,
           "pointsAgainst": 28
-        },
-        {
-          "opponentId": 83,
-          "opponentName": "Carol Hunt",
-          "played": 5,
-          "wins": 5,
-          "losses": 0,
-          "pointsFor": 58,
-          "pointsAgainst": 17
         }
       ],
-      "tennisPointsFor": 616,
-      "tennisPointsAgainst": 462,
+      "tennisPointsFor": 638,
+      "tennisPointsAgainst": 470,
       "timeline": [
         {
           "eventId": 1,
@@ -38309,12 +38532,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 8,
-          "wins": 0,
+          "position": 6,
+          "wins": 1,
           "losses": 2,
-          "leaguePoints": 9,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 110,
+              "opponentName": "Adam Farrer",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 52,
               "opponentName": "Henry Peart Smith",
@@ -38678,11 +38909,19 @@
           "groupSize": 7,
           "withdrawn": false,
           "position": 1,
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 12,
+          "leaguePoints": 26,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 85,
+              "opponentName": "Liz Bowran",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
             {
               "opponentId": 84,
               "opponentName": "Melanie Burt",
