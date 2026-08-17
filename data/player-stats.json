@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:52:28.317Z",
+  "generatedAt": "2026-08-17T07:03:06.956Z",
   "includedRoundCount": 20,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -927,7 +927,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 27,
@@ -2988,9 +2988,9 @@
       "playerId": 100,
       "name": "Anna Caruso",
       "totalRounds": 5,
-      "totalWins": 7,
+      "totalWins": 8,
       "totalLosses": 10,
-      "winRate": 0.412,
+      "winRate": 0.444,
       "promotions": 1,
       "relegations": 0,
       "stayed": 3,
@@ -3008,11 +3008,11 @@
         {
           "opponentId": 95,
           "opponentName": "Bethan Jones",
-          "played": 4,
-          "wins": 4,
+          "played": 5,
+          "wins": 5,
           "losses": 0,
-          "pointsFor": 34,
-          "pointsAgainst": 26
+          "pointsFor": 45,
+          "pointsAgainst": 30
         },
         {
           "opponentId": 105,
@@ -3033,8 +3033,8 @@
           "pointsAgainst": 34
         }
       ],
-      "tennisPointsFor": 118,
-      "tennisPointsAgainst": 137,
+      "tennisPointsFor": 129,
+      "tennisPointsAgainst": 141,
       "timeline": [
         {
           "eventId": 4,
@@ -3263,12 +3263,20 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 5,
-          "wins": 1,
+          "position": 3,
+          "wins": 2,
           "losses": 1,
-          "leaguePoints": 12,
+          "leaguePoints": 23,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 95,
+              "opponentName": "Bethan Jones",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 147,
               "opponentName": "Maddy Smith",
@@ -3601,8 +3609,8 @@
       "name": "Anthony Boobbyer",
       "totalRounds": 8,
       "totalWins": 19,
-      "totalLosses": 24,
-      "winRate": 0.442,
+      "totalLosses": 25,
+      "winRate": 0.432,
       "promotions": 2,
       "relegations": 0,
       "stayed": 5,
@@ -3645,8 +3653,8 @@
           "pointsAgainst": 16
         }
       ],
-      "tennisPointsFor": 305,
-      "tennisPointsAgainst": 340,
+      "tennisPointsFor": 311,
+      "tennisPointsAgainst": 349,
       "timeline": [
         {
           "eventId": 1,
@@ -4147,12 +4155,20 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 6,
           "wins": 1,
-          "losses": 2,
-          "leaguePoints": 16,
+          "losses": 3,
+          "leaguePoints": 22,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 102,
+              "opponentName": "Dmitry Skorokhod",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            },
             {
               "opponentId": 64,
               "opponentName": "Melwyn Furtado",
@@ -4783,8 +4799,8 @@
       "name": "Bethan Jones",
       "totalRounds": 6,
       "totalWins": 2,
-      "totalLosses": 18,
-      "winRate": 0.1,
+      "totalLosses": 19,
+      "winRate": 0.095,
       "promotions": 1,
       "relegations": 0,
       "stayed": 4,
@@ -4802,11 +4818,11 @@
         {
           "opponentId": 100,
           "opponentName": "Anna Caruso",
-          "played": 4,
+          "played": 5,
           "wins": 0,
-          "losses": 4,
-          "pointsFor": 26,
-          "pointsAgainst": 34
+          "losses": 5,
+          "pointsFor": 30,
+          "pointsAgainst": 45
         },
         {
           "opponentId": 105,
@@ -4827,8 +4843,8 @@
           "pointsAgainst": 33
         }
       ],
-      "tennisPointsFor": 107,
-      "tennisPointsAgainst": 174,
+      "tennisPointsFor": 111,
+      "tennisPointsAgainst": 185,
       "timeline": [
         {
           "eventId": 4,
@@ -5091,10 +5107,18 @@
           "withdrawn": false,
           "position": 4,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 13,
+          "losses": 2,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 100,
+              "opponentName": "Anna Caruso",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 147,
               "opponentName": "Maddy Smith",
@@ -6538,7 +6562,7 @@
           "groupNumber": 1,
           "groupSize": 7,
           "withdrawn": true,
-          "position": 4,
+          "position": 6,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 6,
@@ -7907,11 +7931,11 @@
       "stayed": 5,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 3,
-        "roundId": 30,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "4 Jun",
-        "roundEnd": "6 Sep",
+        "position": 4,
+        "roundId": 29,
+        "roundLabel": "The Great Spring Scramble - 2026",
+        "roundStart": "4 Mar",
+        "roundEnd": "31 May",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -8198,7 +8222,7 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 1,
           "losses": 2,
           "leaguePoints": 17,
@@ -9556,9 +9580,9 @@
       "playerId": 4,
       "name": "Clive Coulson",
       "totalRounds": 14,
-      "totalWins": 20,
+      "totalWins": 21,
       "totalLosses": 26,
-      "winRate": 0.435,
+      "winRate": 0.447,
       "promotions": 3,
       "relegations": 4,
       "stayed": 6,
@@ -9601,8 +9625,8 @@
           "pointsAgainst": 34
         }
       ],
-      "tennisPointsFor": 362,
-      "tennisPointsAgainst": 345,
+      "tennisPointsFor": 373,
+      "tennisPointsAgainst": 349,
       "timeline": [
         {
           "eventId": 1,
@@ -10262,12 +10286,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
-          "wins": 1,
+          "position": 3,
+          "wins": 2,
           "losses": 3,
-          "leaguePoints": 27,
+          "leaguePoints": 38,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 77,
+              "opponentName": "Wendy Bignold",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 52,
               "opponentName": "Henry Peart Smith",
@@ -10322,7 +10354,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 1,
+        "position": 2,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -10364,7 +10396,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 2,
           "losses": 0,
           "leaguePoints": 26,
@@ -10389,9 +10421,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -11932,9 +11964,9 @@
       "playerId": 102,
       "name": "Dmitry Skorokhod",
       "totalRounds": 5,
-      "totalWins": 12,
+      "totalWins": 13,
       "totalLosses": 4,
-      "winRate": 0.75,
+      "winRate": 0.765,
       "promotions": 2,
       "relegations": 1,
       "stayed": 1,
@@ -11950,6 +11982,15 @@
       },
       "topOpponents": [
         {
+          "opponentId": 72,
+          "opponentName": "Anthony Boobbyer",
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "pointsFor": 21,
+          "pointsAgainst": 9
+        },
+        {
           "opponentId": 80,
           "opponentName": "Adrian Wingate",
           "played": 1,
@@ -11957,15 +11998,6 @@
           "losses": 0,
           "pointsFor": 15,
           "pointsAgainst": 0
-        },
-        {
-          "opponentId": 72,
-          "opponentName": "Anthony Boobbyer",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 12,
-          "pointsAgainst": 3
         },
         {
           "opponentId": 18,
@@ -11977,8 +12009,8 @@
           "pointsAgainst": 5
         }
       ],
-      "tennisPointsFor": 163,
-      "tennisPointsAgainst": 77,
+      "tennisPointsFor": 172,
+      "tennisPointsAgainst": 83,
       "timeline": [
         {
           "eventId": 1,
@@ -12216,11 +12248,20 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 8,
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 9,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -12234,9 +12275,9 @@
       "playerId": 9,
       "name": "Dominic Moret",
       "totalRounds": 14,
-      "totalWins": 26,
+      "totalWins": 27,
       "totalLosses": 12,
-      "winRate": 0.684,
+      "winRate": 0.692,
       "promotions": 1,
       "relegations": 2,
       "stayed": 10,
@@ -12279,8 +12320,8 @@
           "pointsAgainst": 33
         }
       ],
-      "tennisPointsFor": 344,
-      "tennisPointsAgainst": 234,
+      "tennisPointsFor": 356,
+      "tennisPointsAgainst": 237,
       "timeline": [
         {
           "eventId": 1,
@@ -12876,11 +12917,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 1,
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
-          "leaguePoints": 53,
+          "leaguePoints": 65,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 36,
+              "opponentName": "OMAR IBRAHIM",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 28,
               "opponentName": "Warren Williamson",
@@ -12927,9 +12976,9 @@
       "playerId": 75,
       "name": "Doreen Lam",
       "totalRounds": 13,
-      "totalWins": 36,
-      "totalLosses": 28,
-      "winRate": 0.563,
+      "totalWins": 37,
+      "totalLosses": 29,
+      "winRate": 0.561,
       "promotions": 2,
       "relegations": 0,
       "stayed": 9,
@@ -12963,17 +13012,17 @@
           "pointsAgainst": 31
         },
         {
-          "opponentId": 83,
-          "opponentName": "Carol Hunt",
-          "played": 4,
+          "opponentId": 84,
+          "opponentName": "Melanie Burt",
+          "played": 5,
           "wins": 3,
-          "losses": 1,
-          "pointsFor": 35,
-          "pointsAgainst": 25
+          "losses": 2,
+          "pointsFor": 41,
+          "pointsAgainst": 34
         }
       ],
-      "tennisPointsFor": 515,
-      "tennisPointsAgainst": 437,
+      "tennisPointsFor": 531,
+      "tennisPointsAgainst": 451,
       "timeline": [
         {
           "eventId": 1,
@@ -13378,12 +13427,20 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 2,
+          "position": 1,
           "wins": 2,
-          "losses": 1,
-          "leaguePoints": 25,
+          "losses": 2,
+          "leaguePoints": 28,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 63,
+              "opponentName": "Leon Ooi",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 135,
               "opponentName": "peter orourke",
@@ -13411,9 +13468,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         },
         {
           "eventId": 4,
@@ -13755,11 +13812,19 @@
           "groupSize": 7,
           "withdrawn": false,
           "position": 2,
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
-          "leaguePoints": 21,
+          "leaguePoints": 34,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
             {
               "opponentId": 87,
               "opponentName": "Sarah Ruiz",
@@ -14469,7 +14534,7 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -18023,7 +18088,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -19273,22 +19338,31 @@
       "name": "Katrina O&#39;Keeffe",
       "totalRounds": 4,
       "totalWins": 4,
-      "totalLosses": 10,
-      "winRate": 0.286,
+      "totalLosses": 11,
+      "winRate": 0.267,
       "promotions": 1,
       "relegations": 0,
       "stayed": 2,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 6,
-        "roundId": 20,
-        "roundLabel": "Spring Swing 2025",
-        "roundStart": "19 Apr 2025",
-        "roundEnd": "27 Jul 2025",
+        "position": 5,
+        "roundId": 30,
+        "roundLabel": "Strawberries & Screamers - Summer 2026",
+        "roundStart": "4 Jun",
+        "roundEnd": "6 Sep",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 87,
+          "opponentName": "Sarah Ruiz",
+          "played": 3,
+          "wins": 1,
+          "losses": 2,
+          "pointsFor": 23,
+          "pointsAgainst": 22
+        },
         {
           "opponentId": 75,
           "opponentName": "Doreen Lam",
@@ -19297,15 +19371,6 @@
           "losses": 3,
           "pointsFor": 8,
           "pointsAgainst": 37
-        },
-        {
-          "opponentId": 87,
-          "opponentName": "Sarah Ruiz",
-          "played": 2,
-          "wins": 1,
-          "losses": 1,
-          "pointsFor": 16,
-          "pointsAgainst": 14
         },
         {
           "opponentId": 77,
@@ -19317,8 +19382,8 @@
           "pointsAgainst": 27
         }
       ],
-      "tennisPointsFor": 87,
-      "tennisPointsAgainst": 123,
+      "tennisPointsFor": 94,
+      "tennisPointsAgainst": 131,
       "timeline": [
         {
           "eventId": 4,
@@ -19498,12 +19563,20 @@
           "groupNumber": 1,
           "groupSize": 7,
           "withdrawn": false,
-          "position": 6,
+          "position": 5,
           "wins": 0,
-          "losses": 2,
-          "leaguePoints": 4,
+          "losses": 3,
+          "leaguePoints": 11,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 87,
+              "opponentName": "Sarah Ruiz",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -20139,9 +20212,9 @@
       "playerId": 63,
       "name": "Leon Ooi",
       "totalRounds": 8,
-      "totalWins": 10,
+      "totalWins": 11,
       "totalLosses": 1,
-      "winRate": 0.909,
+      "winRate": 0.917,
       "promotions": 2,
       "relegations": 1,
       "stayed": 3,
@@ -20156,6 +20229,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 75,
+          "opponentName": "Doreen Lam",
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "pointsFor": 24,
+          "pointsAgainst": 6
+        },
         {
           "opponentId": 20,
           "opponentName": "Alasdair McCall",
@@ -20173,19 +20255,10 @@
           "losses": 0,
           "pointsFor": 11,
           "pointsAgainst": 4
-        },
-        {
-          "opponentId": 66,
-          "opponentName": "Arshad Munir",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 12,
-          "pointsAgainst": 3
         }
       ],
-      "tennisPointsFor": 112,
-      "tennisPointsAgainst": 53,
+      "tennisPointsFor": 124,
+      "tennisPointsAgainst": 56,
       "timeline": [
         {
           "eventId": 1,
@@ -20444,12 +20517,20 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 4,
-          "wins": 1,
+          "position": 3,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 12,
+          "leaguePoints": 24,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 108,
               "opponentName": "Stephen Power",
@@ -20719,8 +20800,8 @@
       "name": "Liz Bowran",
       "totalRounds": 6,
       "totalWins": 2,
-      "totalLosses": 25,
-      "winRate": 0.074,
+      "totalLosses": 26,
+      "winRate": 0.071,
       "promotions": 0,
       "relegations": 0,
       "stayed": 5,
@@ -20754,17 +20835,17 @@
           "pointsAgainst": 54
         },
         {
-          "opponentId": 75,
-          "opponentName": "Doreen Lam",
-          "played": 4,
-          "wins": 1,
-          "losses": 3,
-          "pointsFor": 18,
-          "pointsAgainst": 42
+          "opponentId": 84,
+          "opponentName": "Melanie Burt",
+          "played": 5,
+          "wins": 0,
+          "losses": 5,
+          "pointsFor": 16,
+          "pointsAgainst": 59
         }
       ],
-      "tennisPointsFor": 109,
-      "tennisPointsAgainst": 288,
+      "tennisPointsFor": 112,
+      "tennisPointsAgainst": 300,
       "timeline": [
         {
           "eventId": 4,
@@ -21099,10 +21180,18 @@
           "withdrawn": false,
           "position": 7,
           "wins": 0,
-          "losses": 1,
-          "leaguePoints": 1,
+          "losses": 2,
+          "leaguePoints": 4,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 77,
               "opponentName": "Wendy Bignold",
@@ -21626,7 +21715,7 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -21645,15 +21734,15 @@
       "playerId": 147,
       "name": "Maddy Smith",
       "totalRounds": 1,
-      "totalWins": 1,
-      "totalLosses": 2,
-      "winRate": 0.333,
+      "totalWins": 2,
+      "totalLosses": 3,
+      "winRate": 0.4,
       "promotions": 0,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 2,
+        "position": 1,
         "roundId": 30,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "4 Jun",
@@ -21672,6 +21761,15 @@
           "pointsAgainst": 5
         },
         {
+          "opponentId": 140,
+          "opponentName": "Melisa Kulenovic",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 13,
+          "pointsAgainst": 2
+        },
+        {
           "opponentId": 100,
           "opponentName": "Anna Caruso",
           "played": 1,
@@ -21679,19 +21777,10 @@
           "losses": 1,
           "pointsFor": 7,
           "pointsAgainst": 8
-        },
-        {
-          "opponentId": 90,
-          "opponentName": "Christine James",
-          "played": 1,
-          "wins": 0,
-          "losses": 1,
-          "pointsFor": 7,
-          "pointsAgainst": 8
         }
       ],
-      "tennisPointsFor": 24,
-      "tennisPointsAgainst": 21,
+      "tennisPointsFor": 44,
+      "tennisPointsAgainst": 31,
       "timeline": [
         {
           "eventId": 4,
@@ -21704,12 +21793,28 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 2,
-          "wins": 1,
-          "losses": 2,
-          "leaguePoints": 24,
+          "position": 1,
+          "wins": 2,
+          "losses": 3,
+          "leaguePoints": 44,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 140,
+              "opponentName": "Melisa Kulenovic",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 100,
               "opponentName": "Anna Caruso",
@@ -21737,9 +21842,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -24138,8 +24243,8 @@
       "name": "Matthew Takeuchi",
       "totalRounds": 10,
       "totalWins": 17,
-      "totalLosses": 11,
-      "winRate": 0.607,
+      "totalLosses": 12,
+      "winRate": 0.586,
       "promotions": 2,
       "relegations": 0,
       "stayed": 7,
@@ -24164,6 +24269,15 @@
           "pointsAgainst": 22
         },
         {
+          "opponentId": 64,
+          "opponentName": "Melwyn Furtado",
+          "played": 4,
+          "wins": 1,
+          "losses": 3,
+          "pointsFor": 26,
+          "pointsAgainst": 34
+        },
+        {
           "opponentId": 77,
           "opponentName": "Wendy Bignold",
           "played": 3,
@@ -24171,19 +24285,10 @@
           "losses": 1,
           "pointsFor": 25,
           "pointsAgainst": 20
-        },
-        {
-          "opponentId": 64,
-          "opponentName": "Melwyn Furtado",
-          "played": 3,
-          "wins": 1,
-          "losses": 2,
-          "pointsFor": 20,
-          "pointsAgainst": 25
         }
       ],
-      "tennisPointsFor": 235,
-      "tennisPointsAgainst": 185,
+      "tennisPointsFor": 241,
+      "tennisPointsAgainst": 194,
       "timeline": [
         {
           "eventId": 1,
@@ -24633,12 +24738,21 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 8,
+          "position": 9,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 6,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 64,
+              "opponentName": "Melwyn Furtado",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -24652,9 +24766,9 @@
       "playerId": 84,
       "name": "Melanie Burt",
       "totalRounds": 8,
-      "totalWins": 18,
-      "totalLosses": 13,
-      "winRate": 0.581,
+      "totalWins": 19,
+      "totalLosses": 14,
+      "winRate": 0.576,
       "promotions": 0,
       "relegations": 0,
       "stayed": 6,
@@ -24679,6 +24793,15 @@
           "pointsAgainst": 63
         },
         {
+          "opponentId": 85,
+          "opponentName": "Liz Bowran",
+          "played": 5,
+          "wins": 5,
+          "losses": 0,
+          "pointsFor": 59,
+          "pointsAgainst": 16
+        },
+        {
           "opponentId": 83,
           "opponentName": "Carol Hunt",
           "played": 5,
@@ -24686,19 +24809,10 @@
           "losses": 2,
           "pointsFor": 36,
           "pointsAgainst": 39
-        },
-        {
-          "opponentId": 85,
-          "opponentName": "Liz Bowran",
-          "played": 4,
-          "wins": 4,
-          "losses": 0,
-          "pointsFor": 47,
-          "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 252,
-      "tennisPointsAgainst": 207,
+      "tennisPointsFor": 266,
+      "tennisPointsAgainst": 223,
       "timeline": [
         {
           "eventId": 1,
@@ -25103,11 +25217,27 @@
           "groupSize": 7,
           "withdrawn": false,
           "position": 3,
-          "wins": 1,
-          "losses": 1,
-          "leaguePoints": 12,
+          "wins": 2,
+          "losses": 2,
+          "leaguePoints": 26,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 85,
+              "opponentName": "Liz Bowran",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
             {
               "opponentId": 83,
               "opponentName": "Carol Hunt",
@@ -25139,8 +25269,8 @@
       "name": "Melisa Kulenovic",
       "totalRounds": 1,
       "totalWins": 0,
-      "totalLosses": 0,
-      "winRate": null,
+      "totalLosses": 1,
+      "winRate": 0,
       "promotions": 0,
       "relegations": 0,
       "stayed": 0,
@@ -25154,9 +25284,19 @@
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
-      "topOpponents": [],
-      "tennisPointsFor": 0,
-      "tennisPointsAgainst": 0,
+      "topOpponents": [
+        {
+          "opponentId": 147,
+          "opponentName": "Maddy Smith",
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "pointsFor": 2,
+          "pointsAgainst": 13
+        }
+      ],
+      "tennisPointsFor": 2,
+      "tennisPointsAgainst": 13,
       "timeline": [
         {
           "eventId": 4,
@@ -25171,10 +25311,19 @@
           "withdrawn": false,
           "position": 6,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 2,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
           "transition": null,
           "resultCode": "none",
@@ -25188,9 +25337,9 @@
       "playerId": 64,
       "name": "Melwyn Furtado",
       "totalRounds": 10,
-      "totalWins": 19,
+      "totalWins": 20,
       "totalLosses": 35,
-      "winRate": 0.352,
+      "winRate": 0.364,
       "promotions": 2,
       "relegations": 0,
       "stayed": 7,
@@ -25233,8 +25382,8 @@
           "pointsAgainst": 29
         }
       ],
-      "tennisPointsFor": 355,
-      "tennisPointsAgainst": 455,
+      "tennisPointsFor": 364,
+      "tennisPointsAgainst": 461,
       "timeline": [
         {
           "eventId": 1,
@@ -25848,11 +25997,19 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 2,
-          "wins": 3,
+          "wins": 4,
           "losses": 3,
-          "leaguePoints": 37,
+          "leaguePoints": 46,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 41,
+              "opponentName": "Matthew Takeuchi",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
             {
               "opponentId": 36,
               "opponentName": "OMAR IBRAHIM",
@@ -28047,7 +28204,7 @@
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 3,
+        "position": 4,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -29058,7 +29215,7 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 2,
           "losses": 3,
           "leaguePoints": 35,
@@ -29722,8 +29879,8 @@
       "name": "OMAR IBRAHIM",
       "totalRounds": 12,
       "totalWins": 28,
-      "totalLosses": 19,
-      "winRate": 0.596,
+      "totalLosses": 20,
+      "winRate": 0.583,
       "promotions": 2,
       "relegations": 0,
       "stayed": 9,
@@ -29766,8 +29923,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 378,
-      "tennisPointsAgainst": 327,
+      "tennisPointsFor": 381,
+      "tennisPointsAgainst": 339,
       "timeline": [
         {
           "eventId": 1,
@@ -30395,12 +30552,20 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 4,
           "wins": 1,
-          "losses": 2,
-          "leaguePoints": 22,
+          "losses": 3,
+          "leaguePoints": 25,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 9,
+              "opponentName": "Dominic Moret",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 64,
               "opponentName": "Melwyn Furtado",
@@ -30839,8 +31004,8 @@
       "name": "peter orourke",
       "totalRounds": 3,
       "totalWins": 2,
-      "totalLosses": 8,
-      "winRate": 0.2,
+      "totalLosses": 9,
+      "winRate": 0.182,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
@@ -30865,6 +31030,15 @@
           "pointsAgainst": 17
         },
         {
+          "opponentId": 30,
+          "opponentName": "Peter Walsh",
+          "played": 2,
+          "wins": 0,
+          "losses": 2,
+          "pointsFor": 10,
+          "pointsAgainst": 20
+        },
+        {
           "opponentId": 136,
           "opponentName": "Stefano Capece",
           "played": 2,
@@ -30872,19 +31046,10 @@
           "losses": 2,
           "pointsFor": 12,
           "pointsAgainst": 18
-        },
-        {
-          "opponentId": 106,
-          "opponentName": "Clarice Williamson",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 13,
-          "pointsAgainst": 2
         }
       ],
-      "tennisPointsFor": 56,
-      "tennisPointsAgainst": 94,
+      "tennisPointsFor": 63,
+      "tennisPointsAgainst": 102,
       "timeline": [
         {
           "eventId": 1,
@@ -31011,10 +31176,18 @@
           "withdrawn": false,
           "position": 5,
           "wins": 0,
-          "losses": 2,
-          "leaguePoints": 10,
+          "losses": 3,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -31045,9 +31218,9 @@
       "playerId": 30,
       "name": "Peter Walsh",
       "totalRounds": 14,
-      "totalWins": 25,
+      "totalWins": 27,
       "totalLosses": 37,
-      "winRate": 0.403,
+      "winRate": 0.422,
       "promotions": 2,
       "relegations": 3,
       "stayed": 8,
@@ -31090,8 +31263,8 @@
           "pointsAgainst": 22
         }
       ],
-      "tennisPointsFor": 413,
-      "tennisPointsAgainst": 512,
+      "tennisPointsFor": 429,
+      "tennisPointsAgainst": 526,
       "timeline": [
         {
           "eventId": 1,
@@ -31896,12 +32069,28 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 6,
-          "wins": 0,
+          "position": 4,
+          "wins": 2,
           "losses": 1,
-          "leaguePoints": 1,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 135,
+              "opponentName": "peter orourke",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
+            {
+              "opponentId": 104,
+              "opponentName": "Rashed Karim",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 142,
               "opponentName": "Daniel Baulch",
@@ -31925,8 +32114,8 @@
       "name": "Rashed Karim",
       "totalRounds": 5,
       "totalWins": 5,
-      "totalLosses": 1,
-      "winRate": 0.833,
+      "totalLosses": 2,
+      "winRate": 0.714,
       "promotions": 1,
       "relegations": 1,
       "stayed": 2,
@@ -31941,6 +32130,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 30,
+          "opponentName": "Peter Walsh",
+          "played": 2,
+          "wins": 1,
+          "losses": 1,
+          "pointsFor": 15,
+          "pointsAgainst": 15
+        },
         {
           "opponentId": 106,
           "opponentName": "Clarice Williamson",
@@ -31958,19 +32156,10 @@
           "losses": 0,
           "pointsFor": 8,
           "pointsAgainst": 7
-        },
-        {
-          "opponentId": 30,
-          "opponentName": "Peter Walsh",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 8,
-          "pointsAgainst": 7
         }
       ],
-      "tennisPointsFor": 60,
-      "tennisPointsAgainst": 30,
+      "tennisPointsFor": 67,
+      "tennisPointsAgainst": 38,
       "timeline": [
         {
           "eventId": 1,
@@ -32127,10 +32316,19 @@
           "withdrawn": false,
           "position": 7,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 7,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
           "transition": null,
           "resultCode": "none",
@@ -33211,7 +33409,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 4,
           "leaguePoints": 25,
@@ -33478,7 +33676,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 8,
+        "position": 10,
         "roundId": 31,
         "roundLabel": "Strawberries & Screamers - Summer 2026",
         "roundStart": "5 Jun",
@@ -33501,7 +33699,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": true,
-          "position": 8,
+          "position": 10,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -33520,9 +33718,9 @@
       "playerId": 97,
       "name": "Ruth Short",
       "totalRounds": 6,
-      "totalWins": 19,
+      "totalWins": 20,
       "totalLosses": 6,
-      "winRate": 0.76,
+      "winRate": 0.769,
       "promotions": 1,
       "relegations": 0,
       "stayed": 4,
@@ -33565,8 +33763,8 @@
           "pointsAgainst": 8
         }
       ],
-      "tennisPointsFor": 230,
-      "tennisPointsAgainst": 124,
+      "tennisPointsFor": 238,
+      "tennisPointsAgainst": 131,
       "timeline": [
         {
           "eventId": 4,
@@ -33859,12 +34057,20 @@
           "groupNumber": 2,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 1,
-          "wins": 2,
+          "position": 2,
+          "wins": 3,
           "losses": 0,
-          "leaguePoints": 24,
+          "leaguePoints": 32,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 90,
               "opponentName": "Christine James",
@@ -33884,9 +34090,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/30",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -34234,9 +34440,9 @@
       "playerId": 87,
       "name": "Sarah Ruiz",
       "totalRounds": 6,
-      "totalWins": 17,
+      "totalWins": 18,
       "totalLosses": 14,
-      "winRate": 0.548,
+      "winRate": 0.563,
       "promotions": 1,
       "relegations": 0,
       "stayed": 4,
@@ -34279,7 +34485,7 @@
           "pointsAgainst": 15
         }
       ],
-      "tennisPointsFor": 255,
+      "tennisPointsFor": 263,
       "tennisPointsAgainst": 193,
       "timeline": [
         {
@@ -34630,9 +34836,9 @@
           "groupSize": 7,
           "withdrawn": false,
           "position": 4,
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 6,
+          "leaguePoints": 14,
           "leaguePointsAgainst": null,
           "matchups": [
             {
@@ -35356,11 +35562,11 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 3,
-        "roundId": 31,
-        "roundLabel": "Strawberries & Screamers - Summer 2026",
-        "roundStart": "5 Jun",
-        "roundEnd": "6 Sep",
+        "position": 6,
+        "roundId": 25,
+        "roundLabel": "Ice Ice Aces 2025/26",
+        "roundStart": "7 Nov 2025",
+        "roundEnd": "1 Mar",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -35567,7 +35773,7 @@
           "groupNumber": 4,
           "groupSize": 8,
           "withdrawn": false,
-          "position": 3,
+          "position": 6,
           "wins": 1,
           "losses": 2,
           "leaguePoints": 16,
@@ -38180,7 +38386,7 @@
           "groupNumber": 3,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 1,
           "losses": 2,
           "leaguePoints": 17,
@@ -38225,8 +38431,8 @@
       "name": "Wendy Bignold",
       "totalRounds": 13,
       "totalWins": 48,
-      "totalLosses": 28,
-      "winRate": 0.632,
+      "totalLosses": 29,
+      "winRate": 0.623,
       "promotions": 3,
       "relegations": 0,
       "stayed": 8,
@@ -38269,8 +38475,8 @@
           "pointsAgainst": 28
         }
       ],
-      "tennisPointsFor": 660,
-      "tennisPointsAgainst": 477,
+      "tennisPointsFor": 664,
+      "tennisPointsAgainst": 488,
       "timeline": [
         {
           "eventId": 1,
@@ -38763,12 +38969,20 @@
           "groupNumber": 2,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 5,
           "wins": 2,
-          "losses": 2,
-          "leaguePoints": 25,
+          "losses": 3,
+          "leaguePoints": 29,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 4,
+              "opponentName": "Clive Coulson",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 20,
               "opponentName": "Alasdair McCall",
