@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T13:02:14.284Z",
-  "rounds": 27,
-  "players": 103,
+  "generatedAt": "2026-09-07T11:54:27.981Z",
+  "rounds": 28,
+  "players": 104,
   "events": [
     {
       "id": 1,
@@ -19,6 +19,6 @@
     "open seed 25: cookie wall encountered, submitting consent.",
     "Scraping event 4 (women)",
     "women seed 26: cookie wall encountered, submitting consent.",
-    "Excluded rounds from stats: 7 (zero-activity), 19 (zero-activity), 24 (zero-activity), 18 (zero-activity), 22 (zero-activity), 24 (zero-activity), 25 (zero-activity)"
+    "Excluded rounds from stats: 7 (zero-activity), 19 (zero-activity), 24 (zero-activity), 32 (zero-activity), 18 (zero-activity), 22 (zero-activity), 24 (zero-activity), 25 (zero-activity)"
   ]
 }
