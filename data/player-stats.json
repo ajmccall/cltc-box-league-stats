@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T11:54:27.963Z",
+  "generatedAt": "2026-09-14T12:09:45.276Z",
   "includedRoundCount": 20,
-  "excludedRoundCount": 8,
+  "excludedRoundCount": 9,
   "excludedRounds": [
     {
       "eventId": 1,
@@ -49,6 +49,12 @@
       "eventId": 4,
       "roundId": 25,
       "roundLabel": "LTA - Tennis for Britain",
+      "reason": "zero-activity"
+    },
+    {
+      "eventId": 4,
+      "roundId": 33,
+      "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
       "reason": "zero-activity"
     }
   ],
