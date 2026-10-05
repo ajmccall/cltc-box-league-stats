@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:16:20.676Z",
+  "generatedAt": "2026-10-05T13:58:18.199Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -46,7 +46,7 @@
       "reason": "zero-activity"
     }
   ],
-  "playerCount": 105,
+  "playerCount": 106,
   "players": [
     {
       "id": "adam-biswell",
@@ -720,7 +720,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -1377,12 +1377,12 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
+          "position": 5,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
@@ -1565,8 +1565,8 @@
       "name": "Alasdair McCall",
       "totalRounds": 15,
       "totalWins": 30,
-      "totalLosses": 45,
-      "winRate": 0.4,
+      "totalLosses": 46,
+      "winRate": 0.395,
       "promotions": 4,
       "relegations": 5,
       "stayed": 5,
@@ -1584,11 +1584,11 @@
         {
           "opponentId": 3,
           "opponentName": "Richard Beales",
-          "played": 5,
+          "played": 6,
           "wins": 4,
-          "losses": 1,
-          "pointsFor": 39,
-          "pointsAgainst": 36
+          "losses": 2,
+          "pointsFor": 46,
+          "pointsAgainst": 44
         },
         {
           "opponentId": 10,
@@ -1609,8 +1609,8 @@
           "pointsAgainst": 40
         }
       ],
-      "tennisPointsFor": 480,
-      "tennisPointsAgainst": 650,
+      "tennisPointsFor": 487,
+      "tennisPointsAgainst": 658,
       "timeline": [
         {
           "eventId": 1,
@@ -2553,10 +2553,18 @@
           "withdrawn": false,
           "position": 1,
           "wins": 1,
-          "losses": 0,
-          "leaguePoints": 13,
+          "losses": 1,
+          "leaguePoints": 20,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 3,
+              "opponentName": "Richard Beales",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 72,
               "opponentName": "Anthony Boobbyer",
@@ -3131,8 +3139,8 @@
       "name": "Anna Caruso",
       "totalRounds": 6,
       "totalWins": 9,
-      "totalLosses": 12,
-      "winRate": 0.429,
+      "totalLosses": 13,
+      "winRate": 0.409,
       "promotions": 1,
       "relegations": 0,
       "stayed": 4,
@@ -3150,11 +3158,11 @@
         {
           "opponentId": 95,
           "opponentName": "Bethan Jones",
-          "played": 5,
+          "played": 6,
           "wins": 5,
-          "losses": 0,
-          "pointsFor": 45,
-          "pointsAgainst": 30
+          "losses": 1,
+          "pointsFor": 52,
+          "pointsAgainst": 38
         },
         {
           "opponentId": 90,
@@ -3175,8 +3183,8 @@
           "pointsAgainst": 24
         }
       ],
-      "tennisPointsFor": 150,
-      "tennisPointsAgainst": 165,
+      "tennisPointsFor": 157,
+      "tennisPointsAgainst": 173,
       "timeline": [
         {
           "eventId": 4,
@@ -3479,10 +3487,19 @@
           "withdrawn": false,
           "position": 3,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 7,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 95,
+              "opponentName": "Bethan Jones",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
           "resultCode": "none",
@@ -4424,7 +4441,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 2,
@@ -4452,9 +4469,9 @@
       "playerId": 66,
       "name": "Arshad Munir",
       "totalRounds": 10,
-      "totalWins": 13,
+      "totalWins": 15,
       "totalLosses": 28,
-      "winRate": 0.317,
+      "winRate": 0.349,
       "promotions": 3,
       "relegations": 2,
       "stayed": 4,
@@ -4488,17 +4505,17 @@
           "pointsAgainst": 38
         },
         {
-          "opponentId": 18,
-          "opponentName": "Daniel Ratinon",
-          "played": 3,
-          "wins": 3,
-          "losses": 0,
-          "pointsFor": 31,
-          "pointsAgainst": 14
+          "opponentId": 30,
+          "opponentName": "Peter Walsh",
+          "played": 4,
+          "wins": 1,
+          "losses": 3,
+          "pointsFor": 24,
+          "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 243,
-      "tennisPointsAgainst": 372,
+      "tennisPointsFor": 261,
+      "tennisPointsAgainst": 384,
       "timeline": [
         {
           "eventId": 1,
@@ -5047,12 +5064,28 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 4,
-          "wins": 0,
+          "position": 2,
+          "wins": 2,
           "losses": 1,
-          "leaguePoints": 2,
+          "leaguePoints": 20,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 76,
               "opponentName": "Wesley Taupin",
@@ -5075,15 +5108,15 @@
       "playerId": 95,
       "name": "Bethan Jones",
       "totalRounds": 7,
-      "totalWins": 3,
+      "totalWins": 4,
       "totalLosses": 22,
-      "winRate": 0.12,
+      "winRate": 0.154,
       "promotions": 1,
       "relegations": 0,
       "stayed": 5,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 2,
+        "position": 1,
         "roundId": 33,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -5095,11 +5128,11 @@
         {
           "opponentId": 100,
           "opponentName": "Anna Caruso",
-          "played": 5,
-          "wins": 0,
+          "played": 6,
+          "wins": 1,
           "losses": 5,
-          "pointsFor": 30,
-          "pointsAgainst": 45
+          "pointsFor": 38,
+          "pointsAgainst": 52
         },
         {
           "opponentId": 93,
@@ -5120,8 +5153,8 @@
           "pointsAgainst": 47
         }
       ],
-      "tennisPointsFor": 135,
-      "tennisPointsAgainst": 221,
+      "tennisPointsFor": 143,
+      "tennisPointsAgainst": 228,
       "timeline": [
         {
           "eventId": 4,
@@ -5454,12 +5487,20 @@
           "groupNumber": 2,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 2,
-          "wins": 0,
+          "position": 1,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 4,
+          "leaguePoints": 12,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 100,
+              "opponentName": "Anna Caruso",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 140,
               "opponentName": "Melisa Kulenovic",
@@ -5471,9 +5512,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -5481,12 +5522,12 @@
       "id": "bharat-sreenivas-venkatesh",
       "playerId": 26,
       "name": "Bharat Sreenivas Venkatesh",
-      "totalRounds": 12,
+      "totalRounds": 13,
       "totalWins": 17,
       "totalLosses": 15,
       "winRate": 0.531,
       "promotions": 1,
-      "relegations": 2,
+      "relegations": 3,
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 1,
@@ -6074,6 +6115,29 @@
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/31",
+          "transition": "relegation",
+          "resultCode": "relegation",
+          "resultLabel": "⬇️ Relegated",
+          "resultClass": "result-relegation"
+        },
+        {
+          "eventId": 1,
+          "eventName": "CLTC Open Box League",
+          "roundId": 32,
+          "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
+          "roundStart": "8 Sep",
+          "roundEnd": "6 Dec",
+          "groupName": "Group 5",
+          "groupNumber": 5,
+          "groupSize": 11,
+          "withdrawn": false,
+          "position": 5,
+          "wins": 0,
+          "losses": 0,
+          "leaguePoints": 0,
+          "leaguePointsAgainst": null,
+          "matchups": [],
+          "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
           "resultLabel": "-",
@@ -7177,12 +7241,12 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
+          "position": 5,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
@@ -8310,11 +8374,11 @@
       "stayed": 6,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 3,
-        "roundId": 33,
-        "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
-        "roundStart": "8 Sep",
-        "roundEnd": "6 Dec",
+        "position": 4,
+        "roundId": 29,
+        "roundLabel": "The Great Spring Scramble - 2026",
+        "roundStart": "4 Mar",
+        "roundEnd": "31 May",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -8657,7 +8721,7 @@
           "groupNumber": 2,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -9665,8 +9729,8 @@
       "name": "Clarice Williamson",
       "totalRounds": 7,
       "totalWins": 8,
-      "totalLosses": 10,
-      "winRate": 0.444,
+      "totalLosses": 11,
+      "winRate": 0.421,
       "promotions": 1,
       "relegations": 0,
       "stayed": 4,
@@ -9709,8 +9773,8 @@
           "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 95,
-      "tennisPointsAgainst": 175,
+      "tennisPointsFor": 99,
+      "tennisPointsAgainst": 186,
       "timeline": [
         {
           "eventId": 1,
@@ -9865,14 +9929,23 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
+          "position": 3,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": null,
+          "losses": 1,
+          "leaguePoints": 4,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 138,
+              "opponentName": "Sathisha Poojary",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -10826,7 +10899,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 3,
+        "position": 4,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -10941,7 +11014,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -10961,8 +11034,8 @@
       "name": "Daniel Ratinon",
       "totalRounds": 15,
       "totalWins": 12,
-      "totalLosses": 20,
-      "winRate": 0.375,
+      "totalLosses": 21,
+      "winRate": 0.364,
       "promotions": 4,
       "relegations": 4,
       "stayed": 6,
@@ -11005,8 +11078,8 @@
           "pointsAgainst": 11
         }
       ],
-      "tennisPointsFor": 210,
-      "tennisPointsAgainst": 271,
+      "tennisPointsFor": 212,
+      "tennisPointsAgainst": 284,
       "timeline": [
         {
           "eventId": 1,
@@ -11600,12 +11673,20 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
-          "losses": 1,
-          "leaguePoints": 5,
+          "losses": 2,
+          "leaguePoints": 7,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -12239,12 +12320,12 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
+          "position": 5,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
@@ -12571,11 +12652,11 @@
       "stayed": 2,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 3,
-        "roundId": 32,
-        "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
-        "roundStart": "8 Sep",
-        "roundEnd": "6 Dec",
+        "position": 4,
+        "roundId": 22,
+        "roundLabel": "Summer 2025 - Baseline Burn",
+        "roundStart": "30 Jul 2025",
+        "roundEnd": "2 Nov 2025",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -12910,7 +12991,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -13661,9 +13742,9 @@
       "playerId": 75,
       "name": "Doreen Lam",
       "totalRounds": 15,
-      "totalWins": 40,
-      "totalLosses": 32,
-      "winRate": 0.556,
+      "totalWins": 41,
+      "totalLosses": 33,
+      "winRate": 0.554,
       "promotions": 2,
       "relegations": 0,
       "stayed": 11,
@@ -13706,8 +13787,8 @@
           "pointsAgainst": 20
         }
       ],
-      "tennisPointsFor": 576,
-      "tennisPointsAgainst": 496,
+      "tennisPointsFor": 591,
+      "tennisPointsAgainst": 511,
       "timeline": [
         {
           "eventId": 1,
@@ -14184,12 +14265,20 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "leaguePoints": 10,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            },
             {
               "opponentId": 18,
               "opponentName": "Daniel Ratinon",
@@ -14601,11 +14690,19 @@
           "groupSize": 6,
           "withdrawn": false,
           "position": 1,
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 14,
+          "leaguePoints": 29,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            },
             {
               "opponentId": 147,
               "opponentName": "Maddy Smith",
@@ -15371,7 +15468,7 @@
           "groupNumber": 2,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -16344,7 +16441,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -16773,8 +16870,8 @@
       "name": "Harry Ikin",
       "totalRounds": 15,
       "totalWins": 27,
-      "totalLosses": 37,
-      "winRate": 0.422,
+      "totalLosses": 38,
+      "winRate": 0.415,
       "promotions": 5,
       "relegations": 3,
       "stayed": 6,
@@ -16817,8 +16914,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 420,
-      "tennisPointsAgainst": 465,
+      "tennisPointsFor": 427,
+      "tennisPointsAgainst": 473,
       "timeline": [
         {
           "eventId": 1,
@@ -17623,10 +17720,18 @@
           "withdrawn": false,
           "position": 2,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 15,
+          "losses": 2,
+          "leaguePoints": 22,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 43,
               "opponentName": "Mark Smith",
@@ -17657,9 +17762,9 @@
       "playerId": 52,
       "name": "Henry Peart Smith",
       "totalRounds": 3,
-      "totalWins": 8,
+      "totalWins": 9,
       "totalLosses": 5,
-      "winRate": 0.615,
+      "winRate": 0.643,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
@@ -17702,8 +17807,8 @@
           "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 106,
-      "tennisPointsAgainst": 89,
+      "tennisPointsFor": 114,
+      "tennisPointsAgainst": 96,
       "timeline": [
         {
           "eventId": 1,
@@ -17869,11 +17974,20 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 7,
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 8,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 17,
+              "opponentName": "Harry Ikin",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -17895,11 +18009,11 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 5,
-        "position": 0,
-        "roundId": 32,
-        "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
-        "roundStart": "8 Sep",
-        "roundEnd": "6 Dec",
+        "position": 4,
+        "roundId": 31,
+        "roundLabel": "Strawberries & Screamers - Summer 2026",
+        "roundStart": "5 Jun",
+        "roundEnd": "6 Sep",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -17958,12 +18072,12 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
+          "position": 5,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
@@ -18776,7 +18890,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 10,
@@ -19189,7 +19303,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -20446,11 +20560,11 @@
       "stayed": 3,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 3,
-        "roundId": 33,
-        "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
-        "roundStart": "8 Sep",
-        "roundEnd": "6 Dec",
+        "position": 4,
+        "roundId": 30,
+        "roundLabel": "Strawberries & Screamers - Summer 2026",
+        "roundStart": "4 Jun",
+        "roundEnd": "6 Sep",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -20728,7 +20842,7 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -21360,7 +21474,7 @@
       "stayed": 3,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 3,
+        "position": 4,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -21705,7 +21819,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -22397,7 +22511,7 @@
           "groupNumber": 2,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -22964,14 +23078,14 @@
       "name": "Maddy Smith",
       "totalRounds": 2,
       "totalWins": 2,
-      "totalLosses": 5,
-      "winRate": 0.286,
+      "totalLosses": 6,
+      "winRate": 0.25,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 2,
+        "position": 3,
         "roundId": 33,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -23009,7 +23123,7 @@
         }
       ],
       "tennisPointsFor": 50,
-      "tennisPointsAgainst": 55,
+      "tennisPointsAgainst": 70,
       "timeline": [
         {
           "eventId": 4,
@@ -23094,12 +23208,20 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "leaguePoints": 1,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -23504,9 +23626,9 @@
       "playerId": 43,
       "name": "Mark Smith",
       "totalRounds": 12,
-      "totalWins": 36,
+      "totalWins": 37,
       "totalLosses": 13,
-      "winRate": 0.735,
+      "winRate": 0.74,
       "promotions": 1,
       "relegations": 1,
       "stayed": 9,
@@ -23549,8 +23671,8 @@
           "pointsAgainst": 36
         }
       ],
-      "tennisPointsFor": 449,
-      "tennisPointsAgainst": 286,
+      "tennisPointsFor": 457,
+      "tennisPointsAgainst": 293,
       "timeline": [
         {
           "eventId": 1,
@@ -24211,12 +24333,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
-          "wins": 1,
+          "position": 3,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 8,
+          "leaguePoints": 16,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 22,
+              "opponentName": "Matthew Burt",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 17,
               "opponentName": "Harry Ikin",
@@ -25233,8 +25363,8 @@
       "name": "Matthew Burt",
       "totalRounds": 8,
       "totalWins": 20,
-      "totalLosses": 0,
-      "winRate": 1,
+      "totalLosses": 1,
+      "winRate": 0.952,
       "promotions": 0,
       "relegations": 0,
       "stayed": 7,
@@ -25249,6 +25379,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 43,
+          "opponentName": "Mark Smith",
+          "played": 4,
+          "wins": 3,
+          "losses": 1,
+          "pointsFor": 32,
+          "pointsAgainst": 28
+        },
         {
           "opponentId": 2,
           "opponentName": "Gianluca Iorizzo",
@@ -25266,19 +25405,10 @@
           "losses": 0,
           "pointsFor": 33,
           "pointsAgainst": 12
-        },
-        {
-          "opponentId": 43,
-          "opponentName": "Mark Smith",
-          "played": 3,
-          "wins": 3,
-          "losses": 0,
-          "pointsFor": 25,
-          "pointsAgainst": 20
         }
       ],
-      "tennisPointsFor": 213,
-      "tennisPointsAgainst": 87,
+      "tennisPointsFor": 220,
+      "tennisPointsAgainst": 95,
       "timeline": [
         {
           "eventId": 1,
@@ -25605,10 +25735,18 @@
           "withdrawn": false,
           "position": 1,
           "wins": 2,
-          "losses": 0,
-          "leaguePoints": 20,
+          "losses": 1,
+          "leaguePoints": 27,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 43,
+              "opponentName": "Mark Smith",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 6,
               "opponentName": "Neil McAlpine",
@@ -26167,7 +26305,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -26186,9 +26324,9 @@
       "playerId": 84,
       "name": "Melanie Burt",
       "totalRounds": 9,
-      "totalWins": 20,
+      "totalWins": 21,
       "totalLosses": 14,
-      "winRate": 0.588,
+      "winRate": 0.6,
       "promotions": 0,
       "relegations": 0,
       "stayed": 7,
@@ -26231,7 +26369,7 @@
           "pointsAgainst": 39
         }
       ],
-      "tennisPointsFor": 275,
+      "tennisPointsFor": 290,
       "tennisPointsAgainst": 223,
       "timeline": [
         {
@@ -26692,12 +26830,21 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
-          "wins": 0,
+          "position": 2,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
           "resultCode": "none",
@@ -26719,7 +26866,7 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 1,
+        "position": 2,
         "roundId": 33,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -26826,7 +26973,7 @@
           "groupNumber": 2,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 11,
@@ -26843,9 +26990,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -28400,7 +28547,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 2,
           "leaguePoints": 10,
@@ -29624,7 +29771,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -29720,7 +29867,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 3,
+        "position": 4,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -29859,7 +30006,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 2,
           "leaguePoints": 12,
@@ -32346,7 +32493,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -32836,7 +32983,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 5,
-        "position": 0,
+        "position": 5,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -32845,8 +32992,8 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [],
-      "tennisPointsFor": null,
-      "tennisPointsAgainst": null,
+      "tennisPointsFor": 0,
+      "tennisPointsAgainst": 0,
       "timeline": [
         {
           "eventId": 1,
@@ -32857,14 +33004,83 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
-          "withdrawn": false,
-          "position": 0,
+          "groupSize": 11,
+          "withdrawn": true,
+          "position": 5,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
+          "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
+          "transition": null,
+          "resultCode": "withdrawn",
+          "resultLabel": "🚫 Withdrawn",
+          "resultClass": "result-withdrawn"
+        }
+      ]
+    },
+    {
+      "id": "parsa-dahesh",
+      "playerId": 167,
+      "name": "Parsa Dahesh",
+      "totalRounds": 1,
+      "totalWins": 0,
+      "totalLosses": 1,
+      "winRate": 0,
+      "promotions": 0,
+      "relegations": 0,
+      "stayed": 0,
+      "bestPosition": {
+        "groupNumber": 5,
+        "position": 4,
+        "roundId": 32,
+        "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
+        "roundStart": "8 Sep",
+        "roundEnd": "6 Dec",
+        "eventId": 1,
+        "eventName": "CLTC Open Box League"
+      },
+      "topOpponents": [
+        {
+          "opponentId": 104,
+          "opponentName": "Rashed Karim",
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "pointsFor": 3,
+          "pointsAgainst": 12
+        }
+      ],
+      "tennisPointsFor": 3,
+      "tennisPointsAgainst": 12,
+      "timeline": [
+        {
+          "eventId": 1,
+          "eventName": "CLTC Open Box League",
+          "roundId": 32,
+          "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
+          "roundStart": "8 Sep",
+          "roundEnd": "6 Dec",
+          "groupName": "Group 5",
+          "groupNumber": 5,
+          "groupSize": 11,
+          "withdrawn": false,
+          "position": 4,
+          "wins": 0,
+          "losses": 1,
+          "leaguePoints": 3,
+          "leaguePointsAgainst": null,
+          "matchups": [
+            {
+              "opponentId": 104,
+              "opponentName": "Rashed Karim",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -33103,12 +33319,12 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
+          "position": 5,
           "wins": 0,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 0,
           "leaguePointsAgainst": null,
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
@@ -33125,8 +33341,8 @@
       "name": "Peter Walsh",
       "totalRounds": 15,
       "totalWins": 29,
-      "totalLosses": 38,
-      "winRate": 0.433,
+      "totalLosses": 39,
+      "winRate": 0.426,
       "promotions": 2,
       "relegations": 3,
       "stayed": 9,
@@ -33169,8 +33385,8 @@
           "pointsAgainst": 47
         }
       ],
-      "tennisPointsFor": 449,
-      "tennisPointsAgainst": 551,
+      "tennisPointsFor": 456,
+      "tennisPointsAgainst": 559,
       "timeline": [
         {
           "eventId": 1,
@@ -34047,12 +34263,21 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 4,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 1,
+          "leaguePoints": 7,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 66,
+              "opponentName": "Arshad Munir",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -34066,9 +34291,9 @@
       "playerId": 104,
       "name": "Rashed Karim",
       "totalRounds": 6,
-      "totalWins": 5,
+      "totalWins": 6,
       "totalLosses": 2,
-      "winRate": 0.714,
+      "winRate": 0.75,
       "promotions": 1,
       "relegations": 2,
       "stayed": 2,
@@ -34111,8 +34336,8 @@
           "pointsAgainst": 7
         }
       ],
-      "tennisPointsFor": 67,
-      "tennisPointsAgainst": 38,
+      "tennisPointsFor": 79,
+      "tennisPointsAgainst": 41,
       "timeline": [
         {
           "eventId": 1,
@@ -34297,19 +34522,28 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
-          "wins": 0,
+          "position": 1,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 12,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 167,
+              "opponentName": "Parsa Dahesh",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -34414,9 +34648,9 @@
       "playerId": 3,
       "name": "Richard Beales",
       "totalRounds": 15,
-      "totalWins": 19,
+      "totalWins": 20,
       "totalLosses": 62,
-      "winRate": 0.235,
+      "winRate": 0.244,
       "promotions": 3,
       "relegations": 5,
       "stayed": 6,
@@ -34432,6 +34666,15 @@
       },
       "topOpponents": [
         {
+          "opponentId": 20,
+          "opponentName": "Alasdair McCall",
+          "played": 6,
+          "wins": 2,
+          "losses": 4,
+          "pointsFor": 44,
+          "pointsAgainst": 46
+        },
+        {
           "opponentId": 4,
           "opponentName": "Clive Coulson",
           "played": 6,
@@ -34439,15 +34682,6 @@
           "losses": 6,
           "pointsFor": 24,
           "pointsAgainst": 67
-        },
-        {
-          "opponentId": 20,
-          "opponentName": "Alasdair McCall",
-          "played": 5,
-          "wins": 1,
-          "losses": 4,
-          "pointsFor": 36,
-          "pointsAgainst": 39
         },
         {
           "opponentId": 9,
@@ -34459,8 +34693,8 @@
           "pointsAgainst": 50
         }
       ],
-      "tennisPointsFor": 488,
-      "tennisPointsAgainst": 738,
+      "tennisPointsFor": 496,
+      "tennisPointsAgainst": 745,
       "timeline": [
         {
           "eventId": 1,
@@ -35457,12 +35691,21 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
-          "wins": 0,
+          "position": 2,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 8,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -35484,7 +35727,7 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 3,
+        "position": 4,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -35687,7 +35930,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -35757,14 +36000,14 @@
       "name": "Ruth Short",
       "totalRounds": 7,
       "totalWins": 22,
-      "totalLosses": 7,
-      "winRate": 0.759,
+      "totalLosses": 8,
+      "winRate": 0.733,
       "promotions": 2,
       "relegations": 0,
       "stayed": 4,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 3,
+        "position": 4,
         "roundId": 33,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -35802,7 +36045,7 @@
         }
       ],
       "tennisPointsFor": 265,
-      "tennisPointsAgainst": 149,
+      "tennisPointsAgainst": 164,
       "timeline": [
         {
           "eventId": 4,
@@ -36167,12 +36410,21 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "leaguePoints": 0,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
           "resultCode": "none",
@@ -36960,7 +37212,7 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -36979,15 +37231,15 @@
       "playerId": 138,
       "name": "Sathisha Poojary",
       "totalRounds": 3,
-      "totalWins": 1,
+      "totalWins": 2,
       "totalLosses": 2,
-      "winRate": 0.333,
+      "winRate": 0.5,
       "promotions": 0,
       "relegations": 0,
       "stayed": 2,
       "bestPosition": {
         "groupNumber": 5,
-        "position": 0,
+        "position": 2,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
         "roundStart": "8 Sep",
@@ -36996,6 +37248,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 106,
+          "opponentName": "Clarice Williamson",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 11,
+          "pointsAgainst": 4
+        },
         {
           "opponentId": 108,
           "opponentName": "Stephen Power",
@@ -37013,19 +37274,10 @@
           "losses": 1,
           "pointsFor": 5,
           "pointsAgainst": 10
-        },
-        {
-          "opponentId": 104,
-          "opponentName": "Rashed Karim",
-          "played": 1,
-          "wins": 0,
-          "losses": 1,
-          "pointsFor": 2,
-          "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 15,
-      "tennisPointsAgainst": 30,
+      "tennisPointsFor": 26,
+      "tennisPointsAgainst": 34,
       "timeline": [
         {
           "eventId": 1,
@@ -37108,14 +37360,23 @@
           "roundEnd": "6 Dec",
           "groupName": "Group 5",
           "groupNumber": 5,
-          "groupSize": 9,
+          "groupSize": 11,
           "withdrawn": false,
-          "position": 0,
-          "wins": 0,
+          "position": 2,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": null,
+          "leaguePoints": 11,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 106,
+              "opponentName": "Clarice Williamson",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -37726,18 +37987,18 @@
       "name": "Stephen Power",
       "totalRounds": 5,
       "totalWins": 4,
-      "totalLosses": 13,
-      "winRate": 0.235,
+      "totalLosses": 15,
+      "winRate": 0.211,
       "promotions": 2,
       "relegations": 1,
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 5,
-        "roundId": 32,
-        "roundLabel": "Autumn 2026 - All The Leaves Are Brown",
-        "roundStart": "8 Sep",
-        "roundEnd": "6 Dec",
+        "position": 6,
+        "roundId": 25,
+        "roundLabel": "Ice Ice Aces 2025/26",
+        "roundStart": "7 Nov 2025",
+        "roundEnd": "1 Mar",
         "eventId": 1,
         "eventName": "CLTC Open Box League"
       },
@@ -37770,8 +38031,8 @@
           "pointsAgainst": 23
         }
       ],
-      "tennisPointsFor": 88,
-      "tennisPointsAgainst": 167,
+      "tennisPointsFor": 94,
+      "tennisPointsAgainst": 191,
       "timeline": [
         {
           "eventId": 1,
@@ -38016,12 +38277,29 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
-          "losses": 0,
-          "leaguePoints": 0,
+          "losses": 2,
+          "leaguePoints": 6,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            },
+            {
+              "opponentId": 66,
+              "opponentName": "Arshad Munir",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -39482,7 +39760,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -40699,7 +40977,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -41740,9 +42018,9 @@
       "playerId": 76,
       "name": "Wesley Taupin",
       "totalRounds": 7,
-      "totalWins": 16,
+      "totalWins": 19,
       "totalLosses": 6,
-      "winRate": 0.727,
+      "winRate": 0.76,
       "promotions": 2,
       "relegations": 1,
       "stayed": 3,
@@ -41767,6 +42045,15 @@
           "pointsAgainst": 11
         },
         {
+          "opponentId": 75,
+          "opponentName": "Doreen Lam",
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "pointsFor": 29,
+          "pointsAgainst": 1
+        },
+        {
           "opponentId": 20,
           "opponentName": "Alasdair McCall",
           "played": 2,
@@ -41774,19 +42061,10 @@
           "losses": 1,
           "pointsFor": 20,
           "pointsAgainst": 10
-        },
-        {
-          "opponentId": 107,
-          "opponentName": "Alexia King",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 9,
-          "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 229,
-      "tennisPointsAgainst": 101,
+      "tennisPointsFor": 271,
+      "tennisPointsAgainst": 104,
       "timeline": [
         {
           "eventId": 1,
@@ -42112,11 +42390,35 @@
           "groupSize": 9,
           "withdrawn": false,
           "position": 1,
-          "wins": 1,
+          "wins": 4,
           "losses": 0,
-          "leaguePoints": 13,
+          "leaguePoints": 55,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 18,
+              "opponentName": "Daniel Ratinon",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            },
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
             {
               "opponentId": 66,
               "opponentName": "Arshad Munir",
