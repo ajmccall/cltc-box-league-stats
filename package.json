@@ -7,6 +7,8 @@
     "update-data": "node scripts/update-data.mjs",
     "serve": "python3 -m http.server 8000",
     "build-stats": "node scripts/build-stats.mjs",
+    "archive-current": "node scripts/archive-current.mjs",
+    "query-box": "node scripts/query-box.mjs",
     "test": "node --test"
   }
 }

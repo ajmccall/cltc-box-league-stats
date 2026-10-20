@@ -18,6 +18,8 @@ Static player stats site for your CLTC box leagues. No database or backend.
 - `data/player-stats.json`: precomputed per-player stats consumed by the UI
 - `data/raw/`: optional raw HTML snapshots for debugging parser changes (off by default)
 - `data/last-update.json`: scrape metadata and notes (created by `update-data`)
+- `data/snapshots/YYYY-MM-DD.json`: compact daily current-state archives, used to
+  calculate changes between daily refreshes
 
 ## Configure leagues
 
@@ -42,6 +44,8 @@ Notes based on your setup:
 ```bash
 npm run build-stats
 npm run update-data
+npm run archive-current
+npm run query-box -- --event open --box 1
 npm run serve
 ```
 
@@ -60,9 +64,21 @@ Open:
 
 This repo includes `.github/workflows/update-data.yml`:
 
-- weekly scheduled run (Monday, 06:00 UTC)
+- daily scheduled run (06:00 UTC)
 - manual run button (`Run workflow`) from the Actions tab
-- auto-commit of updated data files when changes are detected
+- auto-commit of updated data files and the daily current-state archive when
+  changes are detected
+
+## Querying the current box league
+
+`npm run query-box -- --event open --box 1` reads the committed local snapshot
+and returns JSON suitable for read-only assistants: standings, completed games,
+and the snapshot timestamp. Use `--event women` for the Women's event. No LTA
+login or live request is made while answering a query.
+
+Daily archives start accumulating on the first scheduled run. Until then, the
+current snapshot can show completed games but cannot reliably date a result as
+being from the last week.
 
 Optional (recommended if scraping fails in CI due cookie/session restrictions):
 
