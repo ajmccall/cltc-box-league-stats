@@ -1,0 +1,1443 @@
+{
+  "generatedAt": "2026-10-23T10:53:17.535Z",
+  "capturedAt": "2026-10-23T10:53:17.672Z",
+  "events": [
+    {
+      "eventId": 1,
+      "eventName": "CLTC Open Box League",
+      "roundId": 32,
+      "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues | LTA - Tennis for Britain",
+      "roundStart": "8 Sep",
+      "roundEnd": "6 Dec",
+      "players": [
+        {
+          "name": "Harry Ikin",
+          "playerId": 17,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 1,
+          "played": 4,
+          "wins": 2,
+          "losses": 2,
+          "points": 32,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 6,
+              "opponentName": "Neil McAlpine",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
+            {
+              "opponentId": 43,
+              "opponentName": "Mark Smith",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
+            {
+              "opponentId": 50,
+              "opponentName": "Nicolas Mayorga",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ]
+        },
+        {
+          "name": "Matthew Burt",
+          "playerId": 22,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 2,
+          "played": 3,
+          "wins": 2,
+          "losses": 1,
+          "points": 27,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 43,
+              "opponentName": "Mark Smith",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
+            {
+              "opponentId": 6,
+              "opponentName": "Neil McAlpine",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
+            {
+              "opponentId": 50,
+              "opponentName": "Nicolas Mayorga",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ]
+        },
+        {
+          "name": "Mark Smith",
+          "playerId": 43,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 3,
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "points": 16,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 22,
+              "opponentName": "Matthew Burt",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
+            {
+              "opponentId": 17,
+              "opponentName": "Harry Ikin",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ]
+        },
+        {
+          "name": "Neil McAlpine",
+          "playerId": 6,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 4,
+          "played": 3,
+          "wins": 0,
+          "losses": 3,
+          "points": 15,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 17,
+              "opponentName": "Harry Ikin",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
+            {
+              "opponentId": 22,
+              "opponentName": "Matthew Burt",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
+            {
+              "opponentId": 39,
+              "opponentName": "James Karamath",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ]
+        },
+        {
+          "name": "Nicolas Mayorga",
+          "playerId": 50,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 5,
+          "played": 2,
+          "wins": 0,
+          "losses": 2,
+          "points": 12,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 22,
+              "opponentName": "Matthew Burt",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
+            {
+              "opponentId": 17,
+              "opponentName": "Harry Ikin",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ]
+        },
+        {
+          "name": "James Karamath",
+          "playerId": 39,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 6,
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "points": 10,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 6,
+              "opponentName": "Neil McAlpine",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ]
+        },
+        {
+          "name": "Henry Peart Smith",
+          "playerId": 52,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 7,
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "points": 8,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 17,
+              "opponentName": "Harry Ikin",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ]
+        },
+        {
+          "name": "Gianluca Iorizzo",
+          "playerId": 2,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 8,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Adam Biswell",
+          "playerId": 25,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 8,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Tim Acreman",
+          "playerId": 8,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 8,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Sophie Boobbyer",
+          "playerId": 38,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 1,
+          "played": 3,
+          "wins": 2,
+          "losses": 1,
+          "points": 22,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 110,
+              "opponentName": "Adam Farrer",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
+            {
+              "opponentId": 4,
+              "opponentName": "Clive Coulson",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            },
+            {
+              "opponentId": 42,
+              "opponentName": "Oscar Williamson",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ]
+        },
+        {
+          "name": "Clive Coulson",
+          "playerId": 4,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 2,
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "points": 21,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 38,
+              "opponentName": "Sophie Boobbyer",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
+            {
+              "opponentId": 64,
+              "opponentName": "Melwyn Furtado",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            }
+          ]
+        },
+        {
+          "name": "Adam Farrer",
+          "playerId": 110,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 3,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 7,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 38,
+              "opponentName": "Sophie Boobbyer",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ]
+        },
+        {
+          "name": "Oscar Williamson",
+          "playerId": 42,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 3,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 7,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 38,
+              "opponentName": "Sophie Boobbyer",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ]
+        },
+        {
+          "name": "Melwyn Furtado",
+          "playerId": 64,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 5,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 3,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 4,
+              "opponentName": "Clive Coulson",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            }
+          ]
+        },
+        {
+          "name": "Nicole Borzatti",
+          "playerId": 13,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Wendy Bignold",
+          "playerId": 77,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Chris Playle",
+          "playerId": 5,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Dominic Moret",
+          "playerId": 9,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Nicholas Suggit",
+          "playerId": 10,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 1,
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "points": 21,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 3,
+              "opponentName": "Richard Beales",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
+            {
+              "opponentId": 142,
+              "opponentName": "Daniel Baulch",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ]
+        },
+        {
+          "name": "Alasdair McCall",
+          "playerId": 20,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 2,
+          "played": 2,
+          "wins": 1,
+          "losses": 1,
+          "points": 20,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 3,
+              "opponentName": "Richard Beales",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            }
+          ]
+        },
+        {
+          "name": "Richard Beales",
+          "playerId": 3,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 3,
+          "played": 2,
+          "wins": 1,
+          "losses": 1,
+          "points": 12,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            }
+          ]
+        },
+        {
+          "name": "Daniel Baulch",
+          "playerId": 142,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 4,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 5,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ]
+        },
+        {
+          "name": "Anthony Boobbyer",
+          "playerId": 72,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 5,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 2,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            }
+          ]
+        },
+        {
+          "name": "Dmitry Skorokhod",
+          "playerId": 102,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Richard Shepherd",
+          "playerId": 111,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "OMAR IBRAHIM",
+          "playerId": 36,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Leon Ooi",
+          "playerId": 63,
+          "groupNumber": 3,
+          "groupName": "Group 3",
+          "position": 6,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Wesley Taupin",
+          "playerId": 76,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 1,
+          "played": 4,
+          "wins": 4,
+          "losses": 0,
+          "points": 55,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 18,
+              "opponentName": "Daniel Ratinon",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            },
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
+            {
+              "opponentId": 66,
+              "opponentName": "Arshad Munir",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            }
+          ]
+        },
+        {
+          "name": "Doreen Lam",
+          "playerId": 75,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 2,
+          "played": 3,
+          "wins": 2,
+          "losses": 1,
+          "points": 23,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            },
+            {
+              "opponentId": 18,
+              "opponentName": "Daniel Ratinon",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            }
+          ]
+        },
+        {
+          "name": "Arshad Munir",
+          "playerId": 66,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 3,
+          "played": 3,
+          "wins": 2,
+          "losses": 1,
+          "points": 20,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            }
+          ]
+        },
+        {
+          "name": "Stephen Power",
+          "playerId": 108,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 4,
+          "played": 3,
+          "wins": 0,
+          "losses": 3,
+          "points": 8,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            },
+            {
+              "opponentId": 66,
+              "opponentName": "Arshad Munir",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ]
+        },
+        {
+          "name": "Peter Walsh",
+          "playerId": 30,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 5,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 7,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 66,
+              "opponentName": "Arshad Munir",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ]
+        },
+        {
+          "name": "Daniel Ratinon",
+          "playerId": 18,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 5,
+          "played": 2,
+          "wins": 0,
+          "losses": 2,
+          "points": 7,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            }
+          ]
+        },
+        {
+          "name": "Warren Williamson",
+          "playerId": 28,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 7,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Matthew Takeuchi",
+          "playerId": 41,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 7,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Jenson Moret",
+          "playerId": 49,
+          "groupNumber": 4,
+          "groupName": "Group 4",
+          "position": 7,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Rashed Karim",
+          "playerId": 104,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 1,
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "points": 12,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 167,
+              "opponentName": "Parsa Dahesh",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            }
+          ]
+        },
+        {
+          "name": "Sathisha Poojary",
+          "playerId": 138,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 2,
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "points": 11,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 106,
+              "opponentName": "Clarice Williamson",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            }
+          ]
+        },
+        {
+          "name": "Clarice Williamson",
+          "playerId": 106,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 3,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 4,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 138,
+              "opponentName": "Sathisha Poojary",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            }
+          ]
+        },
+        {
+          "name": "Parsa Dahesh",
+          "playerId": 167,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 4,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 3,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 104,
+              "opponentName": "Rashed Karim",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            }
+          ]
+        },
+        {
+          "name": "peter orourke",
+          "playerId": 135,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Ian Thorley",
+          "playerId": 139,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Adrian Wingate",
+          "playerId": 80,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "David Bales",
+          "playerId": 16,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Celeste Narywonczyk",
+          "playerId": 71,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Parsa Baharlou",
+          "playerId": 157,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": true,
+          "matchups": []
+        },
+        {
+          "name": "Bharat Sreenivas Venkatesh",
+          "playerId": 26,
+          "groupNumber": 5,
+          "groupName": "Group 5",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        }
+      ]
+    },
+    {
+      "eventId": 4,
+      "eventName": "CLTC Women's Box League",
+      "roundId": 33,
+      "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues | LTA - Tennis for Britain",
+      "roundStart": "8 Sep",
+      "roundEnd": "6 Dec",
+      "players": [
+        {
+          "name": "Doreen Lam",
+          "playerId": 75,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 1,
+          "played": 3,
+          "wins": 3,
+          "losses": 0,
+          "points": 42,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            },
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            }
+          ]
+        },
+        {
+          "name": "Melanie Burt",
+          "playerId": 84,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 2,
+          "played": 3,
+          "wins": 3,
+          "losses": 0,
+          "points": 38,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            }
+          ]
+        },
+        {
+          "name": "Sarah Ruiz",
+          "playerId": 87,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 3,
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "points": 28,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 15,
+              "pointsAgainst": 0,
+              "scoreText": "15-0"
+            }
+          ]
+        },
+        {
+          "name": "Katrina O&#39;Keeffe",
+          "playerId": 98,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 4,
+          "played": 3,
+          "wins": 1,
+          "losses": 2,
+          "points": 19,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            }
+          ]
+        },
+        {
+          "name": "Ruth Short",
+          "playerId": 97,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 5,
+          "played": 5,
+          "wins": 1,
+          "losses": 4,
+          "points": 17,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            },
+            {
+              "opponentId": 87,
+              "opponentName": "Sarah Ruiz",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            }
+          ]
+        },
+        {
+          "name": "Maddy Smith",
+          "playerId": 147,
+          "groupNumber": 1,
+          "groupName": "Group 1",
+          "position": 6,
+          "played": 4,
+          "wins": 0,
+          "losses": 4,
+          "points": 6,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
+            {
+              "opponentId": 87,
+              "opponentName": "Sarah Ruiz",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            },
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 0,
+              "pointsAgainst": 15,
+              "scoreText": "0-15"
+            },
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            }
+          ]
+        },
+        {
+          "name": "Melisa Kulenovic",
+          "playerId": 140,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 1,
+          "played": 2,
+          "wins": 1,
+          "losses": 1,
+          "points": 14,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 93,
+              "opponentName": "Edyta Mccall",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
+            {
+              "opponentId": 95,
+              "opponentName": "Bethan Jones",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            }
+          ]
+        },
+        {
+          "name": "Bethan Jones",
+          "playerId": 95,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 2,
+          "played": 2,
+          "wins": 1,
+          "losses": 1,
+          "points": 12,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 100,
+              "opponentName": "Anna Caruso",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
+            {
+              "opponentId": 140,
+              "opponentName": "Melisa Kulenovic",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            }
+          ]
+        },
+        {
+          "name": "Edyta Mccall",
+          "playerId": 93,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 2,
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "points": 12,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 140,
+              "opponentName": "Melisa Kulenovic",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            }
+          ]
+        },
+        {
+          "name": "Anna Caruso",
+          "playerId": 100,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 4,
+          "played": 1,
+          "wins": 0,
+          "losses": 1,
+          "points": 7,
+          "withdrawn": false,
+          "matchups": [
+            {
+              "opponentId": 95,
+              "opponentName": "Bethan Jones",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            }
+          ]
+        },
+        {
+          "name": "Liz Bowran",
+          "playerId": 85,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        },
+        {
+          "name": "Christine James",
+          "playerId": 90,
+          "groupNumber": 2,
+          "groupName": "Group 2",
+          "position": 5,
+          "played": 0,
+          "wins": 0,
+          "losses": 0,
+          "points": 0,
+          "withdrawn": false,
+          "matchups": []
+        }
+      ]
+    }
+  ]
+}

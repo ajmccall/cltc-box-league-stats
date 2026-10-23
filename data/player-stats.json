@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:58:20.533Z",
+  "generatedAt": "2026-10-23T10:53:17.511Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -20612,9 +20612,9 @@
       "playerId": 98,
       "name": "Katrina O&#39;Keeffe",
       "totalRounds": 5,
-      "totalWins": 5,
+      "totalWins": 6,
       "totalLosses": 14,
-      "winRate": 0.263,
+      "winRate": 0.3,
       "promotions": 1,
       "relegations": 0,
       "stayed": 3,
@@ -20657,8 +20657,8 @@
           "pointsAgainst": 27
         }
       ],
-      "tennisPointsFor": 120,
-      "tennisPointsAgainst": 165,
+      "tennisPointsFor": 131,
+      "tennisPointsAgainst": 169,
       "timeline": [
         {
           "eventId": 4,
@@ -20902,12 +20902,20 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 5,
-          "wins": 0,
+          "position": 4,
+          "wins": 1,
           "losses": 2,
-          "leaguePoints": 8,
+          "leaguePoints": 19,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 97,
+              "opponentName": "Ruth Short",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -36151,14 +36159,14 @@
       "name": "Ruth Short",
       "totalRounds": 7,
       "totalWins": 23,
-      "totalLosses": 10,
-      "winRate": 0.697,
+      "totalLosses": 11,
+      "winRate": 0.676,
       "promotions": 2,
       "relegations": 0,
       "stayed": 4,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 4,
+        "position": 5,
         "roundId": 33,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -36195,7 +36203,7 @@
           "pointsAgainst": 22
         }
       ],
-      "tennisPointsFor": 278,
+      "tennisPointsFor": 282,
       "tennisPointsAgainst": 196,
       "timeline": [
         {
@@ -36561,10 +36569,10 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
-          "losses": 3,
-          "leaguePoints": 13,
+          "losses": 4,
+          "leaguePoints": 17,
           "leaguePointsAgainst": null,
           "matchups": [
             {
