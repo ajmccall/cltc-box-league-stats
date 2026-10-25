@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:11:50.439Z",
+  "generatedAt": "2026-10-25T10:33:27.315Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -17823,8 +17823,8 @@
       "name": "Henry Peart Smith",
       "totalRounds": 3,
       "totalWins": 9,
-      "totalLosses": 5,
-      "winRate": 0.643,
+      "totalLosses": 6,
+      "winRate": 0.6,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
@@ -17867,8 +17867,8 @@
           "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 114,
-      "tennisPointsAgainst": 96,
+      "tennisPointsFor": 117,
+      "tennisPointsAgainst": 108,
       "timeline": [
         {
           "eventId": 1,
@@ -18035,10 +18035,18 @@
           "withdrawn": false,
           "position": 7,
           "wins": 1,
-          "losses": 0,
-          "leaguePoints": 8,
+          "losses": 1,
+          "leaguePoints": 11,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 39,
+              "opponentName": "James Karamath",
+              "outcome": "loss",
+              "pointsFor": 3,
+              "pointsAgainst": 12,
+              "scoreText": "3-12"
+            },
             {
               "opponentId": 17,
               "opponentName": "Harry Ikin",
@@ -18299,9 +18307,9 @@
       "playerId": 39,
       "name": "James Karamath",
       "totalRounds": 12,
-      "totalWins": 34,
+      "totalWins": 36,
       "totalLosses": 8,
-      "winRate": 0.81,
+      "winRate": 0.818,
       "promotions": 0,
       "relegations": 0,
       "stayed": 11,
@@ -18344,8 +18352,8 @@
           "pointsAgainst": 15
         }
       ],
-      "tennisPointsFor": 411,
-      "tennisPointsAgainst": 219,
+      "tennisPointsFor": 431,
+      "tennisPointsAgainst": 229,
       "timeline": [
         {
           "eventId": 1,
@@ -18950,12 +18958,28 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
-          "wins": 1,
+          "position": 2,
+          "wins": 3,
           "losses": 0,
-          "leaguePoints": 10,
+          "leaguePoints": 30,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 50,
+              "opponentName": "Nicolas Mayorga",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "win",
+              "pointsFor": 12,
+              "pointsAgainst": 3,
+              "scoreText": "12-3"
+            },
             {
               "opponentId": 6,
               "opponentName": "Neil McAlpine",
@@ -24434,7 +24458,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 3,
+          "position": 5,
           "wins": 2,
           "losses": 0,
           "leaguePoints": 16,
@@ -25834,7 +25858,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 2,
+          "position": 3,
           "wins": 2,
           "losses": 1,
           "leaguePoints": 27,
@@ -28673,7 +28697,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 6,
           "wins": 0,
           "losses": 3,
           "leaguePoints": 15,
@@ -30011,14 +30035,14 @@
       "name": "Nicolas Mayorga",
       "totalRounds": 2,
       "totalWins": 8,
-      "totalLosses": 2,
-      "winRate": 0.8,
+      "totalLosses": 3,
+      "winRate": 0.727,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 5,
+        "position": 4,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -30055,8 +30079,8 @@
           "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 94,
-      "tennisPointsAgainst": 56,
+      "tennisPointsFor": 101,
+      "tennisPointsAgainst": 64,
       "timeline": [
         {
           "eventId": 1,
@@ -30157,12 +30181,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 4,
           "wins": 0,
-          "losses": 2,
-          "leaguePoints": 12,
+          "losses": 3,
+          "leaguePoints": 19,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 39,
+              "opponentName": "James Karamath",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 22,
               "opponentName": "Matthew Burt",
