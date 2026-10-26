@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:33:27.315Z",
+  "generatedAt": "2026-10-26T12:04:00.949Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -17823,8 +17823,8 @@
       "name": "Henry Peart Smith",
       "totalRounds": 3,
       "totalWins": 9,
-      "totalLosses": 6,
-      "winRate": 0.6,
+      "totalLosses": 7,
+      "winRate": 0.563,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
@@ -17867,8 +17867,8 @@
           "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 117,
-      "tennisPointsAgainst": 108,
+      "tennisPointsFor": 122,
+      "tennisPointsAgainst": 118,
       "timeline": [
         {
           "eventId": 1,
@@ -18035,10 +18035,18 @@
           "withdrawn": false,
           "position": 7,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 11,
+          "losses": 2,
+          "leaguePoints": 16,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 6,
+              "opponentName": "Neil McAlpine",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 39,
               "opponentName": "James Karamath",
@@ -24458,7 +24466,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 2,
           "losses": 0,
           "leaguePoints": 16,
@@ -28095,9 +28103,9 @@
       "playerId": 6,
       "name": "Neil McAlpine",
       "totalRounds": 10,
-      "totalWins": 27,
+      "totalWins": 28,
       "totalLosses": 17,
-      "winRate": 0.614,
+      "winRate": 0.622,
       "promotions": 3,
       "relegations": 2,
       "stayed": 4,
@@ -28140,8 +28148,8 @@
           "pointsAgainst": 29
         }
       ],
-      "tennisPointsFor": 384,
-      "tennisPointsAgainst": 276,
+      "tennisPointsFor": 394,
+      "tennisPointsAgainst": 281,
       "timeline": [
         {
           "eventId": 1,
@@ -28697,12 +28705,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
-          "wins": 0,
+          "position": 4,
+          "wins": 1,
           "losses": 3,
-          "leaguePoints": 15,
+          "leaguePoints": 25,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 17,
               "opponentName": "Harry Ikin",
@@ -30042,7 +30058,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 4,
+        "position": 5,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -30181,7 +30197,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 3,
           "leaguePoints": 19,
