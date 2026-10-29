@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-10-28T11:58:30.002Z"
+    "fetchedAt": "2026-10-29T12:05:38.230Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-10-28T11:58:10.433Z"
+    "fetchedAt": "2026-10-29T12:05:18.042Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-10-28T11:57:44.504Z"
+    "fetchedAt": "2026-10-29T12:04:52.255Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-10-28T11:57:19.062Z"
+    "fetchedAt": "2026-10-29T12:04:27.021Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-10-28T11:56:50.320Z"
+    "fetchedAt": "2026-10-29T12:04:01.038Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-10-28T11:56:22.494Z"
+    "fetchedAt": "2026-10-29T12:03:33.501Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-10-28T11:55:54.273Z"
+    "fetchedAt": "2026-10-29T12:03:03.845Z"
   },
   {
     "eventId": 1,
@@ -10143,7 +10143,7 @@
         "points": 39,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-10-28T11:55:25.398Z"
+    "fetchedAt": "2026-10-29T12:02:36.330Z"
   },
   {
     "eventId": 1,
@@ -11744,7 +11744,7 @@
         "points": 31,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -12508,7 +12508,7 @@
         "points": 31,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
           {
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-10-28T11:54:55.947Z"
+    "fetchedAt": "2026-10-29T12:02:07.755Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-10-28T11:54:24.313Z"
+    "fetchedAt": "2026-10-29T12:01:35.169Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-10-28T11:53:52.544Z"
+    "fetchedAt": "2026-10-29T12:01:03.261Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-10-28T11:53:22.511Z"
+    "fetchedAt": "2026-10-29T12:00:32.949Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-10-28T11:52:51.027Z"
+    "fetchedAt": "2026-10-29T12:00:00.118Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-28T11:52:17.826Z"
+    "fetchedAt": "2026-10-29T11:59:27.401Z"
   },
   {
     "eventId": 1,
@@ -22520,7 +22520,7 @@
         "points": 40,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-10-28T11:52:17.265Z"
+    "fetchedAt": "2026-10-29T11:59:26.846Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-10-28T11:51:41.360Z"
+    "fetchedAt": "2026-10-29T11:58:51.853Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-10-28T11:51:06.222Z"
+    "fetchedAt": "2026-10-29T11:58:18.638Z"
   },
   {
     "eventId": 1,
@@ -29348,7 +29348,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-10-28T11:50:30.631Z"
+    "fetchedAt": "2026-10-29T11:57:45.048Z"
   },
   {
     "eventId": 4,
@@ -30217,7 +30217,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-10-28T12:00:19.294Z"
+    "fetchedAt": "2026-10-29T12:07:27.175Z"
   },
   {
     "eventId": 4,
@@ -30555,7 +30555,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-10-28T12:00:04.046Z"
+    "fetchedAt": "2026-10-29T12:07:13.937Z"
   },
   {
     "eventId": 4,
@@ -31515,7 +31515,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-10-28T11:59:50.111Z"
+    "fetchedAt": "2026-10-29T12:06:59.618Z"
   },
   {
     "eventId": 4,
@@ -31528,7 +31528,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-28T11:59:33.747Z"
+    "fetchedAt": "2026-10-29T12:06:43.565Z"
   },
   {
     "eventId": 4,
@@ -32423,7 +32423,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-10-28T11:59:33.177Z"
+    "fetchedAt": "2026-10-29T12:06:42.855Z"
   },
   {
     "eventId": 4,
@@ -32436,7 +32436,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-28T11:59:18.806Z"
+    "fetchedAt": "2026-10-29T12:06:28.475Z"
   },
   {
     "eventId": 4,
@@ -32449,7 +32449,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-28T11:59:18.246Z"
+    "fetchedAt": "2026-10-29T12:06:27.910Z"
   },
   {
     "eventId": 4,
@@ -33391,7 +33391,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-10-28T11:59:17.678Z"
+    "fetchedAt": "2026-10-29T12:06:27.347Z"
   },
   {
     "eventId": 4,
@@ -34210,7 +34210,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-10-28T11:59:06.191Z"
+    "fetchedAt": "2026-10-29T12:06:15.733Z"
   },
   {
     "eventId": 4,
@@ -34981,7 +34981,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-10-28T11:58:56.256Z"
+    "fetchedAt": "2026-10-29T12:06:03.142Z"
   },
   {
     "eventId": 4,
@@ -35404,6 +35404,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-10-28T11:58:44.225Z"
+    "fetchedAt": "2026-10-29T12:05:52.443Z"
   }
 ]
