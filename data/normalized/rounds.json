@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-10-31T11:34:34.817Z"
+    "fetchedAt": "2026-11-01T12:28:05.474Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-10-31T11:34:10.048Z"
+    "fetchedAt": "2026-11-01T12:27:46.029Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-10-31T11:33:41.714Z"
+    "fetchedAt": "2026-11-01T12:27:18.146Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-10-31T11:33:15.584Z"
+    "fetchedAt": "2026-11-01T12:26:49.799Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-10-31T11:32:48.170Z"
+    "fetchedAt": "2026-11-01T12:26:18.150Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-10-31T11:32:19.963Z"
+    "fetchedAt": "2026-11-01T12:25:43.835Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-10-31T11:31:49.292Z"
+    "fetchedAt": "2026-11-01T12:25:09.979Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-10-31T11:31:18.319Z"
+    "fetchedAt": "2026-11-01T12:24:36.046Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-10-31T11:30:45.581Z"
+    "fetchedAt": "2026-11-01T12:24:03.712Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-10-31T11:30:10.742Z"
+    "fetchedAt": "2026-11-01T12:23:24.778Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-10-31T11:29:33.361Z"
+    "fetchedAt": "2026-11-01T12:22:48.086Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-10-31T11:29:04.348Z"
+    "fetchedAt": "2026-11-01T12:22:17.020Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-10-31T11:28:28.380Z"
+    "fetchedAt": "2026-11-01T12:21:39.930Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-31T11:27:48.688Z"
+    "fetchedAt": "2026-11-01T12:20:59.504Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-10-31T11:27:48.172Z"
+    "fetchedAt": "2026-11-01T12:20:58.907Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-10-31T11:27:10.483Z"
+    "fetchedAt": "2026-11-01T12:20:18.117Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-10-31T11:26:33.210Z"
+    "fetchedAt": "2026-11-01T12:19:39.579Z"
   },
   {
     "eventId": 1,
@@ -28684,10 +28684,45 @@
         ]
       },
       {
+        "name": "Daniel Baulch",
+        "playerId": 142,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/142/event/1/round/32",
+        "position": 3,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 1,
+        "losses": 1,
+        "points": 15,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 72,
+            "opponentName": "Anthony Boobbyer",
+            "outcome": "win",
+            "pointsFor": 10,
+            "pointsAgainst": 5,
+            "scoreText": "10-5"
+          },
+          {
+            "opponentId": 10,
+            "opponentName": "Nicholas Suggit",
+            "outcome": "loss",
+            "pointsFor": 5,
+            "pointsAgainst": 10,
+            "scoreText": "5-10"
+          }
+        ]
+      },
+      {
         "name": "Richard Beales",
         "playerId": 3,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/3/event/1/round/32",
-        "position": 3,
+        "position": 4,
         "groupName": "Group 3",
         "groupNumber": 3,
         "withdrawn": false,
@@ -28719,33 +28754,6 @@
         ]
       },
       {
-        "name": "Daniel Baulch",
-        "playerId": 142,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/142/event/1/round/32",
-        "position": 4,
-        "groupName": "Group 3",
-        "groupNumber": 3,
-        "withdrawn": false,
-        "played": 1,
-        "wins": 0,
-        "losses": 1,
-        "points": 5,
-        "pointsAgainst": null,
-        "markers": [
-          "loss"
-        ],
-        "matchups": [
-          {
-            "opponentId": 10,
-            "opponentName": "Nicholas Suggit",
-            "outcome": "loss",
-            "pointsFor": 5,
-            "pointsAgainst": 10,
-            "scoreText": "5-10"
-          }
-        ]
-      },
-      {
         "name": "Anthony Boobbyer",
         "playerId": 72,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/72/event/1/round/32",
@@ -28753,15 +28761,23 @@
         "groupName": "Group 3",
         "groupNumber": 3,
         "withdrawn": false,
-        "played": 1,
+        "played": 2,
         "wins": 0,
-        "losses": 1,
-        "points": 2,
+        "losses": 2,
+        "points": 7,
         "pointsAgainst": null,
         "markers": [
           "loss"
         ],
         "matchups": [
+          {
+            "opponentId": 142,
+            "opponentName": "Daniel Baulch",
+            "outcome": "loss",
+            "pointsFor": 5,
+            "pointsAgainst": 10,
+            "scoreText": "5-10"
+          },
           {
             "opponentId": 20,
             "opponentName": "Alasdair McCall",
@@ -29348,7 +29364,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-10-31T11:25:54.998Z"
+    "fetchedAt": "2026-11-01T12:18:59.401Z"
   },
   {
     "eventId": 4,
@@ -30217,7 +30233,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-10-31T11:36:34.112Z"
+    "fetchedAt": "2026-11-01T12:30:10.115Z"
   },
   {
     "eventId": 4,
@@ -30555,7 +30571,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-10-31T11:36:16.323Z"
+    "fetchedAt": "2026-11-01T12:29:52.347Z"
   },
   {
     "eventId": 4,
@@ -31515,7 +31531,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-10-31T11:36:02.093Z"
+    "fetchedAt": "2026-11-01T12:29:34.691Z"
   },
   {
     "eventId": 4,
@@ -31528,7 +31544,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-31T11:35:43.853Z"
+    "fetchedAt": "2026-11-01T12:29:17.396Z"
   },
   {
     "eventId": 4,
@@ -32423,7 +32439,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-10-31T11:35:43.053Z"
+    "fetchedAt": "2026-11-01T12:29:16.831Z"
   },
   {
     "eventId": 4,
@@ -32436,7 +32452,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-31T11:35:29.058Z"
+    "fetchedAt": "2026-11-01T12:29:00.919Z"
   },
   {
     "eventId": 4,
@@ -32449,7 +32465,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-10-31T11:35:28.548Z"
+    "fetchedAt": "2026-11-01T12:29:00.360Z"
   },
   {
     "eventId": 4,
@@ -33391,7 +33407,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-10-31T11:35:28.033Z"
+    "fetchedAt": "2026-11-01T12:28:59.801Z"
   },
   {
     "eventId": 4,
@@ -34210,7 +34226,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-10-31T11:35:13.305Z"
+    "fetchedAt": "2026-11-01T12:28:47.202Z"
   },
   {
     "eventId": 4,
@@ -34981,7 +34997,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-10-31T11:34:59.636Z"
+    "fetchedAt": "2026-11-01T12:28:33.925Z"
   },
   {
     "eventId": 4,
@@ -35247,10 +35263,88 @@
         ]
       },
       {
+        "name": "Edyta Mccall",
+        "playerId": 93,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/93/event/4/round/33",
+        "position": 1,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 20,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 95,
+            "opponentName": "Bethan Jones",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          },
+          {
+            "opponentId": 140,
+            "opponentName": "Melisa Kulenovic",
+            "outcome": "win",
+            "pointsFor": 12,
+            "pointsAgainst": 3,
+            "scoreText": "12-3"
+          }
+        ]
+      },
+      {
+        "name": "Bethan Jones",
+        "playerId": 95,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/95/event/4/round/33",
+        "position": 2,
+        "groupName": "Group 2",
+        "groupNumber": 2,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 1,
+        "losses": 2,
+        "points": 19,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 93,
+            "opponentName": "Edyta Mccall",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
+          {
+            "opponentId": 100,
+            "opponentName": "Anna Caruso",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          },
+          {
+            "opponentId": 140,
+            "opponentName": "Melisa Kulenovic",
+            "outcome": "loss",
+            "pointsFor": 4,
+            "pointsAgainst": 11,
+            "scoreText": "4-11"
+          }
+        ]
+      },
+      {
         "name": "Melisa Kulenovic",
         "playerId": 140,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/140/event/4/round/33",
-        "position": 1,
+        "position": 3,
         "groupName": "Group 2",
         "groupNumber": 2,
         "withdrawn": false,
@@ -35278,68 +35372,6 @@
             "pointsFor": 11,
             "pointsAgainst": 4,
             "scoreText": "11-4"
-          }
-        ]
-      },
-      {
-        "name": "Bethan Jones",
-        "playerId": 95,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/95/event/4/round/33",
-        "position": 2,
-        "groupName": "Group 2",
-        "groupNumber": 2,
-        "withdrawn": false,
-        "played": 2,
-        "wins": 1,
-        "losses": 1,
-        "points": 12,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 100,
-            "opponentName": "Anna Caruso",
-            "outcome": "win",
-            "pointsFor": 8,
-            "pointsAgainst": 7,
-            "scoreText": "8-7"
-          },
-          {
-            "opponentId": 140,
-            "opponentName": "Melisa Kulenovic",
-            "outcome": "loss",
-            "pointsFor": 4,
-            "pointsAgainst": 11,
-            "scoreText": "4-11"
-          }
-        ]
-      },
-      {
-        "name": "Edyta Mccall",
-        "playerId": 93,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/93/event/4/round/33",
-        "position": 2,
-        "groupName": "Group 2",
-        "groupNumber": 2,
-        "withdrawn": false,
-        "played": 1,
-        "wins": 1,
-        "losses": 0,
-        "points": 12,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 140,
-            "opponentName": "Melisa Kulenovic",
-            "outcome": "win",
-            "pointsFor": 12,
-            "pointsAgainst": 3,
-            "scoreText": "12-3"
           }
         ]
       },
@@ -35404,6 +35436,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-10-31T11:34:49.774Z"
+    "fetchedAt": "2026-11-01T12:28:20.950Z"
   }
 ]

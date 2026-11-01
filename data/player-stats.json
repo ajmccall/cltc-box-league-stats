@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:36:34.378Z",
+  "generatedAt": "2026-11-01T12:30:10.392Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -3824,8 +3824,8 @@
       "name": "Anthony Boobbyer",
       "totalRounds": 9,
       "totalWins": 21,
-      "totalLosses": 27,
-      "winRate": 0.438,
+      "totalLosses": 28,
+      "winRate": 0.429,
       "promotions": 2,
       "relegations": 0,
       "stayed": 6,
@@ -3868,8 +3868,8 @@
           "pointsAgainst": 38
         }
       ],
-      "tennisPointsFor": 336,
-      "tennisPointsAgainst": 384,
+      "tennisPointsFor": 341,
+      "tennisPointsAgainst": 394,
       "timeline": [
         {
           "eventId": 1,
@@ -4452,10 +4452,18 @@
           "withdrawn": false,
           "position": 5,
           "wins": 0,
-          "losses": 1,
-          "leaguePoints": 2,
+          "losses": 2,
+          "leaguePoints": 7,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 142,
+              "opponentName": "Daniel Baulch",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 20,
               "opponentName": "Alasdair McCall",
@@ -5118,8 +5126,8 @@
       "name": "Bethan Jones",
       "totalRounds": 7,
       "totalWins": 4,
-      "totalLosses": 22,
-      "winRate": 0.154,
+      "totalLosses": 23,
+      "winRate": 0.148,
       "promotions": 1,
       "relegations": 0,
       "stayed": 5,
@@ -5146,11 +5154,11 @@
         {
           "opponentId": 93,
           "opponentName": "Edyta Mccall",
-          "played": 4,
+          "played": 5,
           "wins": 1,
-          "losses": 3,
-          "pointsFor": 20,
-          "pointsAgainst": 40
+          "losses": 4,
+          "pointsFor": 27,
+          "pointsAgainst": 48
         },
         {
           "opponentId": 97,
@@ -5162,8 +5170,8 @@
           "pointsAgainst": 47
         }
       ],
-      "tennisPointsFor": 143,
-      "tennisPointsAgainst": 228,
+      "tennisPointsFor": 150,
+      "tennisPointsAgainst": 236,
       "timeline": [
         {
           "eventId": 4,
@@ -5498,10 +5506,18 @@
           "withdrawn": false,
           "position": 2,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 12,
+          "losses": 2,
+          "leaguePoints": 19,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 93,
+              "opponentName": "Edyta Mccall",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 100,
               "opponentName": "Anna Caruso",
@@ -10917,15 +10933,15 @@
       "playerId": 142,
       "name": "Daniel Baulch",
       "totalRounds": 2,
-      "totalWins": 4,
+      "totalWins": 5,
       "totalLosses": 2,
-      "winRate": 0.667,
+      "winRate": 0.714,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 3,
-        "position": 4,
+        "position": 3,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -10934,6 +10950,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 72,
+          "opponentName": "Anthony Boobbyer",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 10,
+          "pointsAgainst": 5
+        },
         {
           "opponentId": 75,
           "opponentName": "Doreen Lam",
@@ -10951,19 +10976,10 @@
           "losses": 0,
           "pointsFor": 12,
           "pointsAgainst": 3
-        },
-        {
-          "opponentId": 30,
-          "opponentName": "Peter Walsh",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 14,
-          "pointsAgainst": 1
         }
       ],
-      "tennisPointsFor": 61,
-      "tennisPointsAgainst": 29,
+      "tennisPointsFor": 71,
+      "tennisPointsAgainst": 34,
       "timeline": [
         {
           "eventId": 1,
@@ -11040,12 +11056,20 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 4,
-          "wins": 0,
+          "position": 3,
+          "wins": 1,
           "losses": 1,
-          "leaguePoints": 5,
+          "leaguePoints": 15,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 10,
               "opponentName": "Nicholas Suggit",
@@ -15165,19 +15189,19 @@
       "playerId": 93,
       "name": "Edyta Mccall",
       "totalRounds": 7,
-      "totalWins": 11,
+      "totalWins": 12,
       "totalLosses": 9,
-      "winRate": 0.55,
+      "winRate": 0.571,
       "promotions": 1,
       "relegations": 0,
       "stayed": 5,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 2,
-        "roundId": 29,
-        "roundLabel": "The Great Spring Scramble - 2026 | CLTC - Box Leagues",
-        "roundStart": "4 Mar",
-        "roundEnd": "31 May",
+        "position": 1,
+        "roundId": 33,
+        "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
+        "roundStart": "8 Sep",
+        "roundEnd": "6 Dec",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -15185,11 +15209,11 @@
         {
           "opponentId": 95,
           "opponentName": "Bethan Jones",
-          "played": 4,
-          "wins": 3,
+          "played": 5,
+          "wins": 4,
           "losses": 1,
-          "pointsFor": 40,
-          "pointsAgainst": 20
+          "pointsFor": 48,
+          "pointsAgainst": 27
         },
         {
           "opponentId": 97,
@@ -15210,8 +15234,8 @@
           "pointsAgainst": 20
         }
       ],
-      "tennisPointsFor": 156,
-      "tennisPointsAgainst": 135,
+      "tennisPointsFor": 164,
+      "tennisPointsAgainst": 142,
       "timeline": [
         {
           "eventId": 4,
@@ -15511,12 +15535,20 @@
           "groupNumber": 2,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 2,
-          "wins": 1,
+          "position": 1,
+          "wins": 2,
           "losses": 0,
-          "leaguePoints": 12,
+          "leaguePoints": 20,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 95,
+              "opponentName": "Bethan Jones",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 140,
               "opponentName": "Melisa Kulenovic",
@@ -15528,9 +15560,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -27007,7 +27039,7 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 1,
+        "position": 3,
         "roundId": 33,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -27114,7 +27146,7 @@
           "groupNumber": 2,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 1,
+          "position": 3,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 14,
@@ -27139,9 +27171,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -35890,7 +35922,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 12,
