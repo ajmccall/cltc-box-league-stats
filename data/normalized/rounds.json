@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-11-04T13:35:51.456Z"
+    "fetchedAt": "2026-11-05T13:50:24.742Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-11-04T13:35:32.618Z"
+    "fetchedAt": "2026-11-05T13:50:04.374Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-11-04T13:35:07.324Z"
+    "fetchedAt": "2026-11-05T13:49:39.419Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-11-04T13:34:43.514Z"
+    "fetchedAt": "2026-11-05T13:49:14.490Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-04T13:34:18.647Z"
+    "fetchedAt": "2026-11-05T13:48:49.617Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-04T13:33:52.725Z"
+    "fetchedAt": "2026-11-05T13:48:22.230Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-04T13:33:24.575Z"
+    "fetchedAt": "2026-11-05T13:47:53.977Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-04T13:32:57.229Z"
+    "fetchedAt": "2026-11-05T13:47:25.486Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-11-04T13:32:29.550Z"
+    "fetchedAt": "2026-11-05T13:46:57.677Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-04T13:32:01.059Z"
+    "fetchedAt": "2026-11-05T13:46:27.008Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-04T13:31:30.946Z"
+    "fetchedAt": "2026-11-05T13:45:56.061Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-04T13:31:04.285Z"
+    "fetchedAt": "2026-11-05T13:45:27.930Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-04T13:30:32.791Z"
+    "fetchedAt": "2026-11-05T13:44:57.514Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-04T13:30:02.756Z"
+    "fetchedAt": "2026-11-05T13:44:25.086Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-11-04T13:30:02.223Z"
+    "fetchedAt": "2026-11-05T13:44:24.524Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-11-04T13:29:29.267Z"
+    "fetchedAt": "2026-11-05T13:43:48.995Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-11-04T13:28:58.037Z"
+    "fetchedAt": "2026-11-05T13:43:14.621Z"
   },
   {
     "eventId": 1,
@@ -29353,7 +29353,7 @@
         "position": 5,
         "groupName": "Group 5",
         "groupNumber": 5,
-        "withdrawn": false,
+        "withdrawn": true,
         "played": 0,
         "wins": 0,
         "losses": 0,
@@ -29364,7 +29364,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-11-04T13:28:26.826Z"
+    "fetchedAt": "2026-11-05T13:42:42.937Z"
   },
   {
     "eventId": 4,
@@ -30233,7 +30233,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-04T13:37:40.631Z"
+    "fetchedAt": "2026-11-05T13:52:13.364Z"
   },
   {
     "eventId": 4,
@@ -30571,7 +30571,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-04T13:37:24.651Z"
+    "fetchedAt": "2026-11-05T13:51:59.857Z"
   },
   {
     "eventId": 4,
@@ -31531,7 +31531,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-11-04T13:37:09.809Z"
+    "fetchedAt": "2026-11-05T13:51:46.480Z"
   },
   {
     "eventId": 4,
@@ -31544,7 +31544,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-04T13:36:56.201Z"
+    "fetchedAt": "2026-11-05T13:51:29.888Z"
   },
   {
     "eventId": 4,
@@ -32439,7 +32439,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-11-04T13:36:55.675Z"
+    "fetchedAt": "2026-11-05T13:51:29.109Z"
   },
   {
     "eventId": 4,
@@ -32452,7 +32452,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-04T13:36:41.510Z"
+    "fetchedAt": "2026-11-05T13:51:13.158Z"
   },
   {
     "eventId": 4,
@@ -32465,7 +32465,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-04T13:36:40.985Z"
+    "fetchedAt": "2026-11-05T13:51:12.600Z"
   },
   {
     "eventId": 4,
@@ -33407,7 +33407,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-11-04T13:36:40.456Z"
+    "fetchedAt": "2026-11-05T13:51:12.036Z"
   },
   {
     "eventId": 4,
@@ -34226,7 +34226,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-04T13:36:26.751Z"
+    "fetchedAt": "2026-11-05T13:51:00.744Z"
   },
   {
     "eventId": 4,
@@ -34997,7 +34997,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-04T13:36:14.375Z"
+    "fetchedAt": "2026-11-05T13:50:48.871Z"
   },
   {
     "eventId": 4,
@@ -35382,7 +35382,7 @@
         "position": 4,
         "groupName": "Group 2",
         "groupNumber": 2,
-        "withdrawn": false,
+        "withdrawn": true,
         "played": 1,
         "wins": 0,
         "losses": 1,
@@ -35409,7 +35409,7 @@
         "position": 5,
         "groupName": "Group 2",
         "groupNumber": 2,
-        "withdrawn": false,
+        "withdrawn": true,
         "played": 0,
         "wins": 0,
         "losses": 0,
@@ -35425,7 +35425,7 @@
         "position": 5,
         "groupName": "Group 2",
         "groupNumber": 2,
-        "withdrawn": false,
+        "withdrawn": true,
         "played": 0,
         "wins": 0,
         "losses": 0,
@@ -35436,6 +35436,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-11-04T13:36:04.240Z"
+    "fetchedAt": "2026-11-05T13:50:38.021Z"
   }
 ]
