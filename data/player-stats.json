@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:52:13.635Z",
+  "generatedAt": "2026-11-06T13:36:38.034Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -1574,8 +1574,8 @@
       "name": "Alasdair McCall",
       "totalRounds": 15,
       "totalWins": 30,
-      "totalLosses": 46,
-      "winRate": 0.395,
+      "totalLosses": 47,
+      "winRate": 0.39,
       "promotions": 4,
       "relegations": 5,
       "stayed": 5,
@@ -1602,11 +1602,11 @@
         {
           "opponentId": 10,
           "opponentName": "Nicholas Suggit",
-          "played": 5,
+          "played": 6,
           "wins": 2,
-          "losses": 3,
-          "pointsFor": 28,
-          "pointsAgainst": 47
+          "losses": 4,
+          "pointsFor": 33,
+          "pointsAgainst": 57
         },
         {
           "opponentId": 13,
@@ -1618,8 +1618,8 @@
           "pointsAgainst": 40
         }
       ],
-      "tennisPointsFor": 487,
-      "tennisPointsAgainst": 658,
+      "tennisPointsFor": 492,
+      "tennisPointsAgainst": 668,
       "timeline": [
         {
           "eventId": 1,
@@ -2562,10 +2562,18 @@
           "withdrawn": false,
           "position": 2,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 20,
+          "losses": 2,
+          "leaguePoints": 25,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 3,
               "opponentName": "Richard Beales",
@@ -29168,9 +29176,9 @@
       "playerId": 10,
       "name": "Nicholas Suggit",
       "totalRounds": 14,
-      "totalWins": 29,
+      "totalWins": 30,
       "totalLosses": 29,
-      "winRate": 0.5,
+      "winRate": 0.508,
       "promotions": 2,
       "relegations": 2,
       "stayed": 9,
@@ -29197,11 +29205,11 @@
         {
           "opponentId": 20,
           "opponentName": "Alasdair McCall",
-          "played": 5,
-          "wins": 3,
+          "played": 6,
+          "wins": 4,
           "losses": 2,
-          "pointsFor": 47,
-          "pointsAgainst": 28
+          "pointsFor": 57,
+          "pointsAgainst": 33
         },
         {
           "opponentId": 4,
@@ -29213,8 +29221,8 @@
           "pointsAgainst": 32
         }
       ],
-      "tennisPointsFor": 438,
-      "tennisPointsAgainst": 420,
+      "tennisPointsFor": 448,
+      "tennisPointsAgainst": 425,
       "timeline": [
         {
           "eventId": 1,
@@ -29978,11 +29986,19 @@
           "groupSize": 9,
           "withdrawn": false,
           "position": 1,
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
-          "leaguePoints": 21,
+          "leaguePoints": 31,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 3,
               "opponentName": "Richard Beales",
