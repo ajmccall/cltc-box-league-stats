@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:36:38.034Z",
+  "generatedAt": "2026-11-07T12:18:39.397Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -11740,7 +11740,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 2,
           "leaguePoints": 7,
@@ -33588,8 +33588,8 @@
       "name": "Peter Walsh",
       "totalRounds": 15,
       "totalWins": 29,
-      "totalLosses": 39,
-      "winRate": 0.426,
+      "totalLosses": 40,
+      "winRate": 0.42,
       "promotions": 2,
       "relegations": 3,
       "stayed": 9,
@@ -33632,8 +33632,8 @@
           "pointsAgainst": 47
         }
       ],
-      "tennisPointsFor": 456,
-      "tennisPointsAgainst": 559,
+      "tennisPointsFor": 458,
+      "tennisPointsAgainst": 572,
       "timeline": [
         {
           "eventId": 1,
@@ -34510,12 +34510,20 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 4,
           "wins": 0,
-          "losses": 1,
-          "leaguePoints": 7,
+          "losses": 2,
+          "leaguePoints": 9,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 76,
+              "opponentName": "Wesley Taupin",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
             {
               "opponentId": 66,
               "opponentName": "Arshad Munir",
@@ -38306,7 +38314,7 @@
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 4,
-        "position": 4,
+        "position": 5,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -38589,7 +38597,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 0,
           "losses": 3,
           "leaguePoints": 8,
@@ -42338,9 +42346,9 @@
       "playerId": 76,
       "name": "Wesley Taupin",
       "totalRounds": 7,
-      "totalWins": 19,
+      "totalWins": 20,
       "totalLosses": 6,
-      "winRate": 0.76,
+      "winRate": 0.769,
       "promotions": 2,
       "relegations": 1,
       "stayed": 3,
@@ -42374,17 +42382,17 @@
           "pointsAgainst": 1
         },
         {
-          "opponentId": 20,
-          "opponentName": "Alasdair McCall",
+          "opponentId": 30,
+          "opponentName": "Peter Walsh",
           "played": 2,
-          "wins": 1,
-          "losses": 1,
-          "pointsFor": 20,
-          "pointsAgainst": 10
+          "wins": 2,
+          "losses": 0,
+          "pointsFor": 27,
+          "pointsAgainst": 3
         }
       ],
-      "tennisPointsFor": 271,
-      "tennisPointsAgainst": 104,
+      "tennisPointsFor": 284,
+      "tennisPointsAgainst": 106,
       "timeline": [
         {
           "eventId": 1,
@@ -42710,11 +42718,19 @@
           "groupSize": 9,
           "withdrawn": false,
           "position": 1,
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
-          "leaguePoints": 55,
+          "leaguePoints": 68,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 30,
+              "opponentName": "Peter Walsh",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            },
             {
               "opponentId": 18,
               "opponentName": "Daniel Ratinon",

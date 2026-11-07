@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-11-06T13:34:47.965Z"
+    "fetchedAt": "2026-11-07T12:16:16.255Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-11-06T13:34:28.323Z"
+    "fetchedAt": "2026-11-07T12:15:49.151Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-11-06T13:34:04.398Z"
+    "fetchedAt": "2026-11-07T12:15:17.143Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-11-06T13:33:38.870Z"
+    "fetchedAt": "2026-11-07T12:14:40.718Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-06T13:33:11.503Z"
+    "fetchedAt": "2026-11-07T12:14:10.251Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-06T13:32:44.433Z"
+    "fetchedAt": "2026-11-07T12:13:31.957Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-06T13:32:12.707Z"
+    "fetchedAt": "2026-11-07T12:12:56.916Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-06T13:31:44.684Z"
+    "fetchedAt": "2026-11-07T12:12:18.298Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-11-06T13:31:17.350Z"
+    "fetchedAt": "2026-11-07T12:11:44.016Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-06T13:30:45.208Z"
+    "fetchedAt": "2026-11-07T12:11:02.046Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-06T13:30:12.067Z"
+    "fetchedAt": "2026-11-07T12:10:19.524Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-06T13:29:42.708Z"
+    "fetchedAt": "2026-11-07T12:09:40.591Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-06T13:29:13.889Z"
+    "fetchedAt": "2026-11-07T12:08:57.858Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-06T13:28:38.064Z"
+    "fetchedAt": "2026-11-07T12:08:12.532Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-11-06T13:28:37.520Z"
+    "fetchedAt": "2026-11-07T12:08:11.955Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-11-06T13:27:58.931Z"
+    "fetchedAt": "2026-11-07T12:07:20.468Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-11-06T13:27:24.332Z"
+    "fetchedAt": "2026-11-07T12:06:33.307Z"
   },
   {
     "eventId": 1,
@@ -28876,15 +28876,23 @@
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
-        "played": 4,
-        "wins": 4,
+        "played": 5,
+        "wins": 5,
         "losses": 0,
-        "points": 55,
+        "points": 68,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 30,
+            "opponentName": "Peter Walsh",
+            "outcome": "win",
+            "pointsFor": 13,
+            "pointsAgainst": 2,
+            "scoreText": "13-2"
+          },
           {
             "opponentId": 18,
             "opponentName": "Daniel Ratinon",
@@ -29006,10 +29014,45 @@
         ]
       },
       {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/30/event/1/round/32",
+        "position": 4,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 0,
+        "losses": 2,
+        "points": 9,
+        "pointsAgainst": null,
+        "markers": [
+          "loss"
+        ],
+        "matchups": [
+          {
+            "opponentId": 76,
+            "opponentName": "Wesley Taupin",
+            "outcome": "loss",
+            "pointsFor": 2,
+            "pointsAgainst": 13,
+            "scoreText": "2-13"
+          },
+          {
+            "opponentId": 66,
+            "opponentName": "Arshad Munir",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          }
+        ]
+      },
+      {
         "name": "Stephen Power",
         "playerId": 108,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/108/event/1/round/32",
-        "position": 4,
+        "position": 5,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
@@ -29049,37 +29092,10 @@
         ]
       },
       {
-        "name": "Peter Walsh",
-        "playerId": 30,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/30/event/1/round/32",
-        "position": 5,
-        "groupName": "Group 4",
-        "groupNumber": 4,
-        "withdrawn": false,
-        "played": 1,
-        "wins": 0,
-        "losses": 1,
-        "points": 7,
-        "pointsAgainst": null,
-        "markers": [
-          "loss"
-        ],
-        "matchups": [
-          {
-            "opponentId": 66,
-            "opponentName": "Arshad Munir",
-            "outcome": "loss",
-            "pointsFor": 7,
-            "pointsAgainst": 8,
-            "scoreText": "7-8"
-          }
-        ]
-      },
-      {
         "name": "Daniel Ratinon",
         "playerId": 18,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/18/event/1/round/32",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
@@ -29380,7 +29396,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-11-06T13:26:50.735Z"
+    "fetchedAt": "2026-11-07T12:05:46.357Z"
   },
   {
     "eventId": 4,
@@ -30249,7 +30265,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-06T13:36:37.762Z"
+    "fetchedAt": "2026-11-07T12:18:39.126Z"
   },
   {
     "eventId": 4,
@@ -30587,7 +30603,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-06T13:36:22.160Z"
+    "fetchedAt": "2026-11-07T12:18:19.114Z"
   },
   {
     "eventId": 4,
@@ -31547,7 +31563,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-11-06T13:36:07.347Z"
+    "fetchedAt": "2026-11-07T12:17:59.848Z"
   },
   {
     "eventId": 4,
@@ -31560,7 +31576,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-06T13:35:51.966Z"
+    "fetchedAt": "2026-11-07T12:17:40.208Z"
   },
   {
     "eventId": 4,
@@ -32455,7 +32471,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-11-06T13:35:51.453Z"
+    "fetchedAt": "2026-11-07T12:17:39.634Z"
   },
   {
     "eventId": 4,
@@ -32468,7 +32484,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-06T13:35:38.559Z"
+    "fetchedAt": "2026-11-07T12:17:20.478Z"
   },
   {
     "eventId": 4,
@@ -32481,7 +32497,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-06T13:35:38.047Z"
+    "fetchedAt": "2026-11-07T12:17:19.911Z"
   },
   {
     "eventId": 4,
@@ -33423,7 +33439,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-11-06T13:35:37.520Z"
+    "fetchedAt": "2026-11-07T12:17:19.337Z"
   },
   {
     "eventId": 4,
@@ -34242,7 +34258,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-06T13:35:25.135Z"
+    "fetchedAt": "2026-11-07T12:17:03.680Z"
   },
   {
     "eventId": 4,
@@ -35013,7 +35029,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-06T13:35:13.105Z"
+    "fetchedAt": "2026-11-07T12:16:48.503Z"
   },
   {
     "eventId": 4,
@@ -35452,6 +35468,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-11-06T13:35:02.613Z"
+    "fetchedAt": "2026-11-07T12:16:34.003Z"
   }
 ]
