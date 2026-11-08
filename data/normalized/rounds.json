@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-11-07T12:16:16.255Z"
+    "fetchedAt": "2026-11-08T12:35:24.948Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-11-07T12:15:49.151Z"
+    "fetchedAt": "2026-11-08T12:35:04.127Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-11-07T12:15:17.143Z"
+    "fetchedAt": "2026-11-08T12:34:34.112Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-11-07T12:14:40.718Z"
+    "fetchedAt": "2026-11-08T12:34:08.196Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-07T12:14:10.251Z"
+    "fetchedAt": "2026-11-08T12:33:39.781Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-07T12:13:31.957Z"
+    "fetchedAt": "2026-11-08T12:33:11.263Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-07T12:12:56.916Z"
+    "fetchedAt": "2026-11-08T12:32:39.391Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-07T12:12:18.298Z"
+    "fetchedAt": "2026-11-08T12:32:11.482Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-11-07T12:11:44.016Z"
+    "fetchedAt": "2026-11-08T12:31:37.619Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-07T12:11:02.046Z"
+    "fetchedAt": "2026-11-08T12:31:01.228Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-07T12:10:19.524Z"
+    "fetchedAt": "2026-11-08T12:30:26.128Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-07T12:09:40.591Z"
+    "fetchedAt": "2026-11-08T12:29:54.364Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-07T12:08:57.858Z"
+    "fetchedAt": "2026-11-08T12:29:19.895Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-07T12:08:12.532Z"
+    "fetchedAt": "2026-11-08T12:28:44.844Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-11-07T12:08:11.955Z"
+    "fetchedAt": "2026-11-08T12:28:44.326Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-11-07T12:07:20.468Z"
+    "fetchedAt": "2026-11-08T12:28:02.600Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-11-07T12:06:33.307Z"
+    "fetchedAt": "2026-11-08T12:27:29.255Z"
   },
   {
     "eventId": 1,
@@ -28041,15 +28041,23 @@
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
-        "played": 4,
+        "played": 5,
         "wins": 2,
-        "losses": 2,
-        "points": 32,
+        "losses": 3,
+        "points": 39,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 39,
+            "opponentName": "James Karamath",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
           {
             "opponentId": 6,
             "opponentName": "Neil McAlpine",
@@ -28092,15 +28100,23 @@
         "groupName": "Group 1",
         "groupNumber": 1,
         "withdrawn": false,
-        "played": 3,
-        "wins": 3,
+        "played": 4,
+        "wins": 4,
         "losses": 0,
-        "points": 30,
+        "points": 38,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 17,
+            "opponentName": "Harry Ikin",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          },
           {
             "opponentId": 50,
             "opponentName": "Nicolas Mayorga",
@@ -28343,9 +28359,9 @@
         ]
       },
       {
-        "name": "Gianluca Iorizzo",
-        "playerId": 2,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/2/event/1/round/32",
+        "name": "Tim Acreman",
+        "playerId": 8,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/8/event/1/round/32",
         "position": 8,
         "groupName": "Group 1",
         "groupNumber": 1,
@@ -28375,9 +28391,9 @@
         "matchups": []
       },
       {
-        "name": "Tim Acreman",
-        "playerId": 8,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/8/event/1/round/32",
+        "name": "Gianluca Iorizzo",
+        "playerId": 2,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/2/event/1/round/32",
         "position": 8,
         "groupName": "Group 1",
         "groupNumber": 1,
@@ -28935,15 +28951,23 @@
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
-        "played": 3,
+        "played": 4,
         "wins": 2,
-        "losses": 1,
-        "points": 23,
+        "losses": 2,
+        "points": 30,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 28,
+            "opponentName": "Warren Williamson",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
           {
             "opponentId": 108,
             "opponentName": "Stephen Power",
@@ -29021,15 +29045,23 @@
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
-        "played": 2,
-        "wins": 0,
+        "played": 3,
+        "wins": 1,
         "losses": 2,
-        "points": 9,
+        "points": 19,
         "pointsAgainst": null,
         "markers": [
-          "loss"
+          "win"
         ],
         "matchups": [
+          {
+            "opponentId": 18,
+            "opponentName": "Daniel Ratinon",
+            "outcome": "win",
+            "pointsFor": 10,
+            "pointsAgainst": 5,
+            "scoreText": "10-5"
+          },
           {
             "opponentId": 76,
             "opponentName": "Wesley Taupin",
@@ -29049,10 +29081,80 @@
         ]
       },
       {
+        "name": "Daniel Ratinon",
+        "playerId": 18,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/18/event/1/round/32",
+        "position": 5,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 3,
+        "wins": 0,
+        "losses": 3,
+        "points": 12,
+        "pointsAgainst": null,
+        "markers": [
+          "loss"
+        ],
+        "matchups": [
+          {
+            "opponentId": 30,
+            "opponentName": "Peter Walsh",
+            "outcome": "loss",
+            "pointsFor": 5,
+            "pointsAgainst": 10,
+            "scoreText": "5-10"
+          },
+          {
+            "opponentId": 76,
+            "opponentName": "Wesley Taupin",
+            "outcome": "loss",
+            "pointsFor": 2,
+            "pointsAgainst": 13,
+            "scoreText": "2-13"
+          },
+          {
+            "opponentId": 75,
+            "opponentName": "Doreen Lam",
+            "outcome": "loss",
+            "pointsFor": 5,
+            "pointsAgainst": 10,
+            "scoreText": "5-10"
+          }
+        ]
+      },
+      {
+        "name": "Warren Williamson",
+        "playerId": 28,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/28/event/1/round/32",
+        "position": 6,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 8,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 75,
+            "opponentName": "Doreen Lam",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          }
+        ]
+      },
+      {
         "name": "Stephen Power",
         "playerId": 108,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/108/event/1/round/32",
-        "position": 5,
+        "position": 7,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
@@ -29092,61 +29194,10 @@
         ]
       },
       {
-        "name": "Daniel Ratinon",
-        "playerId": 18,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/18/event/1/round/32",
-        "position": 6,
-        "groupName": "Group 4",
-        "groupNumber": 4,
-        "withdrawn": false,
-        "played": 2,
-        "wins": 0,
-        "losses": 2,
-        "points": 7,
-        "pointsAgainst": null,
-        "markers": [
-          "loss"
-        ],
-        "matchups": [
-          {
-            "opponentId": 76,
-            "opponentName": "Wesley Taupin",
-            "outcome": "loss",
-            "pointsFor": 2,
-            "pointsAgainst": 13,
-            "scoreText": "2-13"
-          },
-          {
-            "opponentId": 75,
-            "opponentName": "Doreen Lam",
-            "outcome": "loss",
-            "pointsFor": 5,
-            "pointsAgainst": 10,
-            "scoreText": "5-10"
-          }
-        ]
-      },
-      {
-        "name": "Warren Williamson",
-        "playerId": 28,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/28/event/1/round/32",
-        "position": 7,
-        "groupName": "Group 4",
-        "groupNumber": 4,
-        "withdrawn": false,
-        "played": 0,
-        "wins": 0,
-        "losses": 0,
-        "points": 0,
-        "pointsAgainst": null,
-        "markers": [],
-        "matchups": []
-      },
-      {
         "name": "Matthew Takeuchi",
         "playerId": 41,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/41/event/1/round/32",
-        "position": 7,
+        "position": 8,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
@@ -29162,7 +29213,7 @@
         "name": "Jenson Moret",
         "playerId": 49,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/49/event/1/round/32",
-        "position": 7,
+        "position": 8,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
@@ -29396,7 +29447,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-11-07T12:05:46.357Z"
+    "fetchedAt": "2026-11-08T12:26:48.674Z"
   },
   {
     "eventId": 4,
@@ -30265,7 +30316,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-07T12:18:39.126Z"
+    "fetchedAt": "2026-11-08T12:37:25.113Z"
   },
   {
     "eventId": 4,
@@ -30603,7 +30654,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-07T12:18:19.114Z"
+    "fetchedAt": "2026-11-08T12:37:10.925Z"
   },
   {
     "eventId": 4,
@@ -31563,7 +31614,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-11-07T12:17:59.848Z"
+    "fetchedAt": "2026-11-08T12:36:54.417Z"
   },
   {
     "eventId": 4,
@@ -31576,7 +31627,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-07T12:17:40.208Z"
+    "fetchedAt": "2026-11-08T12:36:36.881Z"
   },
   {
     "eventId": 4,
@@ -32471,7 +32522,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-11-07T12:17:39.634Z"
+    "fetchedAt": "2026-11-08T12:36:36.364Z"
   },
   {
     "eventId": 4,
@@ -32484,7 +32535,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-07T12:17:20.478Z"
+    "fetchedAt": "2026-11-08T12:36:20.273Z"
   },
   {
     "eventId": 4,
@@ -32497,7 +32548,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-07T12:17:19.911Z"
+    "fetchedAt": "2026-11-08T12:36:19.501Z"
   },
   {
     "eventId": 4,
@@ -33439,7 +33490,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-11-07T12:17:19.337Z"
+    "fetchedAt": "2026-11-08T12:36:18.985Z"
   },
   {
     "eventId": 4,
@@ -34258,7 +34309,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-07T12:17:03.680Z"
+    "fetchedAt": "2026-11-08T12:36:04.010Z"
   },
   {
     "eventId": 4,
@@ -35029,7 +35080,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-07T12:16:48.503Z"
+    "fetchedAt": "2026-11-08T12:35:51.829Z"
   },
   {
     "eventId": 4,
@@ -35468,6 +35519,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-11-07T12:16:34.003Z"
+    "fetchedAt": "2026-11-08T12:35:39.297Z"
   }
 ]
