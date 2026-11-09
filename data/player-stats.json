@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:37:25.386Z",
+  "generatedAt": "2026-11-09T14:51:11.564Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -11740,7 +11740,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 3,
           "leaguePoints": 12,
@@ -13818,8 +13818,8 @@
       "name": "Doreen Lam",
       "totalRounds": 15,
       "totalWins": 43,
-      "totalLosses": 34,
-      "winRate": 0.558,
+      "totalLosses": 35,
+      "winRate": 0.551,
       "promotions": 2,
       "relegations": 0,
       "stayed": 11,
@@ -13862,8 +13862,8 @@
           "pointsAgainst": 20
         }
       ],
-      "tennisPointsFor": 624,
-      "tennisPointsAgainst": 521,
+      "tennisPointsFor": 626,
+      "tennisPointsAgainst": 534,
       "timeline": [
         {
           "eventId": 1,
@@ -14342,10 +14342,18 @@
           "withdrawn": false,
           "position": 2,
           "wins": 2,
-          "losses": 2,
-          "leaguePoints": 30,
+          "losses": 3,
+          "leaguePoints": 32,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 41,
+              "opponentName": "Matthew Takeuchi",
+              "outcome": "loss",
+              "pointsFor": 2,
+              "pointsAgainst": 13,
+              "scoreText": "2-13"
+            },
             {
               "opponentId": 28,
               "opponentName": "Warren Williamson",
@@ -19467,7 +19475,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 8,
+          "position": 9,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -20716,19 +20724,19 @@
       "playerId": 98,
       "name": "Katrina O&#39;Keeffe",
       "totalRounds": 5,
-      "totalWins": 6,
+      "totalWins": 7,
       "totalLosses": 14,
-      "winRate": 0.3,
+      "winRate": 0.333,
       "promotions": 1,
       "relegations": 0,
       "stayed": 3,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 4,
-        "roundId": 30,
-        "roundLabel": "Strawberries & Screamers - Summer 2026 | CLTC - Box Leagues",
-        "roundStart": "4 Jun",
-        "roundEnd": "6 Sep",
+        "position": 3,
+        "roundId": 33,
+        "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
+        "roundStart": "8 Sep",
+        "roundEnd": "6 Dec",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -20761,8 +20769,8 @@
           "pointsAgainst": 27
         }
       ],
-      "tennisPointsFor": 131,
-      "tennisPointsAgainst": 169,
+      "tennisPointsFor": 142,
+      "tennisPointsAgainst": 173,
       "timeline": [
         {
           "eventId": 4,
@@ -21006,12 +21014,20 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 4,
-          "wins": 1,
+          "position": 3,
+          "wins": 2,
           "losses": 2,
-          "leaguePoints": 19,
+          "leaguePoints": 30,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 147,
+              "opponentName": "Maddy Smith",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 97,
               "opponentName": "Ruth Short",
@@ -23267,8 +23283,8 @@
       "name": "Maddy Smith",
       "totalRounds": 2,
       "totalWins": 2,
-      "totalLosses": 8,
-      "winRate": 0.2,
+      "totalLosses": 9,
+      "winRate": 0.182,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
@@ -23311,7 +23327,7 @@
           "pointsAgainst": 2
         }
       ],
-      "tennisPointsFor": 55,
+      "tennisPointsFor": 59,
       "tennisPointsAgainst": 95,
       "timeline": [
         {
@@ -23399,8 +23415,8 @@
           "withdrawn": false,
           "position": 6,
           "wins": 0,
-          "losses": 4,
-          "leaguePoints": 6,
+          "losses": 5,
+          "leaguePoints": 10,
           "leaguePointsAgainst": null,
           "matchups": [
             {
@@ -25982,9 +25998,9 @@
       "playerId": 41,
       "name": "Matthew Takeuchi",
       "totalRounds": 11,
-      "totalWins": 17,
+      "totalWins": 18,
       "totalLosses": 12,
-      "winRate": 0.586,
+      "winRate": 0.6,
       "promotions": 2,
       "relegations": 1,
       "stayed": 7,
@@ -26027,8 +26043,8 @@
           "pointsAgainst": 20
         }
       ],
-      "tennisPointsFor": 241,
-      "tennisPointsAgainst": 194,
+      "tennisPointsFor": 254,
+      "tennisPointsAgainst": 196,
       "timeline": [
         {
           "eventId": 1,
@@ -26510,12 +26526,21 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 8,
-          "wins": 0,
+          "position": 5,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 13,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "win",
+              "pointsFor": 13,
+              "pointsAgainst": 2,
+              "scoreText": "13-2"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -37539,7 +37564,7 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 2,
           "losses": 0,
           "leaguePoints": 28,
@@ -38637,7 +38662,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 0,
           "losses": 3,
           "leaguePoints": 8,
@@ -41345,7 +41370,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 8,
