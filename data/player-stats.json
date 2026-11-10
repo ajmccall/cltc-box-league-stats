@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T14:51:11.564Z",
+  "generatedAt": "2026-11-10T14:05:42.848Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -1038,7 +1038,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 7,
@@ -7771,9 +7771,9 @@
       "playerId": 5,
       "name": "Chris Playle",
       "totalRounds": 13,
-      "totalWins": 17,
+      "totalWins": 18,
       "totalLosses": 16,
-      "winRate": 0.515,
+      "winRate": 0.529,
       "promotions": 1,
       "relegations": 2,
       "stayed": 8,
@@ -7789,6 +7789,15 @@
       },
       "topOpponents": [
         {
+          "opponentId": 4,
+          "opponentName": "Clive Coulson",
+          "played": 5,
+          "wins": 4,
+          "losses": 1,
+          "pointsFor": 43,
+          "pointsAgainst": 34
+        },
+        {
           "opponentId": 25,
           "opponentName": "Adam Biswell",
           "played": 5,
@@ -7796,15 +7805,6 @@
           "losses": 5,
           "pointsFor": 16,
           "pointsAgainst": 59
-        },
-        {
-          "opponentId": 4,
-          "opponentName": "Clive Coulson",
-          "played": 4,
-          "wins": 3,
-          "losses": 1,
-          "pointsFor": 34,
-          "pointsAgainst": 28
         },
         {
           "opponentId": 10,
@@ -7816,8 +7816,8 @@
           "pointsAgainst": 17
         }
       ],
-      "tennisPointsFor": 238,
-      "tennisPointsAgainst": 265,
+      "tennisPointsFor": 247,
+      "tennisPointsAgainst": 271,
       "timeline": [
         {
           "eventId": 1,
@@ -8380,12 +8380,21 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 6,
-          "wins": 0,
+          "position": 3,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 9,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 4,
+              "opponentName": "Clive Coulson",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -10136,8 +10145,8 @@
       "name": "Clive Coulson",
       "totalRounds": 15,
       "totalWins": 23,
-      "totalLosses": 26,
-      "winRate": 0.469,
+      "totalLosses": 27,
+      "winRate": 0.46,
       "promotions": 3,
       "relegations": 4,
       "stayed": 7,
@@ -10162,6 +10171,15 @@
           "pointsAgainst": 24
         },
         {
+          "opponentId": 5,
+          "opponentName": "Chris Playle",
+          "played": 5,
+          "wins": 1,
+          "losses": 4,
+          "pointsFor": 34,
+          "pointsAgainst": 43
+        },
+        {
           "opponentId": 10,
           "opponentName": "Nicholas Suggit",
           "played": 4,
@@ -10169,19 +10187,10 @@
           "losses": 2,
           "pointsFor": 32,
           "pointsAgainst": 28
-        },
-        {
-          "opponentId": 5,
-          "opponentName": "Chris Playle",
-          "played": 4,
-          "wins": 1,
-          "losses": 3,
-          "pointsFor": 28,
-          "pointsAgainst": 34
         }
       ],
-      "tennisPointsFor": 394,
-      "tennisPointsAgainst": 358,
+      "tennisPointsFor": 400,
+      "tennisPointsAgainst": 367,
       "timeline": [
         {
           "eventId": 1,
@@ -10905,12 +10914,20 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 2,
+          "position": 1,
           "wins": 2,
-          "losses": 0,
-          "leaguePoints": 21,
+          "losses": 1,
+          "leaguePoints": 27,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 5,
+              "opponentName": "Chris Playle",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            },
             {
               "opponentId": 38,
               "opponentName": "Sophie Boobbyer",
@@ -10930,9 +10947,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -13798,7 +13815,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -27255,7 +27272,7 @@
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 5,
+        "position": 6,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -27994,7 +28011,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 3,
@@ -31437,7 +31454,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -33251,7 +33268,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 0,
           "losses": 1,
           "leaguePoints": 7,
@@ -37767,7 +37784,7 @@
       "stayed": 2,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 1,
+        "position": 2,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -38192,7 +38209,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 2,
           "losses": 1,
           "leaguePoints": 22,
@@ -38225,9 +38242,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -42017,7 +42034,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
