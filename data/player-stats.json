@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T14:05:42.848Z",
+  "generatedAt": "2026-11-11T13:22:18.264Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -1574,8 +1574,8 @@
       "name": "Alasdair McCall",
       "totalRounds": 15,
       "totalWins": 30,
-      "totalLosses": 47,
-      "winRate": 0.39,
+      "totalLosses": 48,
+      "winRate": 0.385,
       "promotions": 4,
       "relegations": 5,
       "stayed": 5,
@@ -1618,8 +1618,8 @@
           "pointsAgainst": 40
         }
       ],
-      "tennisPointsFor": 492,
-      "tennisPointsAgainst": 668,
+      "tennisPointsFor": 499,
+      "tennisPointsAgainst": 676,
       "timeline": [
         {
           "eventId": 1,
@@ -2560,12 +2560,20 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 2,
+          "position": 1,
           "wins": 1,
-          "losses": 2,
-          "leaguePoints": 25,
+          "losses": 3,
+          "leaguePoints": 32,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 142,
+              "opponentName": "Daniel Baulch",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 10,
               "opponentName": "Nicholas Suggit",
@@ -2593,9 +2601,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -10958,9 +10966,9 @@
       "playerId": 142,
       "name": "Daniel Baulch",
       "totalRounds": 2,
-      "totalWins": 5,
+      "totalWins": 6,
       "totalLosses": 2,
-      "winRate": 0.714,
+      "winRate": 0.75,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
@@ -10975,6 +10983,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 20,
+          "opponentName": "Alasdair McCall",
+          "played": 1,
+          "wins": 1,
+          "losses": 0,
+          "pointsFor": 8,
+          "pointsAgainst": 7
+        },
         {
           "opponentId": 72,
           "opponentName": "Anthony Boobbyer",
@@ -10992,19 +11009,10 @@
           "losses": 0,
           "pointsFor": 12,
           "pointsAgainst": 3
-        },
-        {
-          "opponentId": 135,
-          "opponentName": "peter orourke",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 12,
-          "pointsAgainst": 3
         }
       ],
-      "tennisPointsFor": 71,
-      "tennisPointsAgainst": 34,
+      "tennisPointsFor": 79,
+      "tennisPointsAgainst": 41,
       "timeline": [
         {
           "eventId": 1,
@@ -11082,11 +11090,19 @@
           "groupSize": 9,
           "withdrawn": false,
           "position": 3,
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
-          "leaguePoints": 15,
+          "leaguePoints": 23,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 20,
+              "opponentName": "Alasdair McCall",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 72,
               "opponentName": "Anthony Boobbyer",
@@ -30059,7 +30075,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 3,
           "losses": 0,
           "leaguePoints": 31,
@@ -30092,9 +30108,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },

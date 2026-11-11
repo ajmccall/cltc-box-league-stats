@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-11-10T14:04:08.592Z"
+    "fetchedAt": "2026-11-11T13:20:21.945Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-11-10T14:03:53.079Z"
+    "fetchedAt": "2026-11-11T13:19:59.142Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-11-10T14:03:32.013Z"
+    "fetchedAt": "2026-11-11T13:19:31.787Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-11-10T14:03:09.356Z"
+    "fetchedAt": "2026-11-11T13:19:05.377Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-10T14:02:48.053Z"
+    "fetchedAt": "2026-11-11T13:18:36.946Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-10T14:02:24.016Z"
+    "fetchedAt": "2026-11-11T13:18:06.424Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-10T14:01:59.372Z"
+    "fetchedAt": "2026-11-11T13:17:36.062Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-10T14:01:34.607Z"
+    "fetchedAt": "2026-11-11T13:17:07.190Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-11-10T14:01:08.920Z"
+    "fetchedAt": "2026-11-11T13:16:37.125Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-10T14:00:40.785Z"
+    "fetchedAt": "2026-11-11T13:16:02.692Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-10T14:00:12.171Z"
+    "fetchedAt": "2026-11-11T13:15:27.829Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-10T13:59:46.415Z"
+    "fetchedAt": "2026-11-11T13:14:54.738Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-10T13:59:19.326Z"
+    "fetchedAt": "2026-11-11T13:14:22.284Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-10T13:58:50.420Z"
+    "fetchedAt": "2026-11-11T13:13:47.118Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-11-10T13:58:49.942Z"
+    "fetchedAt": "2026-11-11T13:13:46.555Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-11-10T13:58:19.714Z"
+    "fetchedAt": "2026-11-11T13:13:10.910Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-11-10T13:57:49.888Z"
+    "fetchedAt": "2026-11-11T13:12:34.560Z"
   },
   {
     "eventId": 1,
@@ -28649,10 +28649,61 @@
         "matchups": []
       },
       {
+        "name": "Alasdair McCall",
+        "playerId": 20,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/20/event/1/round/32",
+        "position": 1,
+        "groupName": "Group 3",
+        "groupNumber": 3,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 1,
+        "losses": 3,
+        "points": 32,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 142,
+            "opponentName": "Daniel Baulch",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
+          {
+            "opponentId": 10,
+            "opponentName": "Nicholas Suggit",
+            "outcome": "loss",
+            "pointsFor": 5,
+            "pointsAgainst": 10,
+            "scoreText": "5-10"
+          },
+          {
+            "opponentId": 3,
+            "opponentName": "Richard Beales",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          },
+          {
+            "opponentId": 72,
+            "opponentName": "Anthony Boobbyer",
+            "outcome": "win",
+            "pointsFor": 13,
+            "pointsAgainst": 2,
+            "scoreText": "13-2"
+          }
+        ]
+      },
+      {
         "name": "Nicholas Suggit",
         "playerId": 10,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/10/event/1/round/32",
-        "position": 1,
+        "position": 2,
         "groupName": "Group 3",
         "groupNumber": 3,
         "withdrawn": false,
@@ -28692,49 +28743,6 @@
         ]
       },
       {
-        "name": "Alasdair McCall",
-        "playerId": 20,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/20/event/1/round/32",
-        "position": 2,
-        "groupName": "Group 3",
-        "groupNumber": 3,
-        "withdrawn": false,
-        "played": 3,
-        "wins": 1,
-        "losses": 2,
-        "points": 25,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 10,
-            "opponentName": "Nicholas Suggit",
-            "outcome": "loss",
-            "pointsFor": 5,
-            "pointsAgainst": 10,
-            "scoreText": "5-10"
-          },
-          {
-            "opponentId": 3,
-            "opponentName": "Richard Beales",
-            "outcome": "loss",
-            "pointsFor": 7,
-            "pointsAgainst": 8,
-            "scoreText": "7-8"
-          },
-          {
-            "opponentId": 72,
-            "opponentName": "Anthony Boobbyer",
-            "outcome": "win",
-            "pointsFor": 13,
-            "pointsAgainst": 2,
-            "scoreText": "13-2"
-          }
-        ]
-      },
-      {
         "name": "Daniel Baulch",
         "playerId": 142,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/142/event/1/round/32",
@@ -28742,15 +28750,23 @@
         "groupName": "Group 3",
         "groupNumber": 3,
         "withdrawn": false,
-        "played": 2,
-        "wins": 1,
+        "played": 3,
+        "wins": 2,
         "losses": 1,
-        "points": 15,
+        "points": 23,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 20,
+            "opponentName": "Alasdair McCall",
+            "outcome": "win",
+            "pointsFor": 8,
+            "pointsAgainst": 7,
+            "scoreText": "8-7"
+          },
           {
             "opponentId": 72,
             "opponentName": "Anthony Boobbyer",
@@ -29485,7 +29501,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-11-10T13:57:20.900Z"
+    "fetchedAt": "2026-11-11T13:11:58.382Z"
   },
   {
     "eventId": 4,
@@ -30354,7 +30370,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-10T14:05:42.573Z"
+    "fetchedAt": "2026-11-11T13:22:17.996Z"
   },
   {
     "eventId": 4,
@@ -30692,7 +30708,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-10T14:05:29.757Z"
+    "fetchedAt": "2026-11-11T13:22:04.190Z"
   },
   {
     "eventId": 4,
@@ -31652,7 +31668,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-11-10T14:05:18.216Z"
+    "fetchedAt": "2026-11-11T13:21:48.566Z"
   },
   {
     "eventId": 4,
@@ -31665,7 +31681,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-10T14:05:04.536Z"
+    "fetchedAt": "2026-11-11T13:21:31.804Z"
   },
   {
     "eventId": 4,
@@ -32560,7 +32576,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-11-10T14:05:04.041Z"
+    "fetchedAt": "2026-11-11T13:21:31.238Z"
   },
   {
     "eventId": 4,
@@ -32573,7 +32589,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-10T14:04:52.642Z"
+    "fetchedAt": "2026-11-11T13:21:14.407Z"
   },
   {
     "eventId": 4,
@@ -32586,7 +32602,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-10T14:04:51.789Z"
+    "fetchedAt": "2026-11-11T13:21:13.840Z"
   },
   {
     "eventId": 4,
@@ -33528,7 +33544,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-11-10T14:04:51.314Z"
+    "fetchedAt": "2026-11-11T13:21:13.276Z"
   },
   {
     "eventId": 4,
@@ -34347,7 +34363,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-10T14:04:38.529Z"
+    "fetchedAt": "2026-11-11T13:21:01.286Z"
   },
   {
     "eventId": 4,
@@ -35118,7 +35134,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-10T14:04:29.625Z"
+    "fetchedAt": "2026-11-11T13:20:48.725Z"
   },
   {
     "eventId": 4,
@@ -35565,6 +35581,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-11-10T14:04:20.868Z"
+    "fetchedAt": "2026-11-11T13:20:38.283Z"
   }
 ]
