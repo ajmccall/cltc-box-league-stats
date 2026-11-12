@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:22:18.264Z",
+  "generatedAt": "2026-11-12T14:24:43.334Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -6792,7 +6792,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 8,
               "pointsAgainst": 7,
@@ -6872,7 +6872,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 8,
               "pointsAgainst": 7,
@@ -6944,7 +6944,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 9,
               "pointsAgainst": 6,
@@ -7047,7 +7047,7 @@
       "topOpponents": [
         {
           "opponentId": 87,
-          "opponentName": "Sarah Ruiz",
+          "opponentName": "Sarah Iuliano",
           "played": 4,
           "wins": 1,
           "losses": 3,
@@ -7362,7 +7362,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -7418,7 +7418,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -7482,7 +7482,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 9,
               "pointsAgainst": 6,
@@ -7562,7 +7562,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 5,
               "pointsAgainst": 10,
@@ -8483,7 +8483,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 0,
               "pointsAgainst": 15,
@@ -8539,7 +8539,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 1,
               "pointsAgainst": 14,
@@ -9726,7 +9726,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 1,
               "pointsAgainst": 14,
@@ -14445,7 +14445,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 6,
               "pointsAgainst": 9,
@@ -14581,7 +14581,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 10,
               "pointsAgainst": 5,
@@ -14621,7 +14621,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 9,
               "pointsAgainst": 6,
@@ -14717,7 +14717,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 10,
               "pointsAgainst": 5,
@@ -14797,7 +14797,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 9,
               "pointsAgainst": 6,
@@ -19555,7 +19555,7 @@
         },
         {
           "opponentId": 87,
-          "opponentName": "Sarah Ruiz",
+          "opponentName": "Sarah Iuliano",
           "played": 3,
           "wins": 0,
           "losses": 3,
@@ -19594,7 +19594,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -19666,7 +19666,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 5,
               "pointsAgainst": 10,
@@ -19770,7 +19770,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -20785,7 +20785,7 @@
         },
         {
           "opponentId": 87,
-          "opponentName": "Sarah Ruiz",
+          "opponentName": "Sarah Iuliano",
           "played": 3,
           "wins": 1,
           "losses": 2,
@@ -20848,7 +20848,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 9,
               "pointsAgainst": 6,
@@ -20911,7 +20911,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -21007,7 +21007,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -22493,7 +22493,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -22557,7 +22557,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 2,
               "pointsAgainst": 13,
@@ -22669,7 +22669,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -23201,7 +23201,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 1,
               "pointsAgainst": 14,
@@ -23462,7 +23462,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 0,
               "pointsAgainst": 15,
@@ -26853,7 +26853,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 7,
               "pointsAgainst": 8,
@@ -26909,7 +26909,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 11,
               "pointsAgainst": 4,
@@ -27013,7 +27013,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 8,
               "pointsAgainst": 7,
@@ -36483,7 +36483,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 3,
               "pointsAgainst": 12,
@@ -36787,7 +36787,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "loss",
               "pointsFor": 2,
               "pointsAgainst": 13,
@@ -37158,9 +37158,9 @@
       ]
     },
     {
-      "id": "sarah-ruiz",
+      "id": "sarah-iuliano",
       "playerId": 87,
-      "name": "Sarah Ruiz",
+      "name": "Sarah Iuliano",
       "totalRounds": 7,
       "totalWins": 20,
       "totalLosses": 15,
@@ -42209,7 +42209,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 11,
               "pointsAgainst": 4,
@@ -42257,7 +42257,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 14,
               "pointsAgainst": 1,
@@ -42353,7 +42353,7 @@
             },
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 13,
               "pointsAgainst": 2,
@@ -42409,7 +42409,7 @@
           "matchups": [
             {
               "opponentId": 87,
-              "opponentName": "Sarah Ruiz",
+              "opponentName": "Sarah Iuliano",
               "outcome": "win",
               "pointsFor": 15,
               "pointsAgainst": 0,

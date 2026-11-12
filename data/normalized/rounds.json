@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-11-11T13:20:21.945Z"
+    "fetchedAt": "2026-11-12T14:22:52.240Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-11-11T13:19:59.142Z"
+    "fetchedAt": "2026-11-12T14:22:32.357Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-11-11T13:19:31.787Z"
+    "fetchedAt": "2026-11-12T14:22:07.193Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-11-11T13:19:05.377Z"
+    "fetchedAt": "2026-11-12T14:21:43.227Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-11T13:18:36.946Z"
+    "fetchedAt": "2026-11-12T14:21:16.279Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-11T13:18:06.424Z"
+    "fetchedAt": "2026-11-12T14:20:50.112Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-11T13:17:36.062Z"
+    "fetchedAt": "2026-11-12T14:20:22.932Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-11T13:17:07.190Z"
+    "fetchedAt": "2026-11-12T14:19:54.657Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-11-11T13:16:37.125Z"
+    "fetchedAt": "2026-11-12T14:19:26.355Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-11T13:16:02.692Z"
+    "fetchedAt": "2026-11-12T14:18:55.992Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-11T13:15:27.829Z"
+    "fetchedAt": "2026-11-12T14:18:22.784Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-11T13:14:54.738Z"
+    "fetchedAt": "2026-11-12T14:17:53.520Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-11T13:14:22.284Z"
+    "fetchedAt": "2026-11-12T14:17:24.628Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-11T13:13:47.118Z"
+    "fetchedAt": "2026-11-12T14:16:51.570Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-11-11T13:13:46.555Z"
+    "fetchedAt": "2026-11-12T14:16:51.038Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-11-11T13:13:10.910Z"
+    "fetchedAt": "2026-11-12T14:16:17.984Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-11-11T13:12:34.560Z"
+    "fetchedAt": "2026-11-12T14:15:43.394Z"
   },
   {
     "eventId": 1,
@@ -29501,7 +29501,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-11-11T13:11:58.382Z"
+    "fetchedAt": "2026-11-12T14:15:12.278Z"
   },
   {
     "eventId": 4,
@@ -29759,7 +29759,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 6,
             "pointsAgainst": 9,
@@ -29792,7 +29792,7 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/17",
         "position": 2,
@@ -29885,7 +29885,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 9,
             "pointsAgainst": 6,
@@ -29920,7 +29920,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 3,
             "pointsAgainst": 12,
@@ -29971,7 +29971,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 0,
             "pointsAgainst": 15,
@@ -30046,7 +30046,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 1,
             "pointsAgainst": 14,
@@ -30370,7 +30370,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-11T13:22:17.996Z"
+    "fetchedAt": "2026-11-12T14:24:43.068Z"
   },
   {
     "eventId": 4,
@@ -30499,7 +30499,7 @@
         "matchups": []
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/18",
         "position": 0,
@@ -30708,7 +30708,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-11T13:22:04.190Z"
+    "fetchedAt": "2026-11-12T14:24:28.217Z"
   },
   {
     "eventId": 4,
@@ -31006,7 +31006,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 7,
             "pointsAgainst": 8,
@@ -31023,7 +31023,7 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/20",
         "position": 2,
@@ -31092,7 +31092,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 3,
             "pointsAgainst": 12,
@@ -31159,7 +31159,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 5,
             "pointsAgainst": 10,
@@ -31194,7 +31194,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 1,
             "pointsAgainst": 14,
@@ -31253,7 +31253,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 1,
             "pointsAgainst": 14,
@@ -31668,7 +31668,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-11-11T13:21:48.566Z"
+    "fetchedAt": "2026-11-12T14:24:13.754Z"
   },
   {
     "eventId": 4,
@@ -31681,7 +31681,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-11T13:21:31.804Z"
+    "fetchedAt": "2026-11-12T14:23:59.559Z"
   },
   {
     "eventId": 4,
@@ -31740,7 +31740,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 11,
             "pointsAgainst": 4,
@@ -31791,7 +31791,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 8,
             "pointsAgainst": 7,
@@ -31832,7 +31832,7 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/23",
         "position": 3,
@@ -31933,7 +31933,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 7,
             "pointsAgainst": 8,
@@ -32016,7 +32016,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 10,
             "pointsAgainst": 5,
@@ -32075,7 +32075,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 7,
             "pointsAgainst": 8,
@@ -32110,7 +32110,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 3,
             "pointsAgainst": 12,
@@ -32576,7 +32576,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-11-11T13:21:31.238Z"
+    "fetchedAt": "2026-11-12T14:23:59.023Z"
   },
   {
     "eventId": 4,
@@ -32589,7 +32589,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-11T13:21:14.407Z"
+    "fetchedAt": "2026-11-12T14:23:43.130Z"
   },
   {
     "eventId": 4,
@@ -32602,7 +32602,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-11T13:21:13.840Z"
+    "fetchedAt": "2026-11-12T14:23:42.582Z"
   },
   {
     "eventId": 4,
@@ -32636,7 +32636,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 14,
             "pointsAgainst": 1,
@@ -32711,7 +32711,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 9,
             "pointsAgainst": 6,
@@ -32802,7 +32802,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 11,
             "pointsAgainst": 4,
@@ -32877,7 +32877,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 8,
             "pointsAgainst": 7,
@@ -32918,7 +32918,7 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/26",
         "position": 5,
@@ -33019,7 +33019,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 9,
             "pointsAgainst": 6,
@@ -33078,7 +33078,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 2,
             "pointsAgainst": 13,
@@ -33161,7 +33161,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 7,
             "pointsAgainst": 8,
@@ -33544,7 +33544,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-11-11T13:21:13.276Z"
+    "fetchedAt": "2026-11-12T14:23:42.047Z"
   },
   {
     "eventId": 4,
@@ -33594,7 +33594,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 13,
             "pointsAgainst": 2,
@@ -33661,7 +33661,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 10,
             "pointsAgainst": 5,
@@ -33720,7 +33720,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 9,
             "pointsAgainst": 6,
@@ -33819,7 +33819,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 8,
             "pointsAgainst": 7,
@@ -33828,7 +33828,7 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/29",
         "position": 5,
@@ -33929,7 +33929,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 5,
             "pointsAgainst": 10,
@@ -33980,7 +33980,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 7,
             "pointsAgainst": 8,
@@ -34087,7 +34087,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 7,
             "pointsAgainst": 8,
@@ -34363,7 +34363,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-11T13:21:01.286Z"
+    "fetchedAt": "2026-11-12T14:23:30.033Z"
   },
   {
     "eventId": 4,
@@ -34397,7 +34397,7 @@
         "matchups": [
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 15,
             "pointsAgainst": 0,
@@ -34472,7 +34472,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "win",
             "pointsFor": 9,
             "pointsAgainst": 6,
@@ -34566,7 +34566,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 7,
             "pointsAgainst": 8,
@@ -34591,7 +34591,7 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/30",
         "position": 5,
@@ -35134,7 +35134,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-11T13:20:48.725Z"
+    "fetchedAt": "2026-11-12T14:23:17.306Z"
   },
   {
     "eventId": 4,
@@ -35271,7 +35271,7 @@
         ]
       },
       {
-        "name": "Sarah Ruiz",
+        "name": "Sarah Iuliano",
         "playerId": 87,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/87/event/4/round/33",
         "position": 4,
@@ -35332,7 +35332,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 2,
             "pointsAgainst": 13,
@@ -35383,7 +35383,7 @@
           },
           {
             "opponentId": 87,
-            "opponentName": "Sarah Ruiz",
+            "opponentName": "Sarah Iuliano",
             "outcome": "loss",
             "pointsFor": 0,
             "pointsAgainst": 15,
@@ -35581,6 +35581,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-11-11T13:20:38.283Z"
+    "fetchedAt": "2026-11-12T14:23:07.052Z"
   }
 ]
