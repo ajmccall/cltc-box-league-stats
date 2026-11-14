@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:48:31.339Z",
+  "generatedAt": "2026-11-14T12:57:27.937Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -17928,14 +17928,14 @@
       "name": "Henry Peart Smith",
       "totalRounds": 3,
       "totalWins": 9,
-      "totalLosses": 7,
-      "winRate": 0.563,
+      "totalLosses": 8,
+      "winRate": 0.529,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 7,
+        "position": 6,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -17972,8 +17972,8 @@
           "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 122,
-      "tennisPointsAgainst": 118,
+      "tennisPointsFor": 129,
+      "tennisPointsAgainst": 126,
       "timeline": [
         {
           "eventId": 1,
@@ -18138,12 +18138,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 7,
+          "position": 6,
           "wins": 1,
-          "losses": 2,
-          "leaguePoints": 16,
+          "losses": 3,
+          "leaguePoints": 23,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 50,
+              "opponentName": "Nicolas Mayorga",
+              "outcome": "loss",
+              "pointsFor": 7,
+              "pointsAgainst": 8,
+              "scoreText": "7-8"
+            },
             {
               "opponentId": 6,
               "opponentName": "Neil McAlpine",
@@ -24587,7 +24595,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 7,
           "wins": 2,
           "losses": 0,
           "leaguePoints": 16,
@@ -28835,7 +28843,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 25,
@@ -30188,15 +30196,15 @@
       "playerId": 50,
       "name": "Nicolas Mayorga",
       "totalRounds": 2,
-      "totalWins": 8,
+      "totalWins": 9,
       "totalLosses": 3,
-      "winRate": 0.727,
+      "winRate": 0.75,
       "promotions": 1,
       "relegations": 0,
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 5,
+        "position": 4,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -30205,6 +30213,15 @@
         "eventName": "CLTC Open Box League"
       },
       "topOpponents": [
+        {
+          "opponentId": 52,
+          "opponentName": "Henry Peart Smith",
+          "played": 2,
+          "wins": 2,
+          "losses": 0,
+          "pointsFor": 19,
+          "pointsAgainst": 11
+        },
         {
           "opponentId": 110,
           "opponentName": "Adam Farrer",
@@ -30222,19 +30239,10 @@
           "losses": 0,
           "pointsFor": 13,
           "pointsAgainst": 2
-        },
-        {
-          "opponentId": 4,
-          "opponentName": "Clive Coulson",
-          "played": 1,
-          "wins": 1,
-          "losses": 0,
-          "pointsFor": 9,
-          "pointsAgainst": 6
         }
       ],
-      "tennisPointsFor": 101,
-      "tennisPointsAgainst": 64,
+      "tennisPointsFor": 109,
+      "tennisPointsAgainst": 71,
       "timeline": [
         {
           "eventId": 1,
@@ -30335,12 +30343,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
-          "wins": 0,
+          "position": 4,
+          "wins": 1,
           "losses": 3,
-          "leaguePoints": 19,
+          "leaguePoints": 27,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "win",
+              "pointsFor": 8,
+              "pointsAgainst": 7,
+              "scoreText": "8-7"
+            },
             {
               "opponentId": 39,
               "opponentName": "James Karamath",
