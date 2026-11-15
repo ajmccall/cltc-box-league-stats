@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:57:27.937Z",
+  "generatedAt": "2026-11-15T13:20:41.273Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -720,7 +720,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 8,
+          "position": 9,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
@@ -15636,9 +15636,9 @@
       "playerId": 2,
       "name": "Gianluca Iorizzo",
       "totalRounds": 15,
-      "totalWins": 23,
+      "totalWins": 24,
       "totalLosses": 46,
-      "winRate": 0.333,
+      "winRate": 0.343,
       "promotions": 1,
       "relegations": 1,
       "stayed": 12,
@@ -15681,8 +15681,8 @@
           "pointsAgainst": 50
         }
       ],
-      "tennisPointsFor": 481,
-      "tennisPointsAgainst": 590,
+      "tennisPointsFor": 492,
+      "tennisPointsAgainst": 594,
       "timeline": [
         {
           "eventId": 1,
@@ -16591,11 +16591,20 @@
           "groupSize": 10,
           "withdrawn": false,
           "position": 8,
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
-          "leaguePoints": 0,
+          "leaguePoints": 11,
           "leaguePointsAgainst": null,
-          "matchups": [],
+          "matchups": [
+            {
+              "opponentId": 52,
+              "opponentName": "Henry Peart Smith",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            }
+          ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
           "resultCode": "none",
@@ -17928,14 +17937,14 @@
       "name": "Henry Peart Smith",
       "totalRounds": 3,
       "totalWins": 9,
-      "totalLosses": 8,
-      "winRate": 0.529,
+      "totalLosses": 9,
+      "winRate": 0.5,
       "promotions": 1,
       "relegations": 0,
       "stayed": 1,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 6,
+        "position": 4,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -17972,8 +17981,8 @@
           "pointsAgainst": 13
         }
       ],
-      "tennisPointsFor": 129,
-      "tennisPointsAgainst": 126,
+      "tennisPointsFor": 133,
+      "tennisPointsAgainst": 137,
       "timeline": [
         {
           "eventId": 1,
@@ -18138,12 +18147,20 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 6,
+          "position": 4,
           "wins": 1,
-          "losses": 3,
-          "leaguePoints": 23,
+          "losses": 4,
+          "leaguePoints": 27,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 2,
+              "opponentName": "Gianluca Iorizzo",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 50,
               "opponentName": "Nicolas Mayorga",
@@ -28843,7 +28860,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 25,
@@ -30204,7 +30221,7 @@
       "stayed": 0,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 4,
+        "position": 5,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -30343,7 +30360,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 27,
@@ -40202,7 +40219,7 @@
           "groupNumber": 1,
           "groupSize": 10,
           "withdrawn": false,
-          "position": 8,
+          "position": 9,
           "wins": 0,
           "losses": 0,
           "leaguePoints": 0,
