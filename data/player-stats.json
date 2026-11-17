@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:27:23.720Z",
+  "generatedAt": "2026-11-17T15:20:15.630Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -2560,7 +2560,7 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 1,
           "losses": 3,
           "leaguePoints": 32,
@@ -2601,9 +2601,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "box-champ",
-          "resultLabel": "🥇 Box Champ",
-          "resultClass": "result-box-champ"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -3840,8 +3840,8 @@
       "name": "Anthony Boobbyer",
       "totalRounds": 9,
       "totalWins": 21,
-      "totalLosses": 28,
-      "winRate": 0.429,
+      "totalLosses": 29,
+      "winRate": 0.42,
       "promotions": 2,
       "relegations": 0,
       "stayed": 6,
@@ -3884,8 +3884,8 @@
           "pointsAgainst": 38
         }
       ],
-      "tennisPointsFor": 341,
-      "tennisPointsAgainst": 394,
+      "tennisPointsFor": 346,
+      "tennisPointsAgainst": 404,
       "timeline": [
         {
           "eventId": 1,
@@ -4468,10 +4468,18 @@
           "withdrawn": false,
           "position": 5,
           "wins": 0,
-          "losses": 2,
-          "leaguePoints": 7,
+          "losses": 3,
+          "leaguePoints": 12,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 10,
+              "opponentName": "Nicholas Suggit",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 142,
               "opponentName": "Daniel Baulch",
@@ -5097,7 +5105,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 2,
           "losses": 1,
           "leaguePoints": 20,
@@ -11133,9 +11141,9 @@
       "playerId": 18,
       "name": "Daniel Ratinon",
       "totalRounds": 15,
-      "totalWins": 12,
+      "totalWins": 13,
       "totalLosses": 22,
-      "winRate": 0.353,
+      "winRate": 0.371,
       "promotions": 4,
       "relegations": 4,
       "stayed": 6,
@@ -11178,8 +11186,8 @@
           "pointsAgainst": 35
         }
       ],
-      "tennisPointsFor": 217,
-      "tennisPointsAgainst": 294,
+      "tennisPointsFor": 228,
+      "tennisPointsAgainst": 298,
       "timeline": [
         {
           "eventId": 1,
@@ -11773,12 +11781,20 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 6,
-          "wins": 0,
+          "position": 3,
+          "wins": 1,
           "losses": 3,
-          "leaguePoints": 12,
+          "leaguePoints": 23,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 108,
+              "opponentName": "Stephen Power",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 30,
               "opponentName": "Peter Walsh",
@@ -13858,11 +13874,11 @@
       "stayed": 11,
       "bestPosition": {
         "groupNumber": 1,
-        "position": 1,
-        "roundId": 33,
-        "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
-        "roundStart": "8 Sep",
-        "roundEnd": "6 Dec",
+        "position": 2,
+        "roundId": 26,
+        "roundLabel": "Ice Ice Aces 2025/26 | CLTC - Box Leagues",
+        "roundStart": "6 Nov 2025",
+        "roundEnd": "1 Mar",
         "eventId": 4,
         "eventName": "CLTC Women's Box League"
       },
@@ -14821,7 +14837,7 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 1,
+          "position": 2,
           "wins": 3,
           "losses": 0,
           "leaguePoints": 42,
@@ -14846,9 +14862,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
-          "resultCode": "league-champion",
-          "resultLabel": "🏆 League Champion",
-          "resultClass": "result-overall-champion"
+          "resultCode": "none",
+          "resultLabel": "-",
+          "resultClass": "result-none"
         }
       ]
     },
@@ -26584,7 +26600,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 5,
+          "position": 6,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 13,
@@ -26612,9 +26628,9 @@
       "playerId": 84,
       "name": "Melanie Burt",
       "totalRounds": 9,
-      "totalWins": 23,
+      "totalWins": 24,
       "totalLosses": 14,
-      "winRate": 0.622,
+      "winRate": 0.632,
       "promotions": 0,
       "relegations": 0,
       "stayed": 7,
@@ -26657,8 +26673,8 @@
           "pointsAgainst": 39
         }
       ],
-      "tennisPointsFor": 313,
-      "tennisPointsAgainst": 224,
+      "tennisPointsFor": 327,
+      "tennisPointsAgainst": 225,
       "timeline": [
         {
           "eventId": 1,
@@ -27118,12 +27134,20 @@
           "groupNumber": 1,
           "groupSize": 6,
           "withdrawn": false,
-          "position": 2,
-          "wins": 3,
+          "position": 1,
+          "wins": 4,
           "losses": 0,
-          "leaguePoints": 38,
+          "leaguePoints": 52,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 87,
+              "opponentName": "Sarah Iuliano",
+              "outcome": "win",
+              "pointsFor": 14,
+              "pointsAgainst": 1,
+              "scoreText": "14-1"
+            },
             {
               "opponentId": 97,
               "opponentName": "Ruth Short",
@@ -27143,9 +27167,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/4/round/33",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "league-champion",
+          "resultLabel": "🏆 League Champion",
+          "resultClass": "result-overall-champion"
         }
       ]
     },
@@ -29291,9 +29315,9 @@
       "playerId": 10,
       "name": "Nicholas Suggit",
       "totalRounds": 14,
-      "totalWins": 30,
+      "totalWins": 31,
       "totalLosses": 29,
-      "winRate": 0.508,
+      "winRate": 0.517,
       "promotions": 2,
       "relegations": 2,
       "stayed": 9,
@@ -29336,8 +29360,8 @@
           "pointsAgainst": 32
         }
       ],
-      "tennisPointsFor": 448,
-      "tennisPointsAgainst": 425,
+      "tennisPointsFor": 458,
+      "tennisPointsAgainst": 430,
       "timeline": [
         {
           "eventId": 1,
@@ -30100,12 +30124,20 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 2,
-          "wins": 3,
+          "position": 1,
+          "wins": 4,
           "losses": 0,
-          "leaguePoints": 31,
+          "leaguePoints": 41,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 20,
               "opponentName": "Alasdair McCall",
@@ -30133,9 +30165,9 @@
           ],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "box-champ",
+          "resultLabel": "🥇 Box Champ",
+          "resultClass": "result-box-champ"
         }
       ]
     },
@@ -34633,7 +34665,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 4,
+          "position": 5,
           "wins": 1,
           "losses": 2,
           "leaguePoints": 19,
@@ -37196,8 +37228,8 @@
       "name": "Sarah Iuliano",
       "totalRounds": 7,
       "totalWins": 20,
-      "totalLosses": 15,
-      "winRate": 0.571,
+      "totalLosses": 16,
+      "winRate": 0.556,
       "promotions": 1,
       "relegations": 0,
       "stayed": 5,
@@ -37231,17 +37263,17 @@
           "pointsAgainst": 28
         },
         {
-          "opponentId": 77,
-          "opponentName": "Wendy Bignold",
+          "opponentId": 84,
+          "opponentName": "Melanie Burt",
           "played": 4,
-          "wins": 0,
-          "losses": 4,
-          "pointsFor": 7,
-          "pointsAgainst": 53
+          "wins": 1,
+          "losses": 3,
+          "pointsFor": 20,
+          "pointsAgainst": 40
         }
       ],
-      "tennisPointsFor": 291,
-      "tennisPointsAgainst": 210,
+      "tennisPointsFor": 292,
+      "tennisPointsAgainst": 224,
       "timeline": [
         {
           "eventId": 4,
@@ -37632,10 +37664,18 @@
           "withdrawn": false,
           "position": 4,
           "wins": 2,
-          "losses": 0,
-          "leaguePoints": 28,
+          "losses": 1,
+          "leaguePoints": 29,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 1,
+              "pointsAgainst": 14,
+              "scoreText": "1-14"
+            },
             {
               "opponentId": 97,
               "opponentName": "Ruth Short",
@@ -38438,8 +38478,8 @@
       "name": "Stephen Power",
       "totalRounds": 5,
       "totalWins": 4,
-      "totalLosses": 16,
-      "winRate": 0.2,
+      "totalLosses": 17,
+      "winRate": 0.19,
       "promotions": 2,
       "relegations": 1,
       "stayed": 1,
@@ -38473,8 +38513,8 @@
           "pointsAgainst": 17
         },
         {
-          "opponentId": 30,
-          "opponentName": "Peter Walsh",
+          "opponentId": 18,
+          "opponentName": "Daniel Ratinon",
           "played": 2,
           "wins": 0,
           "losses": 2,
@@ -38482,8 +38522,8 @@
           "pointsAgainst": 23
         }
       ],
-      "tennisPointsFor": 96,
-      "tennisPointsAgainst": 204,
+      "tennisPointsFor": 100,
+      "tennisPointsAgainst": 215,
       "timeline": [
         {
           "eventId": 1,
@@ -38728,12 +38768,20 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 8,
+          "position": 7,
           "wins": 0,
-          "losses": 3,
-          "leaguePoints": 8,
+          "losses": 4,
+          "leaguePoints": 12,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 18,
+              "opponentName": "Daniel Ratinon",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 75,
               "opponentName": "Doreen Lam",
@@ -41436,7 +41484,7 @@
           "groupNumber": 4,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 7,
+          "position": 8,
           "wins": 1,
           "losses": 0,
           "leaguePoints": 8,
