@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-11-18T14:56:38.160Z"
+    "fetchedAt": "2026-11-19T15:01:11.705Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-11-18T14:56:19.064Z"
+    "fetchedAt": "2026-11-19T15:00:53.244Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-11-18T14:55:49.233Z"
+    "fetchedAt": "2026-11-19T15:00:31.143Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-11-18T14:55:22.135Z"
+    "fetchedAt": "2026-11-19T15:00:08.032Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-18T14:54:53.613Z"
+    "fetchedAt": "2026-11-19T14:59:44.685Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-18T14:54:23.565Z"
+    "fetchedAt": "2026-11-19T14:59:20.719Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-18T14:53:52.796Z"
+    "fetchedAt": "2026-11-19T14:58:56.165Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-18T14:53:22.327Z"
+    "fetchedAt": "2026-11-19T14:58:32.339Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-11-18T14:52:48.976Z"
+    "fetchedAt": "2026-11-19T14:58:07.623Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-18T14:52:14.716Z"
+    "fetchedAt": "2026-11-19T14:57:41.303Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-18T14:51:41.301Z"
+    "fetchedAt": "2026-11-19T14:57:12.730Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-18T14:51:06.234Z"
+    "fetchedAt": "2026-11-19T14:56:46.739Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-18T14:50:32.442Z"
+    "fetchedAt": "2026-11-19T14:56:19.631Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-18T14:49:56.446Z"
+    "fetchedAt": "2026-11-19T14:55:51.879Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-11-18T14:49:55.869Z"
+    "fetchedAt": "2026-11-19T14:55:51.411Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-11-18T14:49:16.365Z"
+    "fetchedAt": "2026-11-19T14:55:20.705Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-11-18T14:48:41.112Z"
+    "fetchedAt": "2026-11-19T14:54:50.894Z"
   },
   {
     "eventId": 1,
@@ -29089,10 +29089,61 @@
         ]
       },
       {
+        "name": "Peter Walsh",
+        "playerId": 30,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/30/event/1/round/32",
+        "position": 3,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 4,
+        "wins": 2,
+        "losses": 2,
+        "points": 28,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 108,
+            "opponentName": "Stephen Power",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": 6,
+            "scoreText": "9-6"
+          },
+          {
+            "opponentId": 18,
+            "opponentName": "Daniel Ratinon",
+            "outcome": "win",
+            "pointsFor": 10,
+            "pointsAgainst": 5,
+            "scoreText": "10-5"
+          },
+          {
+            "opponentId": 76,
+            "opponentName": "Wesley Taupin",
+            "outcome": "loss",
+            "pointsFor": 2,
+            "pointsAgainst": 13,
+            "scoreText": "2-13"
+          },
+          {
+            "opponentId": 66,
+            "opponentName": "Arshad Munir",
+            "outcome": "loss",
+            "pointsFor": 7,
+            "pointsAgainst": 8,
+            "scoreText": "7-8"
+          }
+        ]
+      },
+      {
         "name": "Daniel Ratinon",
         "playerId": 18,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/18/event/1/round/32",
-        "position": 3,
+        "position": 4,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
@@ -29143,7 +29194,7 @@
         "name": "Arshad Munir",
         "playerId": 66,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/66/event/1/round/32",
-        "position": 4,
+        "position": 5,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
@@ -29183,92 +29234,30 @@
         ]
       },
       {
-        "name": "Peter Walsh",
-        "playerId": 30,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/30/event/1/round/32",
-        "position": 5,
-        "groupName": "Group 4",
-        "groupNumber": 4,
-        "withdrawn": false,
-        "played": 3,
-        "wins": 1,
-        "losses": 2,
-        "points": 19,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 18,
-            "opponentName": "Daniel Ratinon",
-            "outcome": "win",
-            "pointsFor": 10,
-            "pointsAgainst": 5,
-            "scoreText": "10-5"
-          },
-          {
-            "opponentId": 76,
-            "opponentName": "Wesley Taupin",
-            "outcome": "loss",
-            "pointsFor": 2,
-            "pointsAgainst": 13,
-            "scoreText": "2-13"
-          },
-          {
-            "opponentId": 66,
-            "opponentName": "Arshad Munir",
-            "outcome": "loss",
-            "pointsFor": 7,
-            "pointsAgainst": 8,
-            "scoreText": "7-8"
-          }
-        ]
-      },
-      {
-        "name": "Matthew Takeuchi",
-        "playerId": 41,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/41/event/1/round/32",
+        "name": "Stephen Power",
+        "playerId": 108,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/108/event/1/round/32",
         "position": 6,
         "groupName": "Group 4",
         "groupNumber": 4,
         "withdrawn": false,
-        "played": 1,
-        "wins": 1,
-        "losses": 0,
-        "points": 13,
-        "pointsAgainst": null,
-        "markers": [
-          "win"
-        ],
-        "matchups": [
-          {
-            "opponentId": 75,
-            "opponentName": "Doreen Lam",
-            "outcome": "win",
-            "pointsFor": 13,
-            "pointsAgainst": 2,
-            "scoreText": "13-2"
-          }
-        ]
-      },
-      {
-        "name": "Stephen Power",
-        "playerId": 108,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/108/event/1/round/32",
-        "position": 7,
-        "groupName": "Group 4",
-        "groupNumber": 4,
-        "withdrawn": false,
-        "played": 4,
+        "played": 5,
         "wins": 0,
-        "losses": 4,
-        "points": 12,
+        "losses": 5,
+        "points": 18,
         "pointsAgainst": null,
         "markers": [
           "loss"
         ],
         "matchups": [
+          {
+            "opponentId": 30,
+            "opponentName": "Peter Walsh",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
+          },
           {
             "opponentId": 18,
             "opponentName": "Daniel Ratinon",
@@ -29300,6 +29289,33 @@
             "pointsFor": 5,
             "pointsAgainst": 10,
             "scoreText": "5-10"
+          }
+        ]
+      },
+      {
+        "name": "Matthew Takeuchi",
+        "playerId": 41,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/41/event/1/round/32",
+        "position": 7,
+        "groupName": "Group 4",
+        "groupNumber": 4,
+        "withdrawn": false,
+        "played": 1,
+        "wins": 1,
+        "losses": 0,
+        "points": 13,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 75,
+            "opponentName": "Doreen Lam",
+            "outcome": "win",
+            "pointsFor": 13,
+            "pointsAgainst": 2,
+            "scoreText": "13-2"
           }
         ]
       },
@@ -29347,10 +29363,45 @@
         "matchups": []
       },
       {
+        "name": "Sathisha Poojary",
+        "playerId": 138,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/138/event/1/round/32",
+        "position": 1,
+        "groupName": "Group 5",
+        "groupNumber": 5,
+        "withdrawn": false,
+        "played": 2,
+        "wins": 2,
+        "losses": 0,
+        "points": 20,
+        "pointsAgainst": null,
+        "markers": [
+          "win"
+        ],
+        "matchups": [
+          {
+            "opponentId": 80,
+            "opponentName": "Adrian Wingate",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": 6,
+            "scoreText": "9-6"
+          },
+          {
+            "opponentId": 106,
+            "opponentName": "Clarice Williamson",
+            "outcome": "win",
+            "pointsFor": 11,
+            "pointsAgainst": 4,
+            "scoreText": "11-4"
+          }
+        ]
+      },
+      {
         "name": "Rashed Karim",
         "playerId": 104,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/104/event/1/round/32",
-        "position": 1,
+        "position": 2,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
@@ -29374,29 +29425,29 @@
         ]
       },
       {
-        "name": "Sathisha Poojary",
-        "playerId": 138,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/138/event/1/round/32",
-        "position": 2,
+        "name": "Adrian Wingate",
+        "playerId": 80,
+        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/80/event/1/round/32",
+        "position": 3,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
         "played": 1,
-        "wins": 1,
-        "losses": 0,
-        "points": 11,
+        "wins": 0,
+        "losses": 1,
+        "points": 6,
         "pointsAgainst": null,
         "markers": [
-          "win"
+          "loss"
         ],
         "matchups": [
           {
-            "opponentId": 106,
-            "opponentName": "Clarice Williamson",
-            "outcome": "win",
-            "pointsFor": 11,
-            "pointsAgainst": 4,
-            "scoreText": "11-4"
+            "opponentId": 138,
+            "opponentName": "Sathisha Poojary",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
           }
         ]
       },
@@ -29404,7 +29455,7 @@
         "name": "Clarice Williamson",
         "playerId": 106,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/106/event/1/round/32",
-        "position": 3,
+        "position": 4,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
@@ -29431,7 +29482,7 @@
         "name": "Parsa Dahesh",
         "playerId": 167,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/167/event/1/round/32",
-        "position": 4,
+        "position": 5,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
@@ -29458,7 +29509,7 @@
         "name": "peter orourke",
         "playerId": 135,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/135/event/1/round/32",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
@@ -29474,23 +29525,7 @@
         "name": "Ian Thorley",
         "playerId": 139,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/139/event/1/round/32",
-        "position": 5,
-        "groupName": "Group 5",
-        "groupNumber": 5,
-        "withdrawn": false,
-        "played": 0,
-        "wins": 0,
-        "losses": 0,
-        "points": 0,
-        "pointsAgainst": null,
-        "markers": [],
-        "matchups": []
-      },
-      {
-        "name": "Adrian Wingate",
-        "playerId": 80,
-        "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/80/event/1/round/32",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
@@ -29506,7 +29541,7 @@
         "name": "David Bales",
         "playerId": 16,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/16/event/1/round/32",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
@@ -29522,7 +29557,7 @@
         "name": "Celeste Narywonczyk",
         "playerId": 71,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/71/event/1/round/32",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": false,
@@ -29538,7 +29573,7 @@
         "name": "Parsa Baharlou",
         "playerId": 157,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/157/event/1/round/32",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": true,
@@ -29554,7 +29589,7 @@
         "name": "Bharat Sreenivas Venkatesh",
         "playerId": 26,
         "playerUrlPath": "/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/player/26/event/1/round/32",
-        "position": 5,
+        "position": 6,
         "groupName": "Group 5",
         "groupNumber": 5,
         "withdrawn": true,
@@ -29568,7 +29603,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-11-18T14:48:05.696Z"
+    "fetchedAt": "2026-11-19T14:54:22.743Z"
   },
   {
     "eventId": 4,
@@ -30437,7 +30472,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-18T14:58:37.556Z"
+    "fetchedAt": "2026-11-19T15:02:47.831Z"
   },
   {
     "eventId": 4,
@@ -30775,7 +30810,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-18T14:58:22.803Z"
+    "fetchedAt": "2026-11-19T15:02:35.100Z"
   },
   {
     "eventId": 4,
@@ -31735,7 +31770,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-11-18T14:58:06.853Z"
+    "fetchedAt": "2026-11-19T15:02:20.795Z"
   },
   {
     "eventId": 4,
@@ -31748,7 +31783,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-18T14:57:48.883Z"
+    "fetchedAt": "2026-11-19T15:02:08.379Z"
   },
   {
     "eventId": 4,
@@ -32643,7 +32678,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-11-18T14:57:48.311Z"
+    "fetchedAt": "2026-11-19T15:02:07.907Z"
   },
   {
     "eventId": 4,
@@ -32656,7 +32691,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-18T14:57:33.939Z"
+    "fetchedAt": "2026-11-19T15:01:54.579Z"
   },
   {
     "eventId": 4,
@@ -32669,7 +32704,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-18T14:57:33.358Z"
+    "fetchedAt": "2026-11-19T15:01:54.112Z"
   },
   {
     "eventId": 4,
@@ -33611,7 +33646,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-11-18T14:57:32.796Z"
+    "fetchedAt": "2026-11-19T15:01:53.647Z"
   },
   {
     "eventId": 4,
@@ -34430,7 +34465,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-18T14:57:19.803Z"
+    "fetchedAt": "2026-11-19T15:01:42.544Z"
   },
   {
     "eventId": 4,
@@ -35201,7 +35236,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-18T14:57:04.910Z"
+    "fetchedAt": "2026-11-19T15:01:33.063Z"
   },
   {
     "eventId": 4,
@@ -35664,6 +35699,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-11-18T14:56:53.588Z"
+    "fetchedAt": "2026-11-19T15:01:23.090Z"
   }
 ]
