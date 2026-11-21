@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:47:16.283Z",
+  "generatedAt": "2026-11-21T14:05:32.721Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -13876,8 +13876,8 @@
       "name": "Doreen Lam",
       "totalRounds": 15,
       "totalWins": 43,
-      "totalLosses": 35,
-      "winRate": 0.551,
+      "totalLosses": 36,
+      "winRate": 0.544,
       "promotions": 2,
       "relegations": 0,
       "stayed": 11,
@@ -13902,6 +13902,15 @@
           "pointsAgainst": 76
         },
         {
+          "opponentId": 84,
+          "opponentName": "Melanie Burt",
+          "played": 6,
+          "wins": 3,
+          "losses": 3,
+          "pointsFor": 45,
+          "pointsAgainst": 45
+        },
+        {
           "opponentId": 18,
           "opponentName": "Daniel Ratinon",
           "played": 5,
@@ -13909,19 +13918,10 @@
           "losses": 1,
           "pointsFor": 46,
           "pointsAgainst": 29
-        },
-        {
-          "opponentId": 85,
-          "opponentName": "Liz Bowran",
-          "played": 5,
-          "wins": 4,
-          "losses": 1,
-          "pointsFor": 55,
-          "pointsAgainst": 20
         }
       ],
-      "tennisPointsFor": 626,
-      "tennisPointsAgainst": 534,
+      "tennisPointsFor": 630,
+      "tennisPointsAgainst": 545,
       "timeline": [
         {
           "eventId": 1,
@@ -14848,10 +14848,18 @@
           "withdrawn": false,
           "position": 2,
           "wins": 3,
-          "losses": 0,
-          "leaguePoints": 42,
+          "losses": 1,
+          "leaguePoints": 46,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 84,
+              "opponentName": "Melanie Burt",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 97,
               "opponentName": "Ruth Short",
@@ -26637,9 +26645,9 @@
       "playerId": 84,
       "name": "Melanie Burt",
       "totalRounds": 9,
-      "totalWins": 24,
+      "totalWins": 25,
       "totalLosses": 14,
-      "winRate": 0.632,
+      "winRate": 0.641,
       "promotions": 0,
       "relegations": 0,
       "stayed": 7,
@@ -26664,6 +26672,15 @@
           "pointsAgainst": 63
         },
         {
+          "opponentId": 75,
+          "opponentName": "Doreen Lam",
+          "played": 6,
+          "wins": 3,
+          "losses": 3,
+          "pointsFor": 45,
+          "pointsAgainst": 45
+        },
+        {
           "opponentId": 85,
           "opponentName": "Liz Bowran",
           "played": 5,
@@ -26671,19 +26688,10 @@
           "losses": 0,
           "pointsFor": 59,
           "pointsAgainst": 16
-        },
-        {
-          "opponentId": 83,
-          "opponentName": "Carol Hunt",
-          "played": 5,
-          "wins": 3,
-          "losses": 2,
-          "pointsFor": 36,
-          "pointsAgainst": 39
         }
       ],
-      "tennisPointsFor": 327,
-      "tennisPointsAgainst": 225,
+      "tennisPointsFor": 338,
+      "tennisPointsAgainst": 229,
       "timeline": [
         {
           "eventId": 1,
@@ -27144,11 +27152,19 @@
           "groupSize": 6,
           "withdrawn": false,
           "position": 1,
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
-          "leaguePoints": 52,
+          "leaguePoints": 63,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 75,
+              "opponentName": "Doreen Lam",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 87,
               "opponentName": "Sarah Iuliano",
