@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:59:50.559Z",
+  "generatedAt": "2026-11-23T17:00:02.260Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -27378,15 +27378,15 @@
       "playerId": 64,
       "name": "Melwyn Furtado",
       "totalRounds": 11,
-      "totalWins": 20,
+      "totalWins": 21,
       "totalLosses": 38,
-      "winRate": 0.345,
+      "winRate": 0.356,
       "promotions": 3,
       "relegations": 0,
       "stayed": 7,
       "bestPosition": {
         "groupNumber": 2,
-        "position": 4,
+        "position": 3,
         "roundId": 32,
         "roundLabel": "Autumn 2026 - All The Leaves Are Brown | CLTC - Box Leagues",
         "roundStart": "8 Sep",
@@ -27423,8 +27423,8 @@
           "pointsAgainst": 29
         }
       ],
-      "tennisPointsFor": 379,
-      "tennisPointsAgainst": 491,
+      "tennisPointsFor": 389,
+      "tennisPointsAgainst": 496,
       "timeline": [
         {
           "eventId": 1,
@@ -28125,12 +28125,20 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 4,
-          "wins": 0,
+          "position": 3,
+          "wins": 1,
           "losses": 2,
-          "leaguePoints": 10,
+          "leaguePoints": 20,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 38,
+              "opponentName": "Sophie Boobbyer",
+              "outcome": "win",
+              "pointsFor": 10,
+              "pointsAgainst": 5,
+              "scoreText": "10-5"
+            },
             {
               "opponentId": 77,
               "opponentName": "Wendy Bignold",
@@ -36436,7 +36444,7 @@
           "groupName": "Group 3",
           "groupNumber": 3,
           "groupSize": 9,
-          "withdrawn": false,
+          "withdrawn": true,
           "position": 6,
           "wins": 0,
           "losses": 0,
@@ -36445,9 +36453,9 @@
           "matchups": [],
           "sourceUrl": "https://competitions.lta.org.uk/box-ladder/cd5ce09a-bde8-474b-8db2-2592e508fc22/event/1/round/32",
           "transition": null,
-          "resultCode": "none",
-          "resultLabel": "-",
-          "resultClass": "result-none"
+          "resultCode": "withdrawn",
+          "resultLabel": "🚫 Withdrawn",
+          "resultClass": "result-withdrawn"
         }
       ]
     },
@@ -37955,8 +37963,8 @@
       "name": "Sophie Boobbyer",
       "totalRounds": 9,
       "totalWins": 19,
-      "totalLosses": 7,
-      "winRate": 0.731,
+      "totalLosses": 8,
+      "winRate": 0.704,
       "promotions": 4,
       "relegations": 1,
       "stayed": 2,
@@ -37981,6 +37989,15 @@
           "pointsAgainst": 16
         },
         {
+          "opponentId": 64,
+          "opponentName": "Melwyn Furtado",
+          "played": 3,
+          "wins": 2,
+          "losses": 1,
+          "pointsFor": 24,
+          "pointsAgainst": 21
+        },
+        {
           "opponentId": 17,
           "opponentName": "Harry Ikin",
           "played": 3,
@@ -37988,19 +38005,10 @@
           "losses": 3,
           "pointsFor": 17,
           "pointsAgainst": 28
-        },
-        {
-          "opponentId": 66,
-          "opponentName": "Arshad Munir",
-          "played": 2,
-          "wins": 2,
-          "losses": 0,
-          "pointsFor": 22,
-          "pointsAgainst": 8
         }
       ],
-      "tennisPointsFor": 220,
-      "tennisPointsAgainst": 170,
+      "tennisPointsFor": 225,
+      "tennisPointsAgainst": 180,
       "timeline": [
         {
           "eventId": 1,
@@ -38389,10 +38397,18 @@
           "withdrawn": false,
           "position": 2,
           "wins": 2,
-          "losses": 1,
-          "leaguePoints": 22,
+          "losses": 2,
+          "leaguePoints": 27,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 64,
+              "opponentName": "Melwyn Furtado",
+              "outcome": "loss",
+              "pointsFor": 5,
+              "pointsAgainst": 10,
+              "scoreText": "5-10"
+            },
             {
               "opponentId": 110,
               "opponentName": "Adam Farrer",
@@ -42228,7 +42244,7 @@
           "groupNumber": 2,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 3,
+          "position": 4,
           "wins": 1,
           "losses": 1,
           "leaguePoints": 12,
