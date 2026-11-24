@@ -1325,7 +1325,7 @@
       }
     ],
     "playerCount": 27,
-    "fetchedAt": "2026-11-23T16:57:56.044Z"
+    "fetchedAt": "2026-11-24T16:50:23.642Z"
   },
   {
     "eventId": 1,
@@ -3072,7 +3072,7 @@
       }
     ],
     "playerCount": 34,
-    "fetchedAt": "2026-11-23T16:57:32.144Z"
+    "fetchedAt": "2026-11-24T16:50:02.312Z"
   },
   {
     "eventId": 1,
@@ -4188,7 +4188,7 @@
       }
     ],
     "playerCount": 35,
-    "fetchedAt": "2026-11-23T16:57:09.460Z"
+    "fetchedAt": "2026-11-24T16:49:38.363Z"
   },
   {
     "eventId": 1,
@@ -5394,7 +5394,7 @@
       }
     ],
     "playerCount": 37,
-    "fetchedAt": "2026-11-23T16:56:37.617Z"
+    "fetchedAt": "2026-11-24T16:49:14.832Z"
   },
   {
     "eventId": 1,
@@ -6855,7 +6855,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-23T16:56:07.411Z"
+    "fetchedAt": "2026-11-24T16:48:47.921Z"
   },
   {
     "eventId": 1,
@@ -7515,7 +7515,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-23T16:55:37.352Z"
+    "fetchedAt": "2026-11-24T16:48:21.213Z"
   },
   {
     "eventId": 1,
@@ -9247,7 +9247,7 @@
       }
     ],
     "playerCount": 39,
-    "fetchedAt": "2026-11-23T16:55:07.532Z"
+    "fetchedAt": "2026-11-24T16:47:54.199Z"
   },
   {
     "eventId": 1,
@@ -11215,7 +11215,7 @@
       }
     ],
     "playerCount": 40,
-    "fetchedAt": "2026-11-23T16:54:35.150Z"
+    "fetchedAt": "2026-11-24T16:47:26.238Z"
   },
   {
     "eventId": 1,
@@ -13304,7 +13304,7 @@
       }
     ],
     "playerCount": 44,
-    "fetchedAt": "2026-11-23T16:54:00.143Z"
+    "fetchedAt": "2026-11-24T16:46:58.213Z"
   },
   {
     "eventId": 1,
@@ -15301,7 +15301,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-23T16:53:21.554Z"
+    "fetchedAt": "2026-11-24T16:46:27.659Z"
   },
   {
     "eventId": 1,
@@ -15993,7 +15993,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-23T16:52:42.766Z"
+    "fetchedAt": "2026-11-24T16:45:56.877Z"
   },
   {
     "eventId": 1,
@@ -18268,7 +18268,7 @@
       }
     ],
     "playerCount": 42,
-    "fetchedAt": "2026-11-23T16:52:06.970Z"
+    "fetchedAt": "2026-11-24T16:45:27.297Z"
   },
   {
     "eventId": 1,
@@ -20834,7 +20834,7 @@
       }
     ],
     "playerCount": 45,
-    "fetchedAt": "2026-11-23T16:51:38.113Z"
+    "fetchedAt": "2026-11-24T16:44:55.750Z"
   },
   {
     "eventId": 1,
@@ -20847,7 +20847,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-23T16:51:03.142Z"
+    "fetchedAt": "2026-11-24T16:44:24.661Z"
   },
   {
     "eventId": 1,
@@ -23511,7 +23511,7 @@
       }
     ],
     "playerCount": 50,
-    "fetchedAt": "2026-11-23T16:51:02.601Z"
+    "fetchedAt": "2026-11-24T16:44:24.093Z"
   },
   {
     "eventId": 1,
@@ -25664,7 +25664,7 @@
       }
     ],
     "playerCount": 47,
-    "fetchedAt": "2026-11-23T16:50:18.539Z"
+    "fetchedAt": "2026-11-24T16:43:48.630Z"
   },
   {
     "eventId": 1,
@@ -28015,7 +28015,7 @@
       }
     ],
     "playerCount": 46,
-    "fetchedAt": "2026-11-23T16:49:39.268Z"
+    "fetchedAt": "2026-11-24T16:43:15.190Z"
   },
   {
     "eventId": 1,
@@ -28532,15 +28532,23 @@
         "groupName": "Group 2",
         "groupNumber": 2,
         "withdrawn": false,
-        "played": 4,
-        "wins": 2,
+        "played": 5,
+        "wins": 3,
         "losses": 2,
-        "points": 27,
+        "points": 36,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 77,
+            "opponentName": "Wendy Bignold",
+            "outcome": "win",
+            "pointsFor": 9,
+            "pointsAgainst": 6,
+            "scoreText": "9-6"
+          },
           {
             "opponentId": 64,
             "opponentName": "Melwyn Furtado",
@@ -28626,15 +28634,23 @@
         "groupName": "Group 2",
         "groupNumber": 2,
         "withdrawn": false,
-        "played": 2,
+        "played": 3,
         "wins": 1,
-        "losses": 1,
-        "points": 12,
+        "losses": 2,
+        "points": 18,
         "pointsAgainst": null,
         "markers": [
           "win"
         ],
         "matchups": [
+          {
+            "opponentId": 38,
+            "opponentName": "Sophie Boobbyer",
+            "outcome": "loss",
+            "pointsFor": 6,
+            "pointsAgainst": 9,
+            "scoreText": "6-9"
+          },
           {
             "opponentId": 64,
             "opponentName": "Melwyn Furtado",
@@ -29686,7 +29702,7 @@
       }
     ],
     "playerCount": 48,
-    "fetchedAt": "2026-11-23T16:49:05.240Z"
+    "fetchedAt": "2026-11-24T16:42:42.130Z"
   },
   {
     "eventId": 4,
@@ -30555,7 +30571,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-23T17:00:01.994Z"
+    "fetchedAt": "2026-11-24T16:52:11.113Z"
   },
   {
     "eventId": 4,
@@ -30893,7 +30909,7 @@
       }
     ],
     "playerCount": 20,
-    "fetchedAt": "2026-11-23T16:59:44.388Z"
+    "fetchedAt": "2026-11-24T16:51:57.649Z"
   },
   {
     "eventId": 4,
@@ -31853,7 +31869,7 @@
       }
     ],
     "playerCount": 21,
-    "fetchedAt": "2026-11-23T16:59:29.797Z"
+    "fetchedAt": "2026-11-24T16:51:42.570Z"
   },
   {
     "eventId": 4,
@@ -31866,7 +31882,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-23T16:59:11.794Z"
+    "fetchedAt": "2026-11-24T16:51:28.128Z"
   },
   {
     "eventId": 4,
@@ -32761,7 +32777,7 @@
       }
     ],
     "playerCount": 19,
-    "fetchedAt": "2026-11-23T16:59:11.250Z"
+    "fetchedAt": "2026-11-24T16:51:27.558Z"
   },
   {
     "eventId": 4,
@@ -32774,7 +32790,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-23T16:58:53.495Z"
+    "fetchedAt": "2026-11-24T16:51:13.764Z"
   },
   {
     "eventId": 4,
@@ -32787,7 +32803,7 @@
     "groupContentUrls": [],
     "players": [],
     "playerCount": 0,
-    "fetchedAt": "2026-11-23T16:58:52.958Z"
+    "fetchedAt": "2026-11-24T16:51:13.208Z"
   },
   {
     "eventId": 4,
@@ -33729,7 +33745,7 @@
       }
     ],
     "playerCount": 17,
-    "fetchedAt": "2026-11-23T16:58:52.385Z"
+    "fetchedAt": "2026-11-24T16:51:12.650Z"
   },
   {
     "eventId": 4,
@@ -34548,7 +34564,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-23T16:58:36.131Z"
+    "fetchedAt": "2026-11-24T16:50:58.582Z"
   },
   {
     "eventId": 4,
@@ -35319,7 +35335,7 @@
       }
     ],
     "playerCount": 15,
-    "fetchedAt": "2026-11-23T16:58:25.525Z"
+    "fetchedAt": "2026-11-24T16:50:48.443Z"
   },
   {
     "eventId": 4,
@@ -35798,6 +35814,6 @@
       }
     ],
     "playerCount": 12,
-    "fetchedAt": "2026-11-23T16:58:11.406Z"
+    "fetchedAt": "2026-11-24T16:50:38.029Z"
   }
 ]

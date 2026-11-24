@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T17:00:02.260Z",
+  "generatedAt": "2026-11-24T16:52:11.381Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -37962,9 +37962,9 @@
       "playerId": 38,
       "name": "Sophie Boobbyer",
       "totalRounds": 9,
-      "totalWins": 19,
+      "totalWins": 20,
       "totalLosses": 8,
-      "winRate": 0.704,
+      "winRate": 0.714,
       "promotions": 4,
       "relegations": 1,
       "stayed": 2,
@@ -38007,8 +38007,8 @@
           "pointsAgainst": 28
         }
       ],
-      "tennisPointsFor": 225,
-      "tennisPointsAgainst": 180,
+      "tennisPointsFor": 234,
+      "tennisPointsAgainst": 186,
       "timeline": [
         {
           "eventId": 1,
@@ -38396,11 +38396,19 @@
           "groupSize": 9,
           "withdrawn": false,
           "position": 2,
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
-          "leaguePoints": 27,
+          "leaguePoints": 36,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 77,
+              "opponentName": "Wendy Bignold",
+              "outcome": "win",
+              "pointsFor": 9,
+              "pointsAgainst": 6,
+              "scoreText": "9-6"
+            },
             {
               "opponentId": 64,
               "opponentName": "Melwyn Furtado",
@@ -41626,8 +41634,8 @@
       "name": "Wendy Bignold",
       "totalRounds": 14,
       "totalWins": 51,
-      "totalLosses": 32,
-      "winRate": 0.614,
+      "totalLosses": 33,
+      "winRate": 0.607,
       "promotions": 3,
       "relegations": 0,
       "stayed": 9,
@@ -41670,8 +41678,8 @@
           "pointsAgainst": 8
         }
       ],
-      "tennisPointsFor": 715,
-      "tennisPointsAgainst": 527,
+      "tennisPointsFor": 721,
+      "tennisPointsAgainst": 536,
       "timeline": [
         {
           "eventId": 1,
@@ -42246,10 +42254,18 @@
           "withdrawn": false,
           "position": 4,
           "wins": 1,
-          "losses": 1,
-          "leaguePoints": 12,
+          "losses": 2,
+          "leaguePoints": 18,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 38,
+              "opponentName": "Sophie Boobbyer",
+              "outcome": "loss",
+              "pointsFor": 6,
+              "pointsAgainst": 9,
+              "scoreText": "6-9"
+            },
             {
               "opponentId": 64,
               "opponentName": "Melwyn Furtado",
