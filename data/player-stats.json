@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:10:46.594Z",
+  "generatedAt": "2026-11-27T16:01:10.120Z",
   "includedRoundCount": 22,
   "excludedRoundCount": 7,
   "excludedRounds": [
@@ -3849,8 +3849,8 @@
       "name": "Anthony Boobbyer",
       "totalRounds": 9,
       "totalWins": 21,
-      "totalLosses": 29,
-      "winRate": 0.42,
+      "totalLosses": 30,
+      "winRate": 0.412,
       "promotions": 2,
       "relegations": 0,
       "stayed": 6,
@@ -3884,17 +3884,17 @@
           "pointsAgainst": 21
         },
         {
-          "opponentId": 41,
-          "opponentName": "Matthew Takeuchi",
+          "opponentId": 3,
+          "opponentName": "Richard Beales",
           "played": 4,
-          "wins": 0,
-          "losses": 4,
-          "pointsFor": 22,
-          "pointsAgainst": 38
+          "wins": 2,
+          "losses": 2,
+          "pointsFor": 29,
+          "pointsAgainst": 31
         }
       ],
-      "tennisPointsFor": 346,
-      "tennisPointsAgainst": 404,
+      "tennisPointsFor": 350,
+      "tennisPointsAgainst": 415,
       "timeline": [
         {
           "eventId": 1,
@@ -4477,10 +4477,18 @@
           "withdrawn": false,
           "position": 5,
           "wins": 0,
-          "losses": 3,
-          "leaguePoints": 12,
+          "losses": 4,
+          "leaguePoints": 16,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 3,
+              "opponentName": "Richard Beales",
+              "outcome": "loss",
+              "pointsFor": 4,
+              "pointsAgainst": 11,
+              "scoreText": "4-11"
+            },
             {
               "opponentId": 10,
               "opponentName": "Nicholas Suggit",
@@ -35155,9 +35163,9 @@
       "playerId": 3,
       "name": "Richard Beales",
       "totalRounds": 15,
-      "totalWins": 20,
+      "totalWins": 21,
       "totalLosses": 63,
-      "winRate": 0.241,
+      "winRate": 0.25,
       "promotions": 3,
       "relegations": 5,
       "stayed": 6,
@@ -35200,8 +35208,8 @@
           "pointsAgainst": 63
         }
       ],
-      "tennisPointsFor": 500,
-      "tennisPointsAgainst": 756,
+      "tennisPointsFor": 511,
+      "tennisPointsAgainst": 760,
       "timeline": [
         {
           "eventId": 1,
@@ -36198,12 +36206,20 @@
           "groupNumber": 3,
           "groupSize": 9,
           "withdrawn": false,
-          "position": 4,
-          "wins": 1,
+          "position": 3,
+          "wins": 2,
           "losses": 1,
-          "leaguePoints": 12,
+          "leaguePoints": 23,
           "leaguePointsAgainst": null,
           "matchups": [
+            {
+              "opponentId": 72,
+              "opponentName": "Anthony Boobbyer",
+              "outcome": "win",
+              "pointsFor": 11,
+              "pointsAgainst": 4,
+              "scoreText": "11-4"
+            },
             {
               "opponentId": 10,
               "opponentName": "Nicholas Suggit",
